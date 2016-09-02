@@ -1,0 +1,934 @@
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延冰' ,MobilePhone = N'13665432966' ,HomePhone = N'4355744' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南一排西五户'WHERE UserId = 5567 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树刚' ,HomePhone = N'15965266851' ,[Address] = N'博兴县南区店子站02大刘村平房无(1725)'WHERE UserId = 5568 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张秀芳' ,MobilePhone = N'13754685952' ,[Address] = N'邹平县13鹤伴二路以南和润家园3#楼2-1402'WHERE UserId = 5613 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享608' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓608'WHERE UserId = 5614 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建永' ,MobilePhone = N'15066936727' ,HomePhone = N'3419286' ,[Address] = N'滨州市直杜店镇张肖堂村平房085号'WHERE UserId = 5676 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑林' ,MobilePhone = N'13954381819' ,HomePhone = N'15964065616' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(7055)'WHERE UserId = 5677 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李金周' ,MobilePhone = N'13563099739' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑4#3单元1002'WHERE UserId = 5678 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王树岳' ,MobilePhone = N'15066994246' ,HomePhone = N'无' ,[Address] = N'阳信县西部温店油王一排014'WHERE UserId = 5679 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑忠' ,MobilePhone = N'13561560688' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北二排西七户'WHERE UserId = 5680 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王斌' ,MobilePhone = N'18763046431' ,HomePhone = N'15550232351' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(0494)'WHERE UserId = 5681 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩学文' ,MobilePhone = N'13082727689' ,HomePhone = N'13589413318' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）4#2单元1101'WHERE UserId = 5682 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王允泉' ,MobilePhone = N'13906491463' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南一排西一户'WHERE UserId = 5693 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李洪利' ,MobilePhone = N'13563074545' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）10#2单元1202'WHERE UserId = 5694 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邢娜娜' ,MobilePhone = N'13336296093' ,HomePhone = N'13506376093' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）16#2单元902'WHERE UserId = 5697 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李金英' ,HomePhone = N'15314361636' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区079号'WHERE UserId = 5699 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴长河' ,MobilePhone = N'13406246321' ,HomePhone = N'18954329118' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区055号'WHERE UserId = 5704 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马振勋' ,MobilePhone = N'13505433142' ,HomePhone = N'13854323239' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区092号'WHERE UserId = 5705 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴金海' ,MobilePhone = N'18954329089' ,HomePhone = N'15854360316' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区037号'WHERE UserId = 5706 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李金国' ,HomePhone = N'15065213076' ,[Address] = N'无棣县北区马山子镇岔尖一村平房区有线(4120)'WHERE UserId = 5707 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张长在' ,HomePhone = N'13562303182' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区076号'WHERE UserId = 5708 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴忠安' ,HomePhone = N'13505433597' ,[Address] = N'无棣县北区马山子镇付山子街楼平房区006号'WHERE UserId = 5709 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜希树' ,MobilePhone = N'15866663411' ,HomePhone = N'18706498452' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区120号'WHERE UserId = 5710 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张茂春' ,HomePhone = N'15006933949' ,[Address] = N'无棣县北区马山子镇岔尖一村平房区016号'WHERE UserId = 5711 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋宝清' ,MobilePhone = N'15954303621' ,HomePhone = N'15954303621' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区088号'WHERE UserId = 5712 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'秦清岳' ,HomePhone = N'15066903575' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区111号'WHERE UserId = 5713 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨清龙' ,HomePhone = N'13406233545' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区039号'WHERE UserId = 5714 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜春魁' ,HomePhone = N'6571196' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区103号'WHERE UserId = 5715 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴金国' ,MobilePhone = N'18354321311' ,HomePhone = N'6571078' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区029号'WHERE UserId = 5716 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'路用兰' ,HomePhone = N'15066970422' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区有线(0283)'WHERE UserId = 5717 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李金邦' ,HomePhone = N'6571030' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区033号'WHERE UserId = 5718 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邱振成' ,MobilePhone = N'15254396915' ,HomePhone = N'15065263831' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区024号'WHERE UserId = 5719 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王俊如' ,HomePhone = N'0000000' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(6178)'WHERE UserId = 5720 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享610' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓8'WHERE UserId = 5721 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴嘎' ,MobilePhone = N'15169905973' ,HomePhone = N'13854381975' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(7390)'WHERE UserId = 5722 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王惊晓1队' ,MobilePhone = N'13954311466' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王惊晓'WHERE UserId = 5732 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王镇' ,HomePhone = N'15905438090' ,[Address] = N'滨州市直黄河01路秀水花园1#2单元1001'WHERE UserId = 5737 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王开锋1队' ,HomePhone = N'4328059' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王开锋'WHERE UserId = 5738 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王纪森' ,MobilePhone = N'13963081122' ,HomePhone = N'18954326233' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西十二户'WHERE UserId = 5739 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延刚1队' ,MobilePhone = N'15065261855' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王延刚'WHERE UserId = 5740 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田邦金' ,HomePhone = N'4699651' ,[Address] = N'邹平县36台子镇北苏村平房无(8256)'WHERE UserId = 5741 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李月勇' ,MobilePhone = N'18605436616' ,HomePhone = N'13906493385' ,[Address] = N'滨州市直黄河08路御景苑15#1单元3001'WHERE UserId = 5743 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王琴1队' ,MobilePhone = N'13561520557' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(0435)'WHERE UserId = 5744 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延森3队' ,HomePhone = N'0000000' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村三队王延森'WHERE UserId = 5745 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张松松' ,MobilePhone = N'13954390716' ,[Address] = N'滨州市直杜店镇张肖堂村平房98号'WHERE UserId = 5746 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王招娣' ,MobilePhone = N'18654350678' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西十六户'WHERE UserId = 5747 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'魏剑波' ,MobilePhone = N'15130025319' ,HomePhone = N'00000000' ,[Address] = N'邹平县16黄山办（东）小杨堤10#楼1-402'WHERE UserId = 5748 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑木1队' ,MobilePhone = N'15964491897' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王淑木'WHERE UserId = 5749 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享103' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓50'WHERE UserId = 5605 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'庄子刘办公室' ,MobilePhone = N'13406168818' ,[Address] = N'滨城区旧镇(南城三片区)庄子刘平房047'WHERE UserId = 5615 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李殿波' ,MobilePhone = N'13054661812' ,HomePhone = N'13561516827' ,[Address] = N'博兴县北区陈户站05闫陈新村平房东单元1楼东户'WHERE UserId = 5616 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'任刘赵办公室' ,MobilePhone = N'13396492897' ,[Address] = N'滨城区旧镇(南城三片区)任刘赵平房052'WHERE UserId = 5617 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享609' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓7'WHERE UserId = 5618 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高彭庄办公室' ,MobilePhone = N'15054338203' ,[Address] = N'滨城区旧镇(南城三片区)高彭庄平房003'WHERE UserId = 5619 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋彬' ,MobilePhone = N'13792286521' ,HomePhone = N'13754676497' ,[Address] = N'博兴县北区陈户站05闫陈新村平房4单元401'WHERE UserId = 5620 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张黎娜' ,MobilePhone = N'13605430110' ,HomePhone = N'13395438808' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）15#1单元1202'WHERE UserId = 5621 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'仇培军' ,MobilePhone = N'13455795545' ,HomePhone = N'无' ,[Address] = N'邹平县31韩店镇邱家村平房无(4695)'WHERE UserId = 5622 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田守仁' ,MobilePhone = N'18605431826' ,HomePhone = N'3629906' ,[Address] = N'滨城区旧镇(南城三片区)田楼西田楼社区2#01单元2层02房间'WHERE UserId = 5623 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张殿滨' ,MobilePhone = N'13406249836' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#3单元401'WHERE UserId = 5624 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王德浩' ,HomePhone = N'15866657255' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）3#1单元1502'WHERE UserId = 5625 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴会昌' ,MobilePhone = N'4587022' ,HomePhone = N'无' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(3500)'WHERE UserId = 5626 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李永波' ,HomePhone = N'13854350011' ,[Address] = N'博兴县北区陈户站05闫陈新村平房东单元1楼西户'WHERE UserId = 5627 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'贾小龙' ,MobilePhone = N'15854399543' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑4#1单元601'WHERE UserId = 5628 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘以永' ,MobilePhone = N'15020581106' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北三排西三户'WHERE UserId = 5629 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延恩' ,MobilePhone = N'15553361193' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(5855)'WHERE UserId = 5630 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张俊娥' ,MobilePhone = N'18763079079' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）9#1单元701'WHERE UserId = 5631 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王增' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(7532)'WHERE UserId = 5632 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴学峰' ,HomePhone = N'15954370880' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(4593)'WHERE UserId = 5633 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王纪元1' ,MobilePhone = N'18606496865' ,HomePhone = N'4354202' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西三户'WHERE UserId = 5634 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'魏存明' ,MobilePhone = N'18860589670' ,HomePhone = N'15666216190 1375' ,[Address] = N'博兴县北区陈户站05闫陈新村平房3单元2楼西户'WHERE UserId = 5635 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴树增1' ,HomePhone = N'13563051754' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(4602)'WHERE UserId = 5636 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑燕' ,MobilePhone = N'15306497588' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(1182)'WHERE UserId = 5637 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王武英（赵桂芬）' ,MobilePhone = N'18754300288' ,HomePhone = N'15054341100' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西五户'WHERE UserId = 5638 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延田' ,MobilePhone = N'13515433308' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北二排西五户'WHERE UserId = 5640 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙桂兰' ,MobilePhone = N'18364953357' ,[Address] = N'无棣县东区东城区棣新六路东山东汇泰置业有限公司264户02号楼3单元501'WHERE UserId = 5641 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨志国' ,MobilePhone = N'15206876821' ,HomePhone = N'15206876181' ,[Address] = N'博兴县北区陈户站05官闫润和居1#1单元201'WHERE UserId = 5642 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张吉风' ,MobilePhone = N'15964069294' ,HomePhone = N'15964069294' ,[Address] = N'滨州市直杜店镇张肖堂村平房105号'WHERE UserId = 5643 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王振宗' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(0582)'WHERE UserId = 5644 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'武传太' ,MobilePhone = N'13406186312' ,HomePhone = N'0' ,[Address] = N'博兴县北区陈户站05闫陈新村平房3单元2楼东户'WHERE UserId = 5645 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张晓龙' ,HomePhone = N'13884866109' ,[Address] = N'博兴县北区陈户站05闫陈新村平房西单元5楼东户'WHERE UserId = 5692 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王纪友1队' ,MobilePhone = N'13792277134' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队'WHERE UserId = 5751 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周法星2' ,HomePhone = N'13854331419' ,[Address] = N'邹平县35码头镇码一村平房修轮胎'WHERE UserId = 5776 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王纪民1队' ,MobilePhone = N'18765095717' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(6267)'WHERE UserId = 5777 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延群1队' ,MobilePhone = N'13954391732' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村1#楼1-101'WHERE UserId = 5778 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田南' ,HomePhone = N'15854325276' ,[Address] = N'滨城区旧镇(南城三片区)田楼西田楼社区2#01单元4层02房间'WHERE UserId = 5779 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑杰1队' ,MobilePhone = N'13562310953' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(6023)'WHERE UserId = 5780 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'封赞祥' ,MobilePhone = N'18763076006' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）6#3单元601'WHERE UserId = 5781 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'程树生' ,MobilePhone = N'18769630027' ,HomePhone = N'18769632793' ,[Address] = N'邹平县19黛溪办（西）西苑小区1#楼2-101'WHERE UserId = 5782 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王允友1队' ,MobilePhone = N'15553376036' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王允友'WHERE UserId = 5784 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王真真(租户)' ,HomePhone = N'17864382982' ,[Address] = N'滨城区郊区(郊区一片区)玉龙湖畔13#楼2单元402-2'WHERE UserId = 5785 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王迎亮' ,MobilePhone = N'13665438234' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排路西二楼'WHERE UserId = 5786 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王玉凤' ,HomePhone = N'15006968956' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）2#1单元1101'WHERE UserId = 5790 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王菲1队' ,MobilePhone = N'13963075923' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队153号王菲'WHERE UserId = 5844 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'尹艳豹' ,MobilePhone = N'13562320266' ,[Address] = N'邹平县13鹤伴二路以南和润家园3#楼2-302'WHERE UserId = 5845 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉会' ,MobilePhone = N'13561507784' ,HomePhone = N'15224385183' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房55'WHERE UserId = 5846 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘磊' ,MobilePhone = N'18654320927' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层西单元9楼东户'WHERE UserId = 5609 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李长亮' ,MobilePhone = N'15154613190' ,HomePhone = N'13280327065' ,[Address] = N'博兴县北区陈户站05闫陈新村平房3单元4楼东户'WHERE UserId = 5610 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享504' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓6'WHERE UserId = 5611 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑家' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(8004)'WHERE UserId = 5687 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王斯斯' ,MobilePhone = N'13854321615' ,HomePhone = N'15564338288' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北三排西四户'WHERE UserId = 5688 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王光' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(6299)'WHERE UserId = 5689 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张亚国' ,MobilePhone = N'18769633582' ,HomePhone = N'3404295' ,[Address] = N'滨州市直杜店镇张肖堂村平房128号'WHERE UserId = 5696 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘同德' ,HomePhone = N'13954353718' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区129号'WHERE UserId = 5698 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨国兴' ,HomePhone = N'6571051' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区091号'WHERE UserId = 5700 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨国栋' ,HomePhone = N'6571123' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区007号'WHERE UserId = 5701 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'时春华' ,HomePhone = N'13455773825' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区有线(5078)'WHERE UserId = 5702 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴忠安' ,HomePhone = N'13505433597' ,[Address] = N'无棣县北区马山子镇北海家园_(1618)'WHERE UserId = 5703 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙启良' ,MobilePhone = N'15066910302' ,HomePhone = N'15621578063' ,[Address] = N'邹平县29明集镇柴家村（张嘎）8#楼3-502'WHERE UserId = 5723 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'活动室享604' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓60'WHERE UserId = 5724 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴象栋' ,HomePhone = N'13562331459' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(6241)'WHERE UserId = 5725 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李作山' ,MobilePhone = N'13475072300' ,[Address] = N'邹平县36台子镇中心社区6#楼2-101'WHERE UserId = 5726 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'范树台' ,MobilePhone = N'15206886791' ,[Address] = N'阳信县中部翟王西范村46'WHERE UserId = 5727 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑凯1队' ,MobilePhone = N'13854391228' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王淑凯'WHERE UserId = 5728 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享204' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓9'WHERE UserId = 5729 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张江北' ,MobilePhone = N'15854308098' ,HomePhone = N'3404197' ,[Address] = N'滨州市直杜店镇张肖堂村平房108号'WHERE UserId = 5730 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'苗淑芳' ,MobilePhone = N'13563078699' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）3#2单元902'WHERE UserId = 5731 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高雨' ,MobilePhone = N'13475059429' ,HomePhone = N'15964067000' ,[Address] = N'邹平县13鹤伴二路以南腾辉书香苑6#楼1-302'WHERE UserId = 5733 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连东1队' ,MobilePhone = N'15965408884' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王连东'WHERE UserId = 5734 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘福磊' ,HomePhone = N'15954331688' ,[Address] = N'滨州市直黄河02路莱钢新高都1#1单元1801'WHERE UserId = 5735 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑国' ,MobilePhone = N'13706371284' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排东数第六户'WHERE UserId = 5736 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王宗良' ,MobilePhone = N'13805438048' ,[Address] = N'滨州市直黄河08路御景苑15#1单元903'WHERE UserId = 5792 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'北新庄办公室' ,MobilePhone = N'15965263577' ,[Address] = N'滨城区旧镇(南城三片区)北新庄平房114'WHERE UserId = 5794 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'坡刘办公室' ,MobilePhone = N'13905434257' ,[Address] = N'滨城区旧镇(南城三片区)坡刘平房026'WHERE UserId = 5795 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李廷庄办公室' ,MobilePhone = N'13562345809' ,[Address] = N'滨城区小营(南城二片区)李廷庄平房084'WHERE UserId = 5796 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杠子张办公室' ,MobilePhone = N'13280411111' ,[Address] = N'滨城区小营(南城二片区)杠子张平房090'WHERE UserId = 5798 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴本清' ,HomePhone = N'4585016' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(8786)'WHERE UserId = 5799 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙法泉' ,HomePhone = N'4587679' ,[Address] = N'邹平县29明集镇柴家村（张嘎）开发区无(5453)'WHERE UserId = 5800 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴象华' ,HomePhone = N'4587686' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(7420)'WHERE UserId = 5801 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘春华' ,MobilePhone = N'13326287097' ,HomePhone = N'13589417795' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房023号'WHERE UserId = 5802 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张继松' ,MobilePhone = N'13561574996' ,HomePhone = N'00000000' ,[Address] = N'滨城区小营(南城一片区)龙城名郡29#楼2单元501'WHERE UserId = 5803 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘纪华' ,MobilePhone = N'13306496377' ,HomePhone = N'15553382668' ,[Address] = N'博兴县城区3号社区名士豪庭广播局4#东3单元7楼东户'WHERE UserId = 5804 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘元峰' ,HomePhone = N'15854317807' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房008号'WHERE UserId = 5805 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希根' ,MobilePhone = N'15166806097' ,[Address] = N'滨州市直杜店镇张肖堂村平房148号'WHERE UserId = 5806 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉军' ,MobilePhone = N'18706492281' ,HomePhone = N'15254324965' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房021号'WHERE UserId = 5807 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘元东' ,MobilePhone = N'15066951299' ,HomePhone = N'15006951299' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房018号'WHERE UserId = 5808 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张永堂' ,HomePhone = N'13326290418' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房73'WHERE UserId = 5810 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李延起' ,MobilePhone = N'15306497450' ,HomePhone = N'15318210909' ,[Address] = N'邹平县35码头镇码一村平房无(9867)'WHERE UserId = 5811 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张文同' ,MobilePhone = N'15254372001' ,HomePhone = N'15254372001' ,[Address] = N'博兴县北区陈户站01张官村平房无(9584)'WHERE UserId = 5812 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉贤' ,HomePhone = N'5766212' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房006号'WHERE UserId = 5813 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘常华' ,HomePhone = N'13589737319' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房010号'WHERE UserId = 5815 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张凯' ,MobilePhone = N'18678181101' ,HomePhone = N'4877181' ,[Address] = N'邹平县24焦桥镇兴隆村平房无(3869)'WHERE UserId = 5816 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘登伟' ,HomePhone = N'15910065876' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房025'WHERE UserId = 5817 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'潘淑明' ,MobilePhone = N'15263003001' ,HomePhone = N'15266751826' ,[Address] = N'滨州市直黄河02路五四鑫苑4#2单元601'WHERE UserId = 5648 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希民' ,HomePhone = N'3404257' ,[Address] = N'滨州市直杜店镇张肖堂村平房104号'WHERE UserId = 5649 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李贤前' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南腾辉书香苑6#楼2-1202'WHERE UserId = 5650 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延东' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(5103)'WHERE UserId = 5652 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李克胜' ,HomePhone = N'13475050213' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区082号'WHERE UserId = 5653 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑霞' ,MobilePhone = N'13706374545' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西六户'WHERE UserId = 5654 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李学华' ,MobilePhone = N'18266498969' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭11#3单元1602'WHERE UserId = 5655 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑地' ,MobilePhone = N'13475070625' ,HomePhone = N'13561581460' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(7049)'WHERE UserId = 5656 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王强' ,MobilePhone = N'13963089622' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北二排东数第四户'WHERE UserId = 5657 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延玖' ,MobilePhone = N'15965408355' ,HomePhone = N'15550214040' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(7061)'WHERE UserId = 5658 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张吉永' ,MobilePhone = N'13754690691' ,HomePhone = N'13505432840' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(8770)'WHERE UserId = 5659 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔连军' ,MobilePhone = N'13954359721' ,HomePhone = N'13792257826' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层01单元10层中户'WHERE UserId = 5660 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张超' ,MobilePhone = N'18364997453' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区6#楼1-502'WHERE UserId = 5661 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑安' ,MobilePhone = N'13854304169' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西七户'WHERE UserId = 5662 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'鄢圣建' ,MobilePhone = N'13754675583' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北二排西一户'WHERE UserId = 5663 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王树生' ,MobilePhone = N'15563033317' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西八户'WHERE UserId = 5664 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑友' ,MobilePhone = N'13906491761' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(7037)'WHERE UserId = 5665 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张松松' ,MobilePhone = N'13561549759' ,[Address] = N'邹平县36台子镇中心社区9#楼2-101'WHERE UserId = 5666 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树广' ,HomePhone = N'15154327246' ,[Address] = N'博兴县南区店子站02大刘村平房无(2895)'WHERE UserId = 5667 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田学芹' ,MobilePhone = N'13665431819' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(1153)'WHERE UserId = 5668 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王振（三园三区10-1-601）' ,MobilePhone = N'13475053947' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼2-1502'WHERE UserId = 5669 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'仇卫东' ,MobilePhone = N'15725430139' ,HomePhone = N'无' ,[Address] = N'邹平县31韩店镇邱家村平房无(4791)'WHERE UserId = 5670 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘庆义' ,MobilePhone = N'15169911698' ,HomePhone = N'15169911698' ,[Address] = N'邹平县14邹平魏桥创业三园三区4#楼1-302'WHERE UserId = 5671 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑平' ,MobilePhone = N'13563091171' ,HomePhone = N'15865202114' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西九户'WHERE UserId = 5672 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李彩云' ,MobilePhone = N'13793878180' ,HomePhone = N'13256494485' ,[Address] = N'滨州市直黄河02路五四鑫苑4#1单元1502'WHERE UserId = 5683 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹伯会' ,HomePhone = N'4761308' ,[Address] = N'邹平县35码头镇码一村平房无(3611)'WHERE UserId = 5684 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑本' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(3881)'WHERE UserId = 5685 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思凯' ,MobilePhone = N'15965433206' ,HomePhone = N'15254314407' ,[Address] = N'滨州市直杜店镇张肖堂村平房038号'WHERE UserId = 5686 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李山山' ,MobilePhone = N'18206567710' ,HomePhone = N'15065218542' ,[Address] = N'滨州市直黄河02路五四鑫苑3#3单元1401'WHERE UserId = 5690 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张合明' ,HomePhone = N'3404193' ,[Address] = N'滨州市直杜店镇张肖堂村平房013号'WHERE UserId = 5695 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王宗禄' ,MobilePhone = N'18265751682' ,[Address] = N'邹平县21高新办司家村（张克）7#楼4-402'WHERE UserId = 5791 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹立明' ,HomePhone = N'13696300733' ,[Address] = N'邹平县35码头镇码一村平房无(3638)'WHERE UserId = 5818 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王春山' ,MobilePhone = N'13176287617' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(3957)'WHERE UserId = 5819 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郭勇' ,MobilePhone = N'13563091098' ,[Address] = N'邹平县12鹤伴二路以北文体大院2#楼1单元301室'WHERE UserId = 5820 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘国星' ,MobilePhone = N'15206896575' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房35号'WHERE UserId = 5821 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘元美' ,HomePhone = N'15954717791' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房67'WHERE UserId = 5822 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'胡建军3队' ,MobilePhone = N'13954381083' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(2574)'WHERE UserId = 5823 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑财1队' ,MobilePhone = N'13561521693' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王淑才'WHERE UserId = 5824 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'于新永' ,HomePhone = N'13562329920' ,[Address] = N'滨州市直黄河02路五四鑫苑4#1单元701'WHERE UserId = 5825 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王学光1队' ,MobilePhone = N'13562330743' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(0670)'WHERE UserId = 5826 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑平1队' ,MobilePhone = N'18206564822' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(4520)'WHERE UserId = 5827 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李延军' ,HomePhone = N'15154300984' ,[Address] = N'邹平县35码头镇码一村平房无(3665)'WHERE UserId = 5829 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵金忠' ,MobilePhone = N'13563081994' ,[Address] = N'邹平县18黄山办（西）抱印村平房无(2865)'WHERE UserId = 5830 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付春花' ,MobilePhone = N'15376497650' ,HomePhone = N'18364920651' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区003号'WHERE UserId = 5831 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘素芹' ,MobilePhone = N'13792292141' ,[Address] = N'邹平县36台子镇中心社区9#楼2-202'WHERE UserId = 5832 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'单秀娟1队' ,MobilePhone = N'18754341158' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(1028)'WHERE UserId = 5833 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉勇' ,MobilePhone = N'18706628338' ,HomePhone = N'15006937693' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房82'WHERE UserId = 5834 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕爱成' ,MobilePhone = N'15266772204' ,[Address] = N'滨州市直黄河02路五四鑫苑4#2单元1601'WHERE UserId = 5835 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王学敏' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(0418)'WHERE UserId = 5673 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王明1' ,MobilePhone = N'15266775144' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北二排东一户'WHERE UserId = 5674 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑龙' ,MobilePhone = N'15964061861' ,HomePhone = N'15315431802' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西十户'WHERE UserId = 5675 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵燕玲' ,MobilePhone = N'13589420754' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村北街3队'WHERE UserId = 5783 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑亮1队' ,MobilePhone = N'13706379480' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王淑亮'WHERE UserId = 5836 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘勇' ,MobilePhone = N'13854300645' ,HomePhone = N'13258900843' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村沿街房江北渔村三楼西户'WHERE UserId = 5838 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹曰街' ,HomePhone = N'15854379344' ,[Address] = N'邹平县35码头镇码一村平房无(5664)'WHERE UserId = 5839 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王晓光1队' ,MobilePhone = N'13326292982' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(1378)'WHERE UserId = 5840 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘常林' ,HomePhone = N'5766128' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房002号'WHERE UserId = 5841 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张永强' ,MobilePhone = N'15963075765' ,HomePhone = N'18266573436' ,[Address] = N'滨州市直杜店镇张肖堂村平房065号'WHERE UserId = 5842 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王向同1队' ,MobilePhone = N'13589421908' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(6280)'WHERE UserId = 5843 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建领' ,MobilePhone = N'18754367115' ,[Address] = N'滨州市直杜店镇张肖堂村平房144号'WHERE UserId = 5847 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张军华' ,MobilePhone = N'15762194894' ,[Address] = N'滨州市直杜店镇张肖堂村平房9801'WHERE UserId = 5848 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王纪新1队' ,MobilePhone = N'15054331437' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(0707)'WHERE UserId = 5849 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘长江' ,MobilePhone = N'18762096919' ,HomePhone = N'18266561996' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房36'WHERE UserId = 5850 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘玉美' ,MobilePhone = N'13562319796' ,[Address] = N'滨州市直黄河02路五四鑫苑4#1单元1202'WHERE UserId = 5851 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'初传江' ,MobilePhone = N'13793856172' ,HomePhone = N'15606499555+1325' ,[Address] = N'博兴县中区博兴镇05东上疃平房无(6280)'WHERE UserId = 5852 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王正久金' ,MobilePhone = N'15954375142' ,HomePhone = N'15969991512' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）9#2单元1402'WHERE UserId = 5853 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王纪合1队' ,HomePhone = N'4325217' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王纪合'WHERE UserId = 5854 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴长春' ,MobilePhone = N'18954396665' ,[Address] = N'滨城区郊区(郊区四片区)滨岭观海花园24#楼03单元2层01房间'WHERE UserId = 5855 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘常民' ,MobilePhone = N'13455787422' ,HomePhone = N'18354379551' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房017号'WHERE UserId = 5856 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张振华' ,MobilePhone = N'13561565572' ,HomePhone = N'13561565572' ,[Address] = N'滨州市直杜店镇张肖堂村平房140'WHERE UserId = 5858 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王强' ,MobilePhone = N'13854342768' ,[Address] = N'邹平县13鹤伴二路以南和润家园3#楼2-1702'WHERE UserId = 5859 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕爱忠' ,HomePhone = N'15065247870' ,[Address] = N'滨城区里则(里则三片区)吕后平房130'WHERE UserId = 5861 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉刚' ,MobilePhone = N'15054306196' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房88'WHERE UserId = 5862 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴迎春' ,MobilePhone = N'15762177336' ,HomePhone = N'17862027212' ,[Address] = N'滨州市直黄河02路五四鑫苑4#2单元402'WHERE UserId = 5863 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'徐加新' ,MobilePhone = N'15966351908' ,HomePhone = N'15966351908' ,[Address] = N'邹平县35码头镇其他零星户_(2031)'WHERE UserId = 5864 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高立俊' ,HomePhone = N'13605433659' ,[Address] = N'无棣县西区西城区香榭里西大街馨韵小区A-13号楼2单元202'WHERE UserId = 5865 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马秀文' ,MobilePhone = N'13505433142' ,[Address] = N'无棣县北区马山子镇岔尖一村平房区8888'WHERE UserId = 5866 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘庆娥' ,HomePhone = N'13866848985' ,[Address] = N'滨州市直杜店镇张肖堂村平房011号'WHERE UserId = 5867 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王宝民' ,HomePhone = N'13562318061' ,[Address] = N'滨州市直黄河02路五四鑫苑4#3单元1001'WHERE UserId = 5868 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'黄敏香' ,MobilePhone = N'13455433570' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）6#3单元401'WHERE UserId = 5869 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'霍冠华' ,MobilePhone = N'13954318677' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）9#1单元1202'WHERE UserId = 5871 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付同山' ,MobilePhone = N'18364920688' ,HomePhone = N'13589703808' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区017号'WHERE UserId = 5872 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周学磊' ,MobilePhone = N'13589418002' ,HomePhone = N'15854323403' ,[Address] = N'滨州市直杜店镇张肖堂村平房042号'WHERE UserId = 5875 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘希辉' ,HomePhone = N'13475437603' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房71'WHERE UserId = 5880 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘长春' ,HomePhone = N'18765096914' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房031号'WHERE UserId = 5881 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘长喜' ,HomePhone = N'13954355258 1525' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房030号'WHERE UserId = 5882 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘长顺' ,HomePhone = N'15806895508' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房81'WHERE UserId = 5883 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'盖连友' ,MobilePhone = N'15254337327' ,HomePhone = N'15554313484' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房032号'WHERE UserId = 5884 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘长柱' ,HomePhone = N'15065222961' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房022号'WHERE UserId = 5885 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁希贤' ,HomePhone = N'13626492791' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房203号'WHERE UserId = 5889 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'金云祥' ,MobilePhone = N'15954367282' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房40'WHERE UserId = 5890 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延波2队' ,MobilePhone = N'15065200731' ,HomePhone = N'00000' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村王延波二队'WHERE UserId = 5891 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑平2队' ,MobilePhone = N'13954361097' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王淑平'WHERE UserId = 5892 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延庆1队' ,MobilePhone = N'13562301706' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王延庆'WHERE UserId = 5753 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李宝城' ,MobilePhone = N'15966578702' ,[Address] = N'邹平县10月河三路以东幸福花园2#楼1-1301'WHERE UserId = 5754 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建路' ,MobilePhone = N'13561539766' ,[Address] = N'滨州市直杜店镇张肖堂村平房043号'WHERE UserId = 5755 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'徐四办公室' ,MobilePhone = N'15263015788' ,[Address] = N'滨城区旧镇(南城三片区)徐四平房037'WHERE UserId = 5756 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希凯' ,HomePhone = N'13561594022' ,[Address] = N'滨州市直杜店镇张肖堂村平房109号'WHERE UserId = 5757 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李翠香' ,MobilePhone = N'13563069329' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）7#1单元1501'WHERE UserId = 5758 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王金磊' ,MobilePhone = N'13406170705' ,HomePhone = N'15318206683' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西十三户楼下'WHERE UserId = 5759 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张猛' ,MobilePhone = N'15954371388' ,HomePhone = N'00000000' ,[Address] = N'邹平县15高新办（东）新民庄园9#-31-601'WHERE UserId = 5760 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李延宾' ,HomePhone = N'15966354254' ,[Address] = N'邹平县35码头镇码一村平房无(5667)'WHERE UserId = 5762 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑浩1队' ,MobilePhone = N'13563064367' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王淑浩'WHERE UserId = 5763 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建杰' ,MobilePhone = N'15054318398' ,HomePhone = N'15054318398 1506' ,[Address] = N'滨州市直杜店镇张肖堂村平房001号'WHERE UserId = 5764 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑宝1队' ,HomePhone = N'6986321' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王淑宝'WHERE UserId = 5765 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹伯建' ,MobilePhone = N'15065231945' ,HomePhone = N'13793880234' ,[Address] = N'邹平县35码头镇码一村平房_(5016)'WHERE UserId = 5766 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王少华1队' ,HomePhone = N'4320353' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王少华'WHERE UserId = 5767 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'魏兆刚' ,HomePhone = N'15954329924' ,[Address] = N'邹平县24焦桥镇兴隆村平房无(3304)'WHERE UserId = 5768 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张宁' ,HomePhone = N'13854311405' ,[Address] = N'滨州市直黄河02路莱钢新高都5#1单元1802'WHERE UserId = 5769 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑达1队' ,MobilePhone = N'13754694698' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(2348)'WHERE UserId = 5770 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李红刚' ,HomePhone = N'13854338550' ,[Address] = N'滨州市直黄河04路万科小区1#2单元202'WHERE UserId = 5771 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘桂英1队' ,MobilePhone = N'13561511432' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队刘桂英'WHERE UserId = 5772 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'游小明' ,MobilePhone = N'13954335242' ,HomePhone = N'15066927175' ,[Address] = N'滨州市直黄河05路安顺小区4#2单元102'WHERE UserId = 5773 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张秋华' ,MobilePhone = N'15554377931' ,HomePhone = N'15762189565' ,[Address] = N'滨州市直杜店镇张肖堂村平房022号'WHERE UserId = 5774 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王晨光1队' ,MobilePhone = N'13706379380' ,HomePhone = N'13706379380' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王晨光'WHERE UserId = 5775 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李霞' ,MobilePhone = N'13805430830' ,[Address] = N'滨城区旧镇(南城三片区)田楼西沿街沿街03房间'WHERE UserId = 5787 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田付忠' ,HomePhone = N'13406258858' ,[Address] = N'滨城区旧镇(南城三片区)田楼西田楼社区4#03单元1层02房间'WHERE UserId = 5788 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵顺' ,MobilePhone = N'13963080717' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西沿街房一楼'WHERE UserId = 5789 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'冀秋英' ,MobilePhone = N'15266766826' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区天元中心星光城6#1单元103'WHERE UserId = 5793 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁建亭' ,HomePhone = N'13906492977' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房188号'WHERE UserId = 5918 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王震2队' ,HomePhone = N'2180821' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王震'WHERE UserId = 5920 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王雁3.3 5-1-1602' ,MobilePhone = N'13515433121' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业二园二区12#楼1-1702'WHERE UserId = 5921 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'侯立春' ,HomePhone = N'13280416664' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房003号'WHERE UserId = 5922 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱学亮' ,HomePhone = N'15966382059' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房044号'WHERE UserId = 5923 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王宝金' ,MobilePhone = N'15054341100' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北一排西四户'WHERE UserId = 5925 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱明新' ,MobilePhone = N'18054512120' ,HomePhone = N'0' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房018号'WHERE UserId = 5926 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王俊清2队' ,MobilePhone = N'13605431474' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(9507)'WHERE UserId = 5927 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘磊' ,HomePhone = N'15065225231' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房020号'WHERE UserId = 5928 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王秀娟' ,MobilePhone = N'13954361105' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区6#楼103'WHERE UserId = 5929 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕炳芝' ,MobilePhone = N'13906492977' ,HomePhone = N'13854352495' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房173号'WHERE UserId = 5930 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'候明德' ,HomePhone = N'3715814' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房130号'WHERE UserId = 5932 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉生' ,MobilePhone = N'13954364226' ,HomePhone = N'13854383152' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房013号'WHERE UserId = 5933 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张志友' ,MobilePhone = N'13793885405' ,HomePhone = N'4872882' ,[Address] = N'邹平县24焦桥镇兴隆村平房无(3280)'WHERE UserId = 5934 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁希伟' ,MobilePhone = N'15254321911' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路大祥金廷公馆5#3单元801'WHERE UserId = 5935 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘建强' ,HomePhone = N'15065257782' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房026号'WHERE UserId = 5936 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王万里2队' ,MobilePhone = N'13706377516' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王万里'WHERE UserId = 5937 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱兆辉（王艳青）' ,HomePhone = N'3715914' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房022号'WHERE UserId = 5938 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希根' ,HomePhone = N'3403909' ,[Address] = N'滨州市直杜店镇张肖堂村平房025号'WHERE UserId = 5870 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'时元学' ,HomePhone = N'13754675488' ,[Address] = N'邹平县35码头镇其他零星户开发区路南'WHERE UserId = 5873 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李连华' ,MobilePhone = N'13954328546' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑4#1单元401'WHERE UserId = 5874 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王克煊' ,MobilePhone = N'15305431270' ,HomePhone = N'15305431270' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）15#1单元1801'WHERE UserId = 5876 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'新兴办公室' ,MobilePhone = N'15865215222' ,[Address] = N'滨城区小营(南城二片区)新兴平房093'WHERE UserId = 5877 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'西齐办公室' ,MobilePhone = N'13563078162' ,[Address] = N'滨城区小营(南城二片区)西齐平房123'WHERE UserId = 5878 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'后陈办公室' ,MobilePhone = N'15054358011' ,[Address] = N'滨城区小营(南城二片区)后陈家平房039'WHERE UserId = 5879 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王正旭' ,MobilePhone = N'15154350300' ,HomePhone = N'15065285037' ,[Address] = N'邹平县35码头镇码一村平房延码路种子化肥'WHERE UserId = 5886 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张长泉' ,MobilePhone = N'15550268911' ,HomePhone = N'13696309702' ,[Address] = N'邹平县35码头镇码一村平房无(5147)'WHERE UserId = 5909 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延超2队' ,MobilePhone = N'18954345382' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王延超'WHERE UserId = 5910 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'熊华山' ,MobilePhone = N'15154336489' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭16#2单元401'WHERE UserId = 5911 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨新利' ,MobilePhone = N'13406255388' ,HomePhone = N'15898920831' ,[Address] = N'滨州市直黄河05路安顺小区4#1单元201'WHERE UserId = 5912 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑同2队' ,MobilePhone = N'15854301747' ,HomePhone = N'13854327983' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王淑同'WHERE UserId = 5914 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘长元' ,MobilePhone = N'13406238994' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村101'WHERE UserId = 5915 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李凤云2队' ,MobilePhone = N'15854346330' ,HomePhone = N'18265706939' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队李风云'WHERE UserId = 5916 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'薛呈辰' ,HomePhone = N'3715941' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房014号'WHERE UserId = 5974 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'许银吉' ,MobilePhone = N'18860540370' ,HomePhone = N'13792281581' ,[Address] = N'邹平县21高新办司家村（张克）21#楼4-201'WHERE UserId = 5988 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'夏青青' ,MobilePhone = N'15216490033' ,HomePhone = N'13563098880' ,[Address] = N'滨州市直黄河02路秦皇郡3#1单元2502'WHERE UserId = 5989 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高圣军' ,HomePhone = N'4530495' ,[Address] = N'邹平县26临池镇兴安村（刘宗财）平房无(0592)'WHERE UserId = 5994 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴成军' ,MobilePhone = N'13954329791' ,HomePhone = N'13705431946' ,[Address] = N'邹平县13鹤伴二路以南和润家园3A楼2201'WHERE UserId = 5995 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延浩1队' ,MobilePhone = N'13455771918' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村一队王延浩'WHERE UserId = 5996 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'陈建军' ,HomePhone = N'13455775793' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房070号'WHERE UserId = 5997 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王纪学（李秀芬）2队' ,HomePhone = N'4336834' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队16号王纪学'WHERE UserId = 5998 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田秀芹2队' ,MobilePhone = N'18005438055' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队田秀芹'WHERE UserId = 5999 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王海泉2队' ,MobilePhone = N'13258912999' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队14号王海泉'WHERE UserId = 6000 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张长水' ,HomePhone = N'13589731078' ,[Address] = N'邹平县33九户镇铁匠村平房无(0772)'WHERE UserId = 5893 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹伯行' ,MobilePhone = N'13563060895' ,[Address] = N'邹平县35码头镇码二村平房无(4401)'WHERE UserId = 5894 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延忠' ,MobilePhone = N'13954321592' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村王延忠'WHERE UserId = 5895 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王炎2队' ,MobilePhone = N'13954361637' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王炎'WHERE UserId = 5896 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑忠2队' ,MobilePhone = N'13581162799' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王淑忠'WHERE UserId = 5897 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁培勇' ,MobilePhone = N'13954342640' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房194号'WHERE UserId = 5899 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李孝博' ,MobilePhone = N'15854396880' ,[Address] = N'博兴县城区1号社区乡镇企业局平房北二排西二户'WHERE UserId = 5900 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉勇' ,MobilePhone = N'15065225231' ,HomePhone = N'15762122512' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房35'WHERE UserId = 5901 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑永2队' ,MobilePhone = N'13954371041' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王淑永'WHERE UserId = 5902 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王玉玖' ,MobilePhone = N'13695438916' ,HomePhone = N'13256495569' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）5#1单元702'WHERE UserId = 5903 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延晓2队' ,MobilePhone = N'15854369542' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王延晓'WHERE UserId = 5905 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郭翠云2队' ,MobilePhone = N'18764558082' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队郭翠云'WHERE UserId = 5906 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘常忠' ,HomePhone = N'15965430264' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房011号'WHERE UserId = 5907 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王民2队' ,HomePhone = N'4337263' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王民'WHERE UserId = 5908 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔云堂' ,HomePhone = N'15954358157' ,[Address] = N'滨城区东城开发区(东区一片区)瑞安小区15#楼01单元6层01房间'WHERE UserId = 5002 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高帅' ,MobilePhone = N'15054366066' ,[Address] = N'滨州市直黄河08路祥泰·新河湾5#01单元5层01号'WHERE UserId = 5003 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘风海' ,MobilePhone = N'13581168680' ,[Address] = N'滨城区滨北(滨北四片区)沙洼张平房203'WHERE UserId = 5004 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张宝刚' ,MobilePhone = N'15563001345' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区2#楼1003'WHERE UserId = 5005 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思考' ,HomePhone = N'15066933722' ,[Address] = N'滨州市直杜店镇张肖堂村平房032号'WHERE UserId = 5006 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'大张办公室' ,MobilePhone = N'18765463973' ,[Address] = N'滨城区旧镇(南城三片区)大张家平房094'WHERE UserId = 5031 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郭庙办公室' ,MobilePhone = N'15206893451' ,[Address] = N'滨城区旧镇(南城三片区)郭家庙平房023'WHERE UserId = 5032 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜京华' ,MobilePhone = N'13061056299' ,[Address] = N'滨城区滨北(滨北一片区)滨北梧桐苑2#楼02单元3层01房间'WHERE UserId = 5033 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李涛' ,MobilePhone = N'13561511638' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼1-1501'WHERE UserId = 5034 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'徐茂良' ,MobilePhone = N'15154399311' ,HomePhone = N'00000000' ,[Address] = N'邹平县21高新办徐毛村（潘风社）11#楼1-102'WHERE UserId = 5036 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙沙沙' ,MobilePhone = N'15762158667' ,HomePhone = N'00000000' ,[Address] = N'滨城区郊区(郊区四片区)巴黎花园B座(2#)3单元1401'WHERE UserId = 5039 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王金兰' ,HomePhone = N'15006308794' ,[Address] = N'滨州市直黄河02路莱钢新高都2#1单元204'WHERE UserId = 5040 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建厚' ,HomePhone = N'3404288' ,[Address] = N'滨州市直杜店镇张肖堂村平房048号'WHERE UserId = 5041 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'办公室' ,HomePhone = N'15854397469/3404' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(5641)'WHERE UserId = 5042 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'段冬松' ,MobilePhone = N'15965402711' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼1-301'WHERE UserId = 5061 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'成建涛' ,MobilePhone = N'13589400645' ,HomePhone = N'00000000' ,[Address] = N'邹平县31韩店镇三星集团高层2#1-604'WHERE UserId = 5068 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王树军' ,MobilePhone = N'13563095416' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房001号'WHERE UserId = 5069 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希光' ,MobilePhone = N'13963098618' ,HomePhone = N'3404098' ,[Address] = N'滨州市直杜店镇张肖堂村平房096号'WHERE UserId = 5070 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王永明' ,HomePhone = N'13793887413' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房040号'WHERE UserId = 5072 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李金香' ,MobilePhone = N'15966367805' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房033号'WHERE UserId = 5073 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王学武' ,MobilePhone = N'15065437983' ,HomePhone = N'15854317569' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房030号'WHERE UserId = 5075 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘军' ,MobilePhone = N'13465437027' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路御景苑15#1单元1001'WHERE UserId = 5088 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高玉合' ,HomePhone = N'2251351' ,[Address] = N'无棣县东区水湾镇高马村平房区054号'WHERE UserId = 5117 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张砚忠' ,HomePhone = N'6213322' ,[Address] = N'无棣县东区水湾镇高马村平房区010号'WHERE UserId = 5118 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'袁耀亭' ,HomePhone = N'15169928139' ,[Address] = N'无棣县东区水湾镇高马村平房区175号'WHERE UserId = 5121 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高同良' ,HomePhone = N'18206565391' ,[Address] = N'无棣县东区水湾镇高马村平房区174号'WHERE UserId = 5122 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高寿元' ,MobilePhone = N'13685430890' ,[Address] = N'无棣县东区水湾镇高马村平房区048号'WHERE UserId = 5125 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩富荣' ,MobilePhone = N'18754320916' ,HomePhone = N'无' ,[Address] = N'邹平县31韩店镇官庄村平房无(3902)'WHERE UserId = 5012 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'任长忠' ,HomePhone = N'3404238' ,[Address] = N'滨州市直杜店镇南任家平房05号'WHERE UserId = 5013 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'蝎子王办公室' ,MobilePhone = N'13854339422' ,[Address] = N'滨城区旧镇(南城三片区)蝎子王平房097'WHERE UserId = 5059 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高连顺' ,HomePhone = N'13589700892' ,[Address] = N'无棣县东区水湾镇高马村平房区001号'WHERE UserId = 5127 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王相国' ,MobilePhone = N'15065297919' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房_(9341)'WHERE UserId = 5134 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连金' ,HomePhone = N'18706621822' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房026号'WHERE UserId = 5135 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王增徳' ,HomePhone = N'15954321769' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房020号'WHERE UserId = 5139 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王永成' ,HomePhone = N'13336283180' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房023号'WHERE UserId = 5140 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'博一办公室' ,MobilePhone = N'13589708304' ,[Address] = N'滨城区旧镇(南城三片区)博一平房038'WHERE UserId = 5141 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'荆超' ,MobilePhone = N'13954360515' ,HomePhone = N'18906492933' ,[Address] = N'滨州市直黄河08路御景苑15#1单元1301'WHERE UserId = 5142 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延利' ,MobilePhone = N'13954397711' ,HomePhone = N'15563045333' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房1011'WHERE UserId = 5143 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'博二办公室' ,MobilePhone = N'13562328556' ,[Address] = N'滨城区旧镇(南城三片区)博二平房038'WHERE UserId = 5173 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建泰' ,HomePhone = N'18769611122' ,[Address] = N'滨州市直杜店镇张肖堂村平房008号'WHERE UserId = 5196 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高西办公室' ,MobilePhone = N'13792279819' ,[Address] = N'滨城区旧镇(南城三片区)高家西平房030'WHERE UserId = 5206 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树建' ,HomePhone = N'15066906251' ,[Address] = N'博兴县南区店子站02大刘村平房无(1890)'WHERE UserId = 5207 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'药丸办公室' ,MobilePhone = N'13589428324' ,[Address] = N'滨城区旧镇(南城三片区)药丸家平房025'WHERE UserId = 5208 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宗美玲' ,MobilePhone = N'13396295111' ,HomePhone = N'13305435549' ,[Address] = N'滨州市直黄河08路御景苑15#1单元2902'WHERE UserId = 5209 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建真' ,MobilePhone = N'15254305220' ,HomePhone = N'15966368769' ,[Address] = N'滨州市直杜店镇张肖堂村平房097号'WHERE UserId = 5210 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王永昌' ,MobilePhone = N'18906496317' ,HomePhone = N'18754355068' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房014号'WHERE UserId = 5214 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希对' ,HomePhone = N'13676308598' ,[Address] = N'滨州市直杜店镇张肖堂村平房026号'WHERE UserId = 5224 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郑海卫' ,MobilePhone = N'13854356102' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭6#1单元602'WHERE UserId = 5225 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'许海燕' ,MobilePhone = N'13465086030' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭12#2单元901'WHERE UserId = 5226 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘卫国' ,HomePhone = N'13406196861' ,[Address] = N'博兴县南区店子站02大刘村平房无(3126)'WHERE UserId = 5227 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'肖素霞' ,HomePhone = N'13993855407' ,[Address] = N'博兴县南区店子站02大刘村平房无(3051)'WHERE UserId = 5228 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王霞' ,MobilePhone = N'15564304263' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(0594)'WHERE UserId = 5229 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树海' ,HomePhone = N'0' ,[Address] = N'博兴县南区店子站02大刘村平房无(3039)'WHERE UserId = 5230 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周兴凯' ,HomePhone = N'3404242' ,[Address] = N'滨州市直杜店镇张肖堂村平房052号'WHERE UserId = 5232 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘卫东' ,HomePhone = N'0' ,[Address] = N'博兴县南区店子站02大刘村平房无(2982)'WHERE UserId = 5233 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树声' ,HomePhone = N'15006934420' ,[Address] = N'博兴县南区店子站02大刘村平房无(2970)'WHERE UserId = 5234 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树智' ,HomePhone = N'2832138' ,[Address] = N'博兴县南区店子站02大刘村平房无(1797)'WHERE UserId = 5235 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜雪梅' ,MobilePhone = N'13589724444' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路大祥金廷公馆8#2单元2001'WHERE UserId = 5236 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建亮' ,HomePhone = N'340198' ,[Address] = N'滨州市直杜店镇张肖堂村平房129号'WHERE UserId = 5237 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化迎' ,HomePhone = N'13465063391' ,[Address] = N'博兴县南区店子站02大刘村平房无(1785)'WHERE UserId = 5238 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树井' ,MobilePhone = N'18763089710' ,HomePhone = N'13465054226' ,[Address] = N'博兴县南区店子站02大刘村平房无(1719)'WHERE UserId = 5239 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李秀荣' ,HomePhone = N'15954338295' ,[Address] = N'滨城区里则(里则三片区)吕后平房123'WHERE UserId = 5240 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘新华' ,HomePhone = N'无电话' ,[Address] = N'博兴县南区店子站02大刘村平房_(0588)'WHERE UserId = 5241 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化龙' ,MobilePhone = N'13455430059' ,HomePhone = N'13696306041' ,[Address] = N'博兴县南区店子站02大刘村平房无(1710)'WHERE UserId = 5242 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘宗全' ,HomePhone = N'15224366495' ,[Address] = N'博兴县南区店子站02大刘村平房无(3147)'WHERE UserId = 5243 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕海程' ,HomePhone = N'18769672158' ,[Address] = N'滨城区里则(里则三片区)吕后平房124'WHERE UserId = 5244 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕立生' ,HomePhone = N'13001521912' ,[Address] = N'滨城区里则(里则三片区)吕后平房113'WHERE UserId = 5246 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张海勃' ,MobilePhone = N'13676309235' ,HomePhone = N'15965433657' ,[Address] = N'滨州市直杜店镇张肖堂村平房082号'WHERE UserId = 5275 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孔凡亮' ,MobilePhone = N'15762107607' ,HomePhone = N'15954307429' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房008号'WHERE UserId = 5276 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化强' ,MobilePhone = N'15666299781' ,HomePhone = N'13176293382' ,[Address] = N'博兴县南区店子站02大刘村平房无(3135)'WHERE UserId = 5310 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树温' ,MobilePhone = N'2834947' ,HomePhone = N'13176493317' ,[Address] = N'博兴县南区店子站02大刘村平房无(3180)'WHERE UserId = 5311 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田晓波' ,MobilePhone = N'15005431711' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼2-1002'WHERE UserId = 5332 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵英贵' ,HomePhone = N'13589416884' ,[Address] = N'博兴县北区陈户站01张官村平房无(4027)'WHERE UserId = 5014 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张立光' ,HomePhone = N'15224364237' ,[Address] = N'博兴县北区陈户站01张官村平房无(2782)'WHERE UserId = 5019 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩培亮' ,MobilePhone = N'15066974209' ,HomePhone = N'无' ,[Address] = N'邹平县31韩店镇赵家村31#楼31#-2-201'WHERE UserId = 5020 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'贾伟' ,MobilePhone = N'18678622220' ,[Address] = N'滨城区秦皇台(秦皇台一片区)台子王平房196'WHERE UserId = 5027 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'任益泉' ,HomePhone = N'13406247778' ,[Address] = N'滨州市直杜店镇南任家平房27号'WHERE UserId = 5028 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨雷' ,MobilePhone = N'15066900188' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼1-301'WHERE UserId = 5030 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'于大枝' ,MobilePhone = N'13371338330' ,HomePhone = N'3404232' ,[Address] = N'滨州市直杜店镇张肖堂村平房123号'WHERE UserId = 5037 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王天兴' ,MobilePhone = N'18668912900' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭9#1单元801'WHERE UserId = 5044 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙光' ,MobilePhone = N'15066901646' ,HomePhone = N'13563061945' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼1-201'WHERE UserId = 5057 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'南李办公室' ,MobilePhone = N'13505438695' ,[Address] = N'滨城区旧镇(南城三片区)南李家平房073'WHERE UserId = 5060 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵建忠（朱洪良代办享TV套餐）' ,MobilePhone = N'18769652705' ,[Address] = N'滨州市直渤海05路建安集团7#03单元4层02房间'WHERE UserId = 5079 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王化民' ,MobilePhone = N'13605437765' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房010号'WHERE UserId = 5080 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵厚英' ,HomePhone = N'13562331788' ,[Address] = N'邹平县22长山镇官庄村平房无(3297)'WHERE UserId = 5081 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建林' ,MobilePhone = N'15006999303' ,HomePhone = N'3404071  1356234' ,[Address] = N'滨州市直杜店镇张肖堂村平房095号'WHERE UserId = 5082 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连贞' ,MobilePhone = N'15065297919' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房006号'WHERE UserId = 5083 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕泽伦' ,HomePhone = N'3422565' ,[Address] = N'滨城区里则(里则三片区)吕后平房009'WHERE UserId = 5084 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李吉义' ,HomePhone = N'4855764' ,[Address] = N'邹平县22长山镇官庄村平房无(3300)'WHERE UserId = 5085 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张江宁' ,MobilePhone = N'18366824496' ,HomePhone = N'15965405551' ,[Address] = N'滨州市直杜店镇张肖堂村平房141号'WHERE UserId = 5086 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张学平' ,MobilePhone = N'18954600466' ,HomePhone = N'17079032533' ,[Address] = N'惠民县城区2（孙武大区）怡水龙城29#楼4单元101'WHERE UserId = 5087 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延国' ,HomePhone = N'13963071376' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房032号'WHERE UserId = 5101 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高青亮2' ,MobilePhone = N'15898928894' ,[Address] = N'无棣县东区水湾镇高马村平房区111号'WHERE UserId = 5116 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高连增' ,HomePhone = N'13854313408' ,[Address] = N'无棣县东区水湾镇高马村平房区有线(5289)'WHERE UserId = 5120 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王相明' ,MobilePhone = N'17854385717' ,HomePhone = N'15954307863' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房024号'WHERE UserId = 5136 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连庆' ,HomePhone = N'15006961015' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房012号'WHERE UserId = 5137 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王永才' ,MobilePhone = N'15376493458' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房034号'WHERE UserId = 5138 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵书红' ,HomePhone = N'15966359616' ,[Address] = N'滨州市直黄河08路御景苑15#1单元901'WHERE UserId = 5172 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘云章' ,MobilePhone = N'15563003837' ,HomePhone = N'2832100' ,[Address] = N'博兴县南区店子站02大刘村平房无(3174)'WHERE UserId = 5211 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树功' ,HomePhone = N'13706378527' ,[Address] = N'博兴县南区店子站02大刘村平房无(2976)'WHERE UserId = 5212 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵树学' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区4#楼803'WHERE UserId = 5213 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张文臣' ,MobilePhone = N'13954305383' ,[Address] = N'博兴县北区陈户站01张官村平房无(4018)'WHERE UserId = 5221 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张生' ,MobilePhone = N'15065236213' ,[Address] = N'滨州市直杜店镇张肖堂村平房139号'WHERE UserId = 5260 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋文泉' ,MobilePhone = N'18764539977' ,[Address] = N'滨州市直黄河08路御景苑15#2单元1701'WHERE UserId = 5261 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高康康' ,MobilePhone = N'15263005225' ,HomePhone = N'15376256663' ,[Address] = N'博兴县城区2号社区华艺亭15#2单元602'WHERE UserId = 5262 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕春华(吕新群)' ,MobilePhone = N'13581159410' ,HomePhone = N'18763040296' ,[Address] = N'滨城区里则(里则三片区)吕后平房072'WHERE UserId = 5263 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化刚' ,HomePhone = N'15065274431' ,[Address] = N'博兴县南区店子站02大刘村平房无(2988)'WHERE UserId = 5264 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕友良' ,MobilePhone = N'18266573896' ,HomePhone = N'17862035245' ,[Address] = N'滨城区里则(里则三片区)吕后平房074'WHERE UserId = 5265 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建滨' ,MobilePhone = N'18375437664' ,HomePhone = N'15006980912' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(9302)'WHERE UserId = 5266 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'袁绍恩' ,MobilePhone = N'18654320920' ,HomePhone = N'5325126' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层04单元602房间'WHERE UserId = 5267 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张立强' ,MobilePhone = N'13561566260' ,HomePhone = N'15966359741' ,[Address] = N'滨州市直杜店镇张肖堂村平房103号'WHERE UserId = 5288 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树然' ,MobilePhone = N'15564333696' ,HomePhone = N'15954306267' ,[Address] = N'博兴县南区店子站02大刘村平房无(3060)'WHERE UserId = 5333 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周永民' ,MobilePhone = N'13562339705' ,HomePhone = N'3404221' ,[Address] = N'滨州市直杜店镇张肖堂村平房111号'WHERE UserId = 5334 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高青田' ,HomePhone = N'13336294378' ,[Address] = N'无棣县东区水湾镇高马村平房区066号'WHERE UserId = 5335 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树岭' ,MobilePhone = N'13210408111' ,HomePhone = N'13605431073' ,[Address] = N'博兴县南区店子站02大刘村平房无(1803)'WHERE UserId = 5336 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘宗华' ,HomePhone = N'2832156' ,[Address] = N'博兴县南区店子站02大刘村平房无(7856)'WHERE UserId = 5348 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'支俊凤' ,MobilePhone = N'15865406858' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河08路祥泰·新河湾1#01单元6层02号'WHERE UserId = 5008 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建昌' ,MobilePhone = N'15054367159' ,HomePhone = N'3403897' ,[Address] = N'滨州市直杜店镇张肖堂村平房075号'WHERE UserId = 5009 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王春艳' ,MobilePhone = N'13655434569' ,[Address] = N'邹平县13鹤伴二路以南和润家园7#楼2-802'WHERE UserId = 5010 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王峰' ,MobilePhone = N'13854351619' ,[Address] = N'邹平县13鹤伴二路以南和润家园7#楼2-1702'WHERE UserId = 5011 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周秀枝（王建伟）' ,MobilePhone = N'15206889038' ,HomePhone = N'18954348808' ,[Address] = N'滨州市直渤海05路区林业局1#03单元1层01房间'WHERE UserId = 5015 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩恩宝' ,MobilePhone = N'13754687679' ,HomePhone = N'18769614525' ,[Address] = N'邹平县31韩店镇赵家村31#楼31#-1-302'WHERE UserId = 5022 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'许增海' ,HomePhone = N'13754658233' ,[Address] = N'惠民县麻店站（何坊大区）西许村平房_(9332)'WHERE UserId = 5023 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'熊辽宁' ,MobilePhone = N'18266498036' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭8#1单元502'WHERE UserId = 5024 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'许增江' ,MobilePhone = N'13963085353' ,HomePhone = N'13465067688' ,[Address] = N'惠民县麻店站（何坊大区）西许村平房026号'WHERE UserId = 5025 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'耿彤彤' ,MobilePhone = N'18354371280' ,[Address] = N'滨城区滨北(滨北一片区)鹏旭置业（观湖花园）02#楼2单元402'WHERE UserId = 5029 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'许杰' ,MobilePhone = N'18763025055' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭16#1单元102'WHERE UserId = 5054 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'常波' ,MobilePhone = N'13854351997' ,[Address] = N'邹平县13鹤伴二路以南和润家园7#楼2-701'WHERE UserId = 5055 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨文菲' ,MobilePhone = N'15865193807' ,HomePhone = N'13475098867' ,[Address] = N'滨州市直黄河02路秦皇郡1#2单元1002'WHERE UserId = 5089 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张改锋' ,MobilePhone = N'13061038253' ,HomePhone = N'3404117' ,[Address] = N'滨州市直杜店镇张肖堂村平房093号'WHERE UserId = 5090 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕少军' ,HomePhone = N'13505439459' ,[Address] = N'滨城区里则(里则三片区)吕后平房023'WHERE UserId = 5091 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王全忠' ,HomePhone = N'4855853' ,[Address] = N'邹平县22长山镇官庄村平房无(2851)'WHERE UserId = 5092 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕少辉' ,HomePhone = N'13475076518' ,[Address] = N'滨城区里则(里则三片区)吕后平房120'WHERE UserId = 5093 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付成勇' ,MobilePhone = N'18254348969' ,[Address] = N'惠民县辛店站（辛店大区）孔家村平房83'WHERE UserId = 5094 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王琳琳' ,MobilePhone = N'15065282826' ,HomePhone = N'18706607999' ,[Address] = N'滨州市直黄河08路御景苑15#1单元202'WHERE UserId = 5095 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李娜' ,MobilePhone = N'18763070315' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房022号'WHERE UserId = 5096 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张峰' ,MobilePhone = N'13854330846' ,HomePhone = N'3404184' ,[Address] = N'滨州市直杜店镇张肖堂村平房051号'WHERE UserId = 5097 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'甄崇勇' ,MobilePhone = N'15954341569' ,HomePhone = N'13706370936' ,[Address] = N'滨州市直黄河08路御景苑15#1单元1701'WHERE UserId = 5098 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王学中' ,MobilePhone = N'13685437013' ,HomePhone = N'15054328682' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房021号'WHERE UserId = 5099 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'隋长恭' ,HomePhone = N'无' ,[Address] = N'邹平县22长山镇官庄村平房无(2869)'WHERE UserId = 5100 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'窑洼管区办公室' ,MobilePhone = N'18005437220' ,[Address] = N'滨城区旧镇(南城三片区)窑洼平房203'WHERE UserId = 5102 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'常广成' ,MobilePhone = N'13793869360' ,HomePhone = N'15854325619' ,[Address] = N'滨州市直黄河08路大祥金廷公馆5#2单元1202'WHERE UserId = 5103 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕立' ,HomePhone = N'13963098369' ,[Address] = N'滨城区里则(里则三片区)吕后平房040'WHERE UserId = 5104 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高德清' ,MobilePhone = N'18265783208' ,HomePhone = N'6213221' ,[Address] = N'无棣县东区水湾镇高马村平房区074号'WHERE UserId = 5106 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕全民' ,MobilePhone = N'13589719915' ,HomePhone = N'15005438352' ,[Address] = N'滨城区里则(里则三片区)吕后平房119'WHERE UserId = 5107 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建先' ,MobilePhone = N'15615982288' ,HomePhone = N'3404289' ,[Address] = N'滨州市直杜店镇张肖堂村平房094号'WHERE UserId = 5108 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'龙城社区服务大厅' ,HomePhone = N'3613812' ,[Address] = N'滨城区小营(南城二片区)小营社区沿街101'WHERE UserId = 5109 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希国' ,MobilePhone = N'15335439116' ,HomePhone = N'3403931+13376495' ,[Address] = N'滨州市直杜店镇张肖堂村平房056号'WHERE UserId = 5110 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高付青' ,HomePhone = N'13562324630' ,[Address] = N'无棣县东区水湾镇高马村平房区019号'WHERE UserId = 5111 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思岭' ,HomePhone = N'13515432270' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(0385)'WHERE UserId = 5112 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高连森' ,HomePhone = N'13581155778' ,[Address] = N'无棣县东区水湾镇高马村平房区021号'WHERE UserId = 5113 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李拥杰' ,MobilePhone = N'13954351617' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区7#楼401'WHERE UserId = 5114 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高元军' ,HomePhone = N'15266733561' ,[Address] = N'无棣县东区水湾镇高马村平房区024号'WHERE UserId = 5115 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高元亮' ,HomePhone = N'6213559' ,[Address] = N'无棣县东区水湾镇高马村平房区139号'WHERE UserId = 5119 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高金良' ,HomePhone = N'13562324398' ,[Address] = N'无棣县东区水湾镇高马村平房区062号'WHERE UserId = 5126 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高连会' ,HomePhone = N'13854344169' ,[Address] = N'无棣县东区水湾镇高马村平房区169号'WHERE UserId = 5128 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高丙林' ,MobilePhone = N'13386498669' ,HomePhone = N'13562324398' ,[Address] = N'无棣县东区水湾镇高马村平房区015号'WHERE UserId = 5129 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高德华' ,HomePhone = N'15254328018' ,[Address] = N'无棣县东区水湾镇高马村平房区181号'WHERE UserId = 5130 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'于龙龙3.3  8-3-1501' ,MobilePhone = N'13754675511' ,[Address] = N'邹平县14邹平魏桥创业二园二区（旧）17#楼3-1705'WHERE UserId = 5131 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张茂光' ,MobilePhone = N'13805431872' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区3#楼902'WHERE UserId = 5001 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'何志强' ,MobilePhone = N'15550202425' ,HomePhone = N'3315321' ,[Address] = N'滨州市直黄河08路祥泰·新河湾12#01单元5层02号'WHERE UserId = 5007 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高家办公室' ,MobilePhone = N'13305439318' ,[Address] = N'滨城区小营(南城二片区)高家平房076'WHERE UserId = 5021 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李全义' ,MobilePhone = N'15865416899' ,HomePhone = N'18325439335' ,[Address] = N'博兴县中区博兴镇05东上疃平房无(5569)'WHERE UserId = 5043 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'梁大霞' ,MobilePhone = N'15866252112' ,HomePhone = N'00000000' ,[Address] = N'邹平县20魏桥创业集团第八生活区18#楼1-201'WHERE UserId = 5048 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张红卫' ,MobilePhone = N'18769615150' ,HomePhone = N'3404126' ,[Address] = N'滨州市直杜店镇张肖堂村平房098号'WHERE UserId = 5049 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张新华' ,MobilePhone = N'13685438413' ,HomePhone = N'13561586431' ,[Address] = N'博兴县北区陈户站01张官村平房无(3934)'WHERE UserId = 5050 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'皂户杨办公室' ,MobilePhone = N'13792269668' ,[Address] = N'滨城区小营(南城二片区)皂户杨平房029'WHERE UserId = 5051 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'安秀芹' ,MobilePhone = N'13406192128' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南和润家园7#楼2-1001'WHERE UserId = 5052 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希利' ,HomePhone = N'3404215' ,[Address] = N'滨州市直杜店镇张肖堂村平房021号'WHERE UserId = 5053 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李伟' ,MobilePhone = N'13676301838' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼1-701'WHERE UserId = 5056 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李帅' ,MobilePhone = N'18454371668' ,HomePhone = N'13792261502' ,[Address] = N'邹平县21高新办邢马村（张克）平房7#-2-201'WHERE UserId = 5058 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高连成' ,HomePhone = N'15314367656' ,[Address] = N'无棣县东区水湾镇高马村平房区002号'WHERE UserId = 5123 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高德义' ,MobilePhone = N'13455763307' ,HomePhone = N'15154373606' ,[Address] = N'无棣县东区水湾镇高马村平房区082号'WHERE UserId = 5124 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张相营（办公室）' ,MobilePhone = N'15206561444' ,[Address] = N'滨城区小营(南城二片区)南王家平房070'WHERE UserId = 5133 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延祥' ,MobilePhone = N'15550272715' ,HomePhone = N'13181022707' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房046号'WHERE UserId = 5144 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王学国' ,MobilePhone = N'15954357869' ,HomePhone = N'15954357869' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房013号'WHERE UserId = 5145 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延军' ,HomePhone = N'13561597729' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房017号'WHERE UserId = 5146 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'彭庆枝' ,MobilePhone = N'15506304097' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(0388)'WHERE UserId = 5147 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王建勇' ,HomePhone = N'13561505707' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房015号'WHERE UserId = 5148 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建寒' ,HomePhone = N'15966378517' ,[Address] = N'滨州市直杜店镇张肖堂村平房090号'WHERE UserId = 5149 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王辉' ,MobilePhone = N'18764542034' ,HomePhone = N'15154369211' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房016号(6079)'WHERE UserId = 5151 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建福' ,MobilePhone = N'18138380795' ,HomePhone = N'13061055159' ,[Address] = N'滨州市直杜店镇张肖堂村平房089号'WHERE UserId = 5152 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张新民' ,MobilePhone = N'18099700990' ,[Address] = N'沾化县富国大区西城区（刘晓）交通名苑】B19#科技局楼01单元3层02号'WHERE UserId = 5153 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高冲' ,MobilePhone = N'13706379589' ,[Address] = N'邹平县13鹤伴二路以南和润家园7#楼2-1601'WHERE UserId = 5154 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张英乐' ,MobilePhone = N'15066923155' ,HomePhone = N'3403944' ,[Address] = N'滨州市直杜店镇张肖堂村平房040号'WHERE UserId = 5155 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连仁' ,MobilePhone = N'13465083723' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房_(9335)'WHERE UserId = 5156 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王观喜' ,HomePhone = N'15006987543' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房_(9338)'WHERE UserId = 5157 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建福' ,MobilePhone = N'13061055159' ,[Address] = N'滨州市直杜店镇张肖堂村平房158号'WHERE UserId = 5158 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连元' ,MobilePhone = N'13396497238' ,HomePhone = N'15314360393' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房031号'WHERE UserId = 5159 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李保刚' ,MobilePhone = N'18654380617' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南和润家园3#楼2-402'WHERE UserId = 5160 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王帅' ,MobilePhone = N'13561545040' ,HomePhone = N'13561524504' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房101'WHERE UserId = 5161 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙盼' ,MobilePhone = N'15969995377' ,HomePhone = N'00000000' ,[Address] = N'惠民县城区1（孙武大区）中心医院贾台小区8#楼2单元302'WHERE UserId = 5162 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘晓晓' ,MobilePhone = N'13562339661' ,[Address] = N'滨州市直黄河08路御景苑16#1单元901'WHERE UserId = 5163 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘华宝' ,HomePhone = N'13356294486' ,[Address] = N'博兴县南区店子站02大刘村平房无(3171)'WHERE UserId = 5164 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'蔡庆飞' ,MobilePhone = N'13754671945' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼2-302'WHERE UserId = 5165 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑庆2队' ,MobilePhone = N'13754621600' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王淑庆'WHERE UserId = 5939 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘建军' ,HomePhone = N'15266715361' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房78'WHERE UserId = 5940 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张景永' ,MobilePhone = N'15869579267' ,HomePhone = N'13455432920' ,[Address] = N'沾化县黄升大区永丰片（范金海）后边村】平房_(8336)'WHERE UserId = 5941 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘建勇' ,HomePhone = N'15054374445' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房77'WHERE UserId = 5942 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王波' ,HomePhone = N'13153585471' ,[Address] = N'邹平县35码头镇码一村平房无(9928)'WHERE UserId = 5943 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁希顺' ,HomePhone = N'13792252258' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房162号'WHERE UserId = 5944 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱明恩' ,MobilePhone = N'15910064386' ,HomePhone = N'3716014' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房011号'WHERE UserId = 5945 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王迁2队' ,MobilePhone = N'15865218199' ,HomePhone = N'18660787865' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王迁'WHERE UserId = 5946 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘博文' ,HomePhone = N'13793879388' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房049号'WHERE UserId = 5947 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延春2队' ,MobilePhone = N'15169948535' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王延春'WHERE UserId = 5948 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱明志' ,HomePhone = N'13465078980' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房067号'WHERE UserId = 5949 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉昌' ,MobilePhone = N'13465057805' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村102'WHERE UserId = 5950 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱兆恩' ,HomePhone = N'18654386737' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房068号'WHERE UserId = 5951 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑利2队' ,MobilePhone = N'18254376645' ,HomePhone = N'13589741811' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王淑利'WHERE UserId = 5952 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王鲁晓' ,MobilePhone = N'13954301698' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村北二排东三户'WHERE UserId = 5953 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱连伍' ,HomePhone = N'3715913' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房041号'WHERE UserId = 5954 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱兆起' ,MobilePhone = N'13406245011' ,HomePhone = N'3715545' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房071号'WHERE UserId = 5955 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁培国' ,HomePhone = N'13589732083' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房092号'WHERE UserId = 5956 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱明会' ,MobilePhone = N'13406172513' ,HomePhone = N'3715947' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房016号'WHERE UserId = 5957 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘明军' ,MobilePhone = N'15169964405' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房66号'WHERE UserId = 5958 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑强2队' ,HomePhone = N'4321358' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王淑强'WHERE UserId = 5959 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘长泉' ,HomePhone = N'15254352920' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房80'WHERE UserId = 5960 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'时少明' ,MobilePhone = N'13405430152' ,HomePhone = N'无' ,[Address] = N'邹平县32孙镇镇时家村平房110'WHERE UserId = 5961 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王玉林' ,MobilePhone = N'18706600612' ,HomePhone = N'00000000' ,[Address] = N'滨州市直渤海11路锦绣城二期6#2单元1001'WHERE UserId = 5962 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘永明' ,MobilePhone = N'15154325205' ,HomePhone = N'15550626114' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房024号'WHERE UserId = 5963 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉生' ,MobilePhone = N'15054387863' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房86'WHERE UserId = 5964 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑红3队' ,MobilePhone = N'15666129108' ,HomePhone = N'15376495243' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村三队139号王淑红'WHERE UserId = 5965 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁希玉' ,HomePhone = N'15005432748' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房154号'WHERE UserId = 5966 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘利新' ,MobilePhone = N'15006987131' ,HomePhone = N'13562307289' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房68'WHERE UserId = 5967 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑星2队' ,MobilePhone = N'13589412461' ,HomePhone = N'15066974549' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家老村二队王淑星'WHERE UserId = 5968 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘吉柱' ,HomePhone = N'15865217281' ,[Address] = N'惠民县辛店站（辛店大区）坯子刘村平房004号'WHERE UserId = 5969 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'侯江波' ,HomePhone = N'18654320119' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房043号'WHERE UserId = 5970 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱兆强' ,HomePhone = N'13465078980' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房013号'WHERE UserId = 5971 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王长江2队' ,HomePhone = N'0000000' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(3354)'WHERE UserId = 5972 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'侯路军' ,MobilePhone = N'13854319445' ,HomePhone = N'3719156' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房048号'WHERE UserId = 5973 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱玉水' ,MobilePhone = N'15266764362' ,HomePhone = N'4823347' ,[Address] = N'邹平县21高新办司家村（张克）28#楼2-201'WHERE UserId = 5991 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔怀卫' ,MobilePhone = N'13561509889' ,HomePhone = N'15954739969' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）6#2单元1801'WHERE UserId = 5992 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李在祥' ,MobilePhone = N'13963088327' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区1号社区天元万和城C2#2单元1004'WHERE UserId = 5993 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'侯允钦' ,MobilePhone = N'13854349942' ,HomePhone = N'3715937＋13355431' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房037号'WHERE UserId = 5975 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'霍成伍' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼1-1601'WHERE UserId = 5976 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张文庆' ,MobilePhone = N'15376266720' ,HomePhone = N'17862039016' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区23#02单元2层01房间'WHERE UserId = 5977 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁希文' ,HomePhone = N'13793882317' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房198号'WHERE UserId = 5978 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'姜平' ,MobilePhone = N'13563080670' ,HomePhone = N'15166300258' ,[Address] = N'沾化县黄升大区永丰片（范金海）小杨营】平房022号'WHERE UserId = 5979 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'侯国才' ,MobilePhone = N'18364962318' ,HomePhone = N'15169973571' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房055号'WHERE UserId = 5980 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱兆勇' ,HomePhone = N'15065207897' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房142号'WHERE UserId = 5981 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'侯学泉' ,HomePhone = N'3715626' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房061号'WHERE UserId = 5982 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'候国柱' ,HomePhone = N'51065248415' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房135号'WHERE UserId = 5983 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'侯羲文' ,HomePhone = N'13376497879/1895' ,[Address] = N'滨城区梁才(东区二片区)杨沟朱平房006号'WHERE UserId = 5985 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁培电' ,HomePhone = N'15166803908' ,[Address] = N'沾化县黄升大区永丰片（范金海）杨营村】平房212号'WHERE UserId = 5986 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱秀强' ,MobilePhone = N'15550601821' ,HomePhone = N'4820398' ,[Address] = N'邹平县21高新办司家村（张克）平房-1#朝南街中西拐胡同(7719)'WHERE UserId = 5990 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘升松' ,MobilePhone = N'13220713123' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路大祥金廷公馆6#1单元1901'WHERE UserId = 5016 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张磊磊' ,MobilePhone = N'18364945438' ,[Address] = N'滨城区滨北(滨北一片区)亚光东苑小区8#楼04单元3层01-1房间'WHERE UserId = 5017 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'新兴管区办公室' ,HomePhone = N'3615458' ,[Address] = N'滨城区小营(南城二片区)新兴平房092'WHERE UserId = 5018 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'霍家办公室' ,MobilePhone = N'18005437220' ,[Address] = N'滨城区旧镇(南城三片区)霍家平房033'WHERE UserId = 5062 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王学良' ,MobilePhone = N'13561575183' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭12#3单元701'WHERE UserId = 5063 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'冯曰哲' ,MobilePhone = N'18754330223' ,HomePhone = N'00000000' ,[Address] = N'邹平县31韩店镇三星集团高层2#1-204'WHERE UserId = 5064 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'薛希香' ,MobilePhone = N'13954305383' ,[Address] = N'博兴县北区陈户站01张官村平房薛希香'WHERE UserId = 5076 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延彬' ,MobilePhone = N'15898924701' ,HomePhone = N'13589714933' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房004号'WHERE UserId = 5077 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王永水' ,HomePhone = N'15315437239' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房018号'WHERE UserId = 5078 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建兴' ,HomePhone = N'13561588146' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(6842)'WHERE UserId = 5166 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴本友' ,HomePhone = N'15965268911' ,[Address] = N'无棣县东区东城区棣新四路盛世嘉苑四期58号楼1单元502'WHERE UserId = 5167 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高林' ,MobilePhone = N'15054357414' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼2-1802'WHERE UserId = 5168 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔建宏' ,MobilePhone = N'13506376539' ,HomePhone = N'15726286859' ,[Address] = N'滨州市直杜店镇张肖堂村平房137号'WHERE UserId = 5169 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希洪' ,HomePhone = N'3403998' ,[Address] = N'滨州市直杜店镇张肖堂村平房060号'WHERE UserId = 5170 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化传' ,MobilePhone = N'18663832363' ,HomePhone = N'15965018728' ,[Address] = N'博兴县南区店子站02大刘村平房无(1450)'WHERE UserId = 5171 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢委仙' ,HomePhone = N'13793862496' ,[Address] = N'滨州市直黄河08路御景苑15#2单元2802'WHERE UserId = 5174 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建美' ,MobilePhone = N'15963074715' ,HomePhone = N'15954309858' ,[Address] = N'滨州市直杜店镇张肖堂村平房151号'WHERE UserId = 5175 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邢光祥' ,MobilePhone = N'18860516766' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼2-1702'WHERE UserId = 5176 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化镇' ,HomePhone = N'13455796534' ,[Address] = N'博兴县南区店子站02大刘村平房无(1782)'WHERE UserId = 5177 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树民' ,HomePhone = N'15066926018' ,[Address] = N'博兴县南区店子站02大刘村平房无(1776)'WHERE UserId = 5179 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘国忠' ,HomePhone = N'13455796609' ,[Address] = N'博兴县南区店子站02大刘村平房无(6191)'WHERE UserId = 5180 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张立明' ,MobilePhone = N'15963074715' ,HomePhone = N'3404211' ,[Address] = N'滨州市直杜店镇张肖堂村平房118号'WHERE UserId = 5181 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树迎' ,HomePhone = N'13561514383' ,[Address] = N'博兴县南区店子站02大刘村平房无(3078)'WHERE UserId = 5183 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树顺' ,MobilePhone = N'13465434726' ,HomePhone = N'13465434726' ,[Address] = N'博兴县南区店子站02大刘村平房无(1770)'WHERE UserId = 5185 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘小雷' ,MobilePhone = N'13963086014' ,HomePhone = N'0' ,[Address] = N'博兴县南区店子站02大刘村平房无(1453)'WHERE UserId = 5186 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化伟' ,HomePhone = N'13561526104' ,[Address] = N'博兴县南区店子站02大刘村平房无(2985)'WHERE UserId = 5187 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨士文' ,MobilePhone = N'18754366605' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河10路韵和嘉苑北区2#(现7#)2单元102'WHERE UserId = 5188 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘金国' ,MobilePhone = N'15054346835' ,HomePhone = N'2834969' ,[Address] = N'博兴县南区店子站02大刘村平房无(2889)'WHERE UserId = 5189 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵树涛' ,MobilePhone = N'13854379797' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区4#楼701'WHERE UserId = 5190 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘秋光' ,MobilePhone = N'13465066640' ,HomePhone = N'13386491831' ,[Address] = N'博兴县南区店子站02大刘村平房无(3162)'WHERE UserId = 5191 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘敬华' ,MobilePhone = N'13355437832' ,HomePhone = N'15865436326' ,[Address] = N'博兴县南区店子站02大刘村平房无(7877)'WHERE UserId = 5192 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'博四办公室' ,MobilePhone = N'15154398368' ,[Address] = N'滨城区旧镇(南城三片区)博四平房045'WHERE UserId = 5193 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树博' ,MobilePhone = N'15254399099' ,HomePhone = N'15666299781' ,[Address] = N'博兴县南区店子站02大刘村平房刘树博'WHERE UserId = 5194 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田守瑞' ,MobilePhone = N'15564845428' ,HomePhone = N'3629606' ,[Address] = N'滨城区旧镇(南城三片区)田楼西田楼社区3#02单元3层02房间'WHERE UserId = 5195 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王西华' ,HomePhone = N'13854325922' ,[Address] = N'博兴县南区店子站02大刘村平房无(1701)'WHERE UserId = 5197 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张志强' ,HomePhone = N'18769611122' ,[Address] = N'滨州市直杜店镇张肖堂村平房143号'WHERE UserId = 5198 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化春' ,HomePhone = N'2832452' ,[Address] = N'博兴县南区店子站02大刘村平房无(3168)'WHERE UserId = 5199 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化恩' ,MobilePhone = N'15564359530' ,HomePhone = N'13210706991+1347' ,[Address] = N'博兴县南区店子站02大刘村平房无(1474)'WHERE UserId = 5201 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树亭' ,HomePhone = N'2834986' ,[Address] = N'博兴县南区店子站02大刘村平房无(3072)'WHERE UserId = 5202 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高东办公室' ,MobilePhone = N'15865444057' ,[Address] = N'滨城区旧镇(南城三片区)高家东平房017'WHERE UserId = 5203 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树宝' ,HomePhone = N'15005436641' ,[Address] = N'博兴县南区店子站02大刘村平房无(3063)'WHERE UserId = 5204 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化超' ,HomePhone = N'13225436475' ,[Address] = N'博兴县南区店子站02大刘村平房无(1692)'WHERE UserId = 5205 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙洪军' ,MobilePhone = N'15314361968' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区天元中心星光城8#1单元1602'WHERE UserId = 5215 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建冰' ,MobilePhone = N'15854394925' ,HomePhone = N'13515439371' ,[Address] = N'滨州市直杜店镇张肖堂村平房127号'WHERE UserId = 5216 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵德营' ,MobilePhone = N'18763087011' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区4#楼403'WHERE UserId = 5217 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张吉运' ,HomePhone = N'11111111111' ,[Address] = N'滨州市直杜店镇张肖堂村平房（9800）'WHERE UserId = 5218 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张吉运' ,MobilePhone = N'13326293765' ,HomePhone = N'13395432612' ,[Address] = N'滨州市直杜店镇张肖堂村平房023号'WHERE UserId = 5219 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王俊英' ,MobilePhone = N'13515439371' ,[Address] = N'滨州市直杜店镇张肖堂村平房99号'WHERE UserId = 5220 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张云学' ,HomePhone = N'13589746786' ,[Address] = N'博兴县北区陈户站01张官村平房无(8411)'WHERE UserId = 5222 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张吉杰' ,MobilePhone = N'18454375826' ,HomePhone = N'13676308072' ,[Address] = N'滨州市直杜店镇张肖堂村平房046号'WHERE UserId = 5223 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连中' ,HomePhone = N'15169970221' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房025号'WHERE UserId = 5277 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连银' ,HomePhone = N'15265438086' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房043号'WHERE UserId = 5278 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高付瑞' ,HomePhone = N'13406193610' ,[Address] = N'无棣县东区水湾镇高马村平房区031号'WHERE UserId = 5318 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张芳' ,MobilePhone = N'15254358132' ,HomePhone = N'3404237' ,[Address] = N'滨州市直杜店镇张肖堂村平房033号'WHERE UserId = 5319 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李子国' ,MobilePhone = N'13561510630' ,HomePhone = N'15506303479' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼2-1401'WHERE UserId = 5320 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王磊' ,MobilePhone = N'15905438135' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#1单元1402'WHERE UserId = 5321 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李娟' ,MobilePhone = N'18554322356' ,HomePhone = N'13396496567' ,[Address] = N'滨州市直黄河08路御景苑17#1单元2703'WHERE UserId = 5322 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘宗明' ,MobilePhone = N'15854316887' ,HomePhone = N'2832501' ,[Address] = N'博兴县南区店子站02大刘村平房无(1878)'WHERE UserId = 5326 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘海峰' ,MobilePhone = N'18265755431' ,HomePhone = N'2832428' ,[Address] = N'博兴县南区店子站02大刘村平房无(3069)'WHERE UserId = 5327 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建辉' ,MobilePhone = N'13475073622' ,HomePhone = N'3404237' ,[Address] = N'滨州市直杜店镇张肖堂村平房034号'WHERE UserId = 5328 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周永民' ,MobilePhone = N'13563078670' ,[Address] = N'滨州市直杜店镇张肖堂村平房138号'WHERE UserId = 5329 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王希坤' ,HomePhone = N'13475078568' ,[Address] = N'博兴县南区店子站02大刘村平房无(1698)'WHERE UserId = 5330 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树朴' ,MobilePhone = N'15065286521' ,HomePhone = N'15154354008' ,[Address] = N'博兴县南区店子站02大刘村平房无(1429)'WHERE UserId = 5331 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化鹏' ,HomePhone = N'13475099917' ,[Address] = N'博兴县南区店子站02大刘村平房无(3081)'WHERE UserId = 5341 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树近' ,HomePhone = N'15066966784' ,[Address] = N'博兴县南区店子站02大刘村平房_(4653)'WHERE UserId = 5342 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建队' ,MobilePhone = N'18654310617' ,HomePhone = N'3404235' ,[Address] = N'滨州市直杜店镇张肖堂村平房061号'WHERE UserId = 5343 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树坤' ,HomePhone = N'13001527507' ,[Address] = N'博兴县南区店子站02大刘村平房无(1686)'WHERE UserId = 5344 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘宗文' ,HomePhone = N'15006936914' ,[Address] = N'博兴县南区店子站02大刘村平房无(1872)'WHERE UserId = 5345 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化锋' ,HomePhone = N'2832116 18754336' ,[Address] = N'博兴县南区店子站02大刘村平房无(1716)'WHERE UserId = 5346 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李志光' ,MobilePhone = N'13793890400' ,[Address] = N'邹平县13鹤伴二路以南和润家园8#楼2-402'WHERE UserId = 5347 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘国忠' ,HomePhone = N'13696302423' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元202'WHERE UserId = 5349 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张江平' ,MobilePhone = N'18678338575' ,HomePhone = N'3404194' ,[Address] = N'滨州市直杜店镇张肖堂村平房119号'WHERE UserId = 5350 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树明' ,HomePhone = N'13854384339' ,[Address] = N'博兴县南区店子站02大刘村平房无(7850)'WHERE UserId = 5353 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希祥' ,HomePhone = N'15006308453' ,[Address] = N'滨州市直杜店镇张肖堂村平房078号'WHERE UserId = 5354 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张红欣' ,MobilePhone = N'15215433674' ,[Address] = N'滨州市直杜店镇张肖堂村平房039号'WHERE UserId = 5355 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙鲁平' ,MobilePhone = N'13561500588' ,HomePhone = N'13561588272' ,[Address] = N'滨州市直杜店镇张肖堂村平房9800'WHERE UserId = 5357 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕增辈' ,MobilePhone = N'18763017073' ,HomePhone = N'15065224931' ,[Address] = N'滨城区里则(里则三片区)吕后平房018'WHERE UserId = 5366 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郑霞（三园三区21#-3-1602）' ,MobilePhone = N'18354345051' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼2-101'WHERE UserId = 5367 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕学春' ,MobilePhone = N'13954380965' ,HomePhone = N'13954380965/1585' ,[Address] = N'滨城区里则(里则三片区)吕后平房077'WHERE UserId = 5368 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋成五' ,MobilePhone = N'18366872080' ,HomePhone = N'13034527963' ,[Address] = N'邹平县14邹平魏桥创业三园三区9#楼2-1601'WHERE UserId = 5370 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕少志' ,MobilePhone = N'13406247916' ,HomePhone = N'15854323178' ,[Address] = N'滨城区里则(里则三片区)吕后平房091'WHERE UserId = 5371 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建强' ,MobilePhone = N'13562319675' ,HomePhone = N'18860529839' ,[Address] = N'滨州市直杜店镇张肖堂村平房153号'WHERE UserId = 5372 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'董萌萌（三园三区21-3-101）' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼2-1701'WHERE UserId = 5373 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'翟克秀' ,MobilePhone = N'13181019580' ,HomePhone = N'13505439459' ,[Address] = N'滨城区里则(里则三片区)吕后平房101'WHERE UserId = 5374 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'任云丽' ,MobilePhone = N'18254342186' ,[Address] = N'邹平县14邹平魏桥创业三园三区20#楼2-502'WHERE UserId = 5375 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张振伟' ,MobilePhone = N'13792299035' ,HomePhone = N'3404266' ,[Address] = N'滨州市直杜店镇张肖堂村平房020号'WHERE UserId = 5376 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李相河' ,HomePhone = N'15006983826' ,[Address] = N'无棣县西区信阳南张村平房区004号'WHERE UserId = 5377 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'潘凤爽' ,MobilePhone = N'15854347627' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区6#楼1-1502'WHERE UserId = 5378 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张笑笑' ,HomePhone = N'13605438263' ,[Address] = N'滨州市直杜店镇张肖堂村平房100号'WHERE UserId = 5398 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕同堂' ,HomePhone = N'3422232' ,[Address] = N'滨城区里则(里则三片区)吕后平房019'WHERE UserId = 5399 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王姣婷' ,MobilePhone = N'13563068646' ,HomePhone = N'13563068546' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）12#1单元802'WHERE UserId = 5401 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张波海' ,HomePhone = N'3404189' ,[Address] = N'滨州市直杜店镇张肖堂村平房136'WHERE UserId = 5402 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化涛' ,MobilePhone = N'15065226423' ,HomePhone = N'13176495594' ,[Address] = N'博兴县南区店子站02大刘村平房无(1953)'WHERE UserId = 5403 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕克温' ,MobilePhone = N'18366833087' ,HomePhone = N'3422398' ,[Address] = N'滨城区里则(里则三片区)吕后平房069'WHERE UserId = 5245 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕新春' ,HomePhone = N'13465054812' ,[Address] = N'滨城区里则(里则三片区)吕后平房125'WHERE UserId = 5248 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李风叶' ,HomePhone = N'15066983738+1516' ,[Address] = N'滨城区里则(里则三片区)吕后平房064'WHERE UserId = 5250 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建学' ,MobilePhone = N'13854330632' ,HomePhone = N'3404182' ,[Address] = N'滨州市直杜店镇张肖堂村平房084号'WHERE UserId = 5251 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕景安' ,HomePhone = N'15151388116' ,[Address] = N'滨城区里则(里则三片区)吕后平房126'WHERE UserId = 5253 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕双德' ,HomePhone = N'15216497118' ,[Address] = N'滨城区里则(里则三片区)吕后平房060'WHERE UserId = 5254 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵树学' ,MobilePhone = N'13793881659' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区4#楼602'WHERE UserId = 5255 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕凤祥' ,MobilePhone = N'18763010308' ,HomePhone = N'15065437950' ,[Address] = N'滨城区里则(里则三片区)吕后平房058'WHERE UserId = 5256 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张江涛' ,HomePhone = N'3403958' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(9269)'WHERE UserId = 5257 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希谭' ,MobilePhone = N'13455774992' ,HomePhone = N'3404183' ,[Address] = N'滨州市直杜店镇张肖堂村平房019号'WHERE UserId = 5258 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘海华' ,MobilePhone = N'15866257305' ,HomePhone = N'18265784371' ,[Address] = N'博兴县南区店子站02大刘村平房_(0453)'WHERE UserId = 5259 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孝本堂' ,HomePhone = N'3808890' ,[Address] = N'滨州市直杜店镇张肖堂村平房092号'WHERE UserId = 5268 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕俊波' ,MobilePhone = N'13792268058' ,HomePhone = N'18754393246' ,[Address] = N'滨城区里则(里则三片区)吕后平房092'WHERE UserId = 5269 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕全安' ,MobilePhone = N'18763019219' ,HomePhone = N'15965430736' ,[Address] = N'滨城区里则(里则三片区)吕后平房022'WHERE UserId = 5270 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕光兴' ,HomePhone = N'15564315162' ,[Address] = N'滨城区里则(里则三片区)吕后平房127'WHERE UserId = 5271 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希田' ,MobilePhone = N'13306494995' ,HomePhone = N'3404182' ,[Address] = N'滨州市直杜店镇张肖堂村平房083号'WHERE UserId = 5272 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕林福' ,HomePhone = N'3422550' ,[Address] = N'滨城区里则(里则三片区)吕后平房080'WHERE UserId = 5273 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'梅杰' ,MobilePhone = N'18905432050' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河05路安顺小区5#2单元402'WHERE UserId = 5279 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕新峰' ,HomePhone = N'15954311260' ,[Address] = N'滨城区里则(里则三片区)吕后平房088'WHERE UserId = 5280 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建岐' ,MobilePhone = N'13406238956' ,HomePhone = N'3419316' ,[Address] = N'滨州市直杜店镇张肖堂村平房131号'WHERE UserId = 5281 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王化村' ,MobilePhone = N'13515433591' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房039号'WHERE UserId = 5282 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕春洪' ,HomePhone = N'15266758106/1346' ,[Address] = N'滨城区里则(里则三片区)吕后平房085'WHERE UserId = 5283 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王连财' ,MobilePhone = N'15965209661' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房027号'WHERE UserId = 5284 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延武' ,MobilePhone = N'13563770260' ,HomePhone = N'18706614537' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房047号'WHERE UserId = 5285 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵树岗' ,MobilePhone = N'18766679055' ,HomePhone = N'15866661383' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区4#楼503'WHERE UserId = 5286 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张晓冉' ,MobilePhone = N'18860525296' ,HomePhone = N'00000000' ,[Address] = N'滨城区郊区(郊区四片区)巴黎花园B座(2#)2单元603'WHERE UserId = 5287 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张学东' ,HomePhone = N'18763037075 3404' ,[Address] = N'滨州市直杜店镇张肖堂村平房106号'WHERE UserId = 5290 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张新友' ,MobilePhone = N'18206559678' ,[Address] = N'滨州市直杜店镇张肖堂村平房126号'WHERE UserId = 5291 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建锋' ,MobilePhone = N'13365435232' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#1单元1201'WHERE UserId = 5292 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李爱山' ,HomePhone = N'3404204' ,[Address] = N'滨州市直杜店镇张肖堂村平房010号'WHERE UserId = 5293 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树金' ,MobilePhone = N'15263009458' ,HomePhone = N'13589746039' ,[Address] = N'博兴县南区店子站02大刘村平房无(1695)'WHERE UserId = 5294 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树光' ,MobilePhone = N'13696306404' ,HomePhone = N'15224366455' ,[Address] = N'博兴县南区店子站02大刘村平房无(1683)'WHERE UserId = 5295 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希玉' ,HomePhone = N'3404075' ,[Address] = N'滨州市直杜店镇张肖堂村平房057号'WHERE UserId = 5296 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树珍' ,HomePhone = N'13561586152' ,[Address] = N'博兴县南区店子站02大刘村平房无(3144)'WHERE UserId = 5297 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'释秋雁' ,MobilePhone = N'15966397126' ,[Address] = N'邹平县18黄山办（西）小吕住宅楼其他西楼210室'WHERE UserId = 5298 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘兴三' ,MobilePhone = N'15154354756' ,HomePhone = N'15266782519，1500' ,[Address] = N'博兴县南区店子站02大刘村平房无(7874)'WHERE UserId = 5299 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘华顺' ,MobilePhone = N'15966366361' ,HomePhone = N'15020586305' ,[Address] = N'博兴县南区店子站02大刘村平房无(9015)'WHERE UserId = 5300 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘兴家' ,MobilePhone = N'15169924066' ,HomePhone = N'15615981311' ,[Address] = N'博兴县南区店子站02大刘村平房_(3161)'WHERE UserId = 5301 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘敬贵' ,MobilePhone = N'15806892774' ,HomePhone = N'3629647' ,[Address] = N'滨城区旧镇(南城三片区)田楼西田楼社区1#01单元4层01房间'WHERE UserId = 5302 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树河' ,MobilePhone = N'15206866439' ,HomePhone = N'13465054235' ,[Address] = N'博兴县南区店子站02大刘村平房无(2964)'WHERE UserId = 5303 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树连' ,MobilePhone = N'13306494151' ,HomePhone = N'15615989911' ,[Address] = N'博兴县南区店子站02大刘村平房无(7871)'WHERE UserId = 5304 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化远' ,HomePhone = N'15006996703' ,[Address] = N'博兴县南区店子站02大刘村平房无(3129)'WHERE UserId = 5305 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁树华' ,MobilePhone = N'18366896999' ,HomePhone = N'15154380898' ,[Address] = N'滨州市直黄河08路御景苑16#1单元2102'WHERE UserId = 5306 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希玉' ,MobilePhone = N'13475089295' ,[Address] = N'滨州市直杜店镇张肖堂村平房159号'WHERE UserId = 5307 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树恩' ,HomePhone = N'13210713853' ,[Address] = N'博兴县南区店子站02大刘村平房无(1773)'WHERE UserId = 5308 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树国' ,HomePhone = N'18763089788' ,[Address] = N'博兴县南区店子站02大刘村平房无(1432)'WHERE UserId = 5309 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化园' ,HomePhone = N'无电话' ,[Address] = N'博兴县南区店子站02大刘村平房_(0594)'WHERE UserId = 5312 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延岭' ,MobilePhone = N'15954321769' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房035号'WHERE UserId = 5289 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树新' ,HomePhone = N'13954378491' ,[Address] = N'博兴县南区店子站02大刘村平房无(1881)'WHERE UserId = 5313 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张生' ,HomePhone = N'18769656776' ,[Address] = N'滨州市直杜店镇张肖堂村平房036号'WHERE UserId = 5314 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'蔡洪德' ,MobilePhone = N'13589417919' ,[Address] = N'阳信县幸福四路金羚置业19#01单元602'WHERE UserId = 5315 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孝本田' ,HomePhone = N'13173281901' ,[Address] = N'滨州市直杜店镇张肖堂村平房006号'WHERE UserId = 5316 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘兴胜' ,HomePhone = N'15966374590' ,[Address] = N'博兴县南区店子站02大刘村平房无(1722)'WHERE UserId = 5317 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'黄付平' ,MobilePhone = N'13793877705' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南西王兰亭南区3#楼702'WHERE UserId = 5323 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张海海' ,HomePhone = N'3404225' ,[Address] = N'滨州市直杜店镇张肖堂村平房030号'WHERE UserId = 5324 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思亮' ,MobilePhone = N'15054361540' ,[Address] = N'滨州市直杜店镇张肖堂村平房064号'WHERE UserId = 5325 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张汉英' ,HomePhone = N'15166815539' ,[Address] = N'博兴县南区店子站02大刘村平房无(1809)'WHERE UserId = 5337 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱小江' ,MobilePhone = N'13561528350' ,HomePhone = N'17805431115' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元1402'WHERE UserId = 5338 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化旺' ,MobilePhone = N'15954366241' ,HomePhone = N'13960496924' ,[Address] = N'博兴县南区店子站02大刘村平房无(1471)'WHERE UserId = 5339 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化德' ,MobilePhone = N'15166816967' ,HomePhone = N'2832072' ,[Address] = N'博兴县南区店子站02大刘村平房无(3066)'WHERE UserId = 5351 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树让' ,MobilePhone = N'13021529781' ,HomePhone = N'13455430161' ,[Address] = N'博兴县南区店子站02大刘村平房无(8479)'WHERE UserId = 5352 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思珍' ,MobilePhone = N'18706432214' ,HomePhone = N'3404052' ,[Address] = N'滨州市直杜店镇张肖堂村平房002号'WHERE UserId = 5358 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张桂州' ,MobilePhone = N'15866653135' ,HomePhone = N'13561500283' ,[Address] = N'滨州市直杜店镇张肖堂村平房014号'WHERE UserId = 5359 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建禹' ,MobilePhone = N'13220706390' ,HomePhone = N'3404281' ,[Address] = N'滨州市直杜店镇张肖堂村平房074号'WHERE UserId = 5361 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李桂花' ,MobilePhone = N'15866653135' ,HomePhone = N'3404254' ,[Address] = N'滨州市直杜店镇张肖堂村平房012号'WHERE UserId = 5363 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延博' ,MobilePhone = N'13245434690' ,HomePhone = N'13188907923' ,[Address] = N'博兴县城区3号社区博兴镇中学1#中单元3楼东户'WHERE UserId = 5364 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建新' ,MobilePhone = N'15335439116' ,HomePhone = N'15965432678' ,[Address] = N'滨州市直杜店镇张肖堂村平房045号'WHERE UserId = 5365 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘宗亮' ,HomePhone = N'13563084681' ,[Address] = N'博兴县南区店子站02大刘村平房无(7859)'WHERE UserId = 5404 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建尧' ,MobilePhone = N'15954739410' ,[Address] = N'滨州市直杜店镇张肖堂村平房157号'WHERE UserId = 5406 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思力' ,HomePhone = N'3404053' ,[Address] = N'滨州市直杜店镇张肖堂村平房125号'WHERE UserId = 5407 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高海连' ,HomePhone = N'15854353541' ,[Address] = N'无棣县东区水湾镇高马村平房区185号'WHERE UserId = 5408 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'康健' ,MobilePhone = N'15605437356' ,HomePhone = N'18706434699' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层02单元02层01房间'WHERE UserId = 5409 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王军' ,MobilePhone = N'15020587568' ,HomePhone = N'15169954290' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房036号'WHERE UserId = 5410 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高金海' ,MobilePhone = N'13854393756' ,HomePhone = N'13562313892' ,[Address] = N'无棣县东区水湾镇高马村平房区052号'WHERE UserId = 5411 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周立青' ,MobilePhone = N'13645439316' ,HomePhone = N'18769658853' ,[Address] = N'滨州市直杜店镇张肖堂村平房047号'WHERE UserId = 5412 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高红伟' ,MobilePhone = N'18706609898' ,[Address] = N'无棣县东区水湾镇高马村平房区有线(1964)'WHERE UserId = 5413 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘红' ,MobilePhone = N'18706624333' ,[Address] = N'邹平县14邹平魏桥创业三园三区11#楼2-1601'WHERE UserId = 5414 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹景芳' ,MobilePhone = N'13705439666' ,HomePhone = N'13854309366' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）14#1单元502'WHERE UserId = 5415 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郭兆功（三园三区21-3-1402）' ,MobilePhone = N'15966383951' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼2-1102'WHERE UserId = 5416 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'窑洼办公室' ,MobilePhone = N'13561528193' ,[Address] = N'滨城区旧镇(南城三片区)窑洼平房204'WHERE UserId = 5417 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'路越' ,MobilePhone = N'18765098871' ,[Address] = N'邹平县14邹平魏桥创业三园三区20#楼3-901'WHERE UserId = 5418 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邱家办公室' ,MobilePhone = N'13561519268' ,[Address] = N'滨城区旧镇(南城三片区)邱家平房042'WHERE UserId = 5419 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'大刘办公室' ,MobilePhone = N'13954384601' ,[Address] = N'滨城区旧镇(南城三片区)大刘家平房038'WHERE UserId = 5420 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李红星' ,MobilePhone = N'15054324152' ,[Address] = N'邹平县14邹平魏桥创业三园三区20#楼2-1202'WHERE UserId = 5421 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'苏家办公室' ,MobilePhone = N'13905439237' ,[Address] = N'滨城区旧镇(南城三片区)苏家平房039'WHERE UserId = 5422 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'耿兴飞' ,MobilePhone = N'18366877868' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭5#2单元401'WHERE UserId = 5423 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树来' ,HomePhone = N'15806894852/2832' ,[Address] = N'博兴县南区店子站02大刘村平房无(2961)'WHERE UserId = 5424 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树元' ,HomePhone = N'13854332835' ,[Address] = N'博兴县南区店子站02大刘村平房无(3156)'WHERE UserId = 5430 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王朋朋' ,MobilePhone = N'13563051952' ,HomePhone = N'18754321711' ,[Address] = N'邹平县36台子镇中心社区8#楼1-102'WHERE UserId = 5431 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘玉华' ,HomePhone = N'15954316581' ,[Address] = N'博兴县南区店子站02大刘村平房无(3057)'WHERE UserId = 5432 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张志国' ,MobilePhone = N'15154351978' ,[Address] = N'邹平县36台子镇中心社区8#楼2-401'WHERE UserId = 5433 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王永生' ,MobilePhone = N'15154377316' ,HomePhone = N'15154377316' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房019号'WHERE UserId = 5434 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树强' ,MobilePhone = N'15376495014' ,HomePhone = N'13465054283' ,[Address] = N'博兴县南区店子站02大刘村平房无(1887)'WHERE UserId = 5356 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘金红' ,MobilePhone = N'13792279628' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）6#3单元2001'WHERE UserId = 5379 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴秀春' ,MobilePhone = N'18654320161' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层02单元03层02房间'WHERE UserId = 5380 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高峰' ,HomePhone = N'13854393379' ,[Address] = N'无棣县东区水湾镇高马村平房区182号'WHERE UserId = 5381 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树群' ,HomePhone = N'13515436539' ,[Address] = N'博兴县南区店子站02大刘村平房无(3075)'WHERE UserId = 5382 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孟小亮（三园二区22-3-102）' ,MobilePhone = N'13561563799' ,[Address] = N'邹平县14邹平魏桥创业三园一区D楼1-502(1596)'WHERE UserId = 5383 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希兵' ,MobilePhone = N'15254302682' ,HomePhone = N'18769642972' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(3377)'WHERE UserId = 5384 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王化明' ,MobilePhone = N'15154328195' ,HomePhone = N'5446847' ,[Address] = N'惠民县麻店站（何坊大区）陈王村平房037号'WHERE UserId = 5385 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙青' ,MobilePhone = N'18764557972' ,[Address] = N'邹平县14邹平魏桥创业三园三区20#楼1-902'WHERE UserId = 5386 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化平' ,HomePhone = N'13561575941' ,[Address] = N'博兴县南区店子站02大刘村平房无(1869)'WHERE UserId = 5387 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化行' ,MobilePhone = N'13854375594' ,HomePhone = N'15550618851' ,[Address] = N'博兴县南区店子站02大刘村平房无(1456)'WHERE UserId = 5388 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树旺' ,HomePhone = N'15266727991' ,[Address] = N'博兴县南区店子站02大刘村平房无(1791)'WHERE UserId = 5389 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王珍' ,MobilePhone = N'13963091980' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）7#2单元901'WHERE UserId = 5390 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕国龙（三园三区21#-3-101）' ,MobilePhone = N'15006930070' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼1-1701'WHERE UserId = 5391 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张俊娥' ,HomePhone = N'15054375386' ,[Address] = N'滨州市直杜店镇张肖堂村平房028号'WHERE UserId = 5392 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'金纪芹' ,HomePhone = N'0' ,[Address] = N'博兴县南区店子站02大刘村平房无(1788)'WHERE UserId = 5393 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张明华' ,HomePhone = N'13954339051' ,[Address] = N'滨州市直杜店镇张肖堂村平房102号'WHERE UserId = 5394 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树满' ,MobilePhone = N'13754683651' ,HomePhone = N'无电话' ,[Address] = N'博兴县南区店子站02大刘村平房_(0597)'WHERE UserId = 5395 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'范树宏' ,MobilePhone = N'18366896652' ,[Address] = N'阳信县中部翟王西范村57'WHERE UserId = 5396 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘国红' ,MobilePhone = N'18454300797' ,[Address] = N'博兴县南区店子站02大刘村平房刘国红'WHERE UserId = 5397 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘玉生' ,HomePhone = N'13954355693' ,[Address] = N'博兴县南区店子站02大刘村平房无(2973)'WHERE UserId = 5425 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邢成合' ,HomePhone = N'18265773581' ,[Address] = N'无棣县东区水湾镇高马村平房区184号'WHERE UserId = 5426 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘建华' ,MobilePhone = N'13563086797' ,HomePhone = N'2832000' ,[Address] = N'博兴县南区店子站02大刘村平房无(7901)'WHERE UserId = 5427 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜平' ,MobilePhone = N'15563009820' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）10#2单元802'WHERE UserId = 5471 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕秀芝' ,MobilePhone = N'15762162520' ,HomePhone = N'无' ,[Address] = N'邹平县26临池镇南寺村（毕海涛）平房南寺(9484)'WHERE UserId = 5472 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张友学' ,MobilePhone = N'3404225' ,HomePhone = N'13153586791/3404' ,[Address] = N'滨州市直杜店镇张肖堂村平房115号'WHERE UserId = 5474 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑德' ,MobilePhone = N'13506379880' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村1#楼2-302'WHERE UserId = 5475 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张友民' ,MobilePhone = N'18454394882' ,HomePhone = N'13561565572' ,[Address] = N'滨州市直杜店镇张肖堂村平房113号'WHERE UserId = 5476 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王超群' ,MobilePhone = N'15066932834' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元401'WHERE UserId = 5477 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张吉珍' ,MobilePhone = N'13792252097' ,HomePhone = N'18099700990' ,[Address] = N'沾化县富国大区西城区（刘晓）交通名苑】B19#科技局楼02单元5层01号'WHERE UserId = 5478 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵磊' ,MobilePhone = N'18706610714' ,HomePhone = N'18354365540' ,[Address] = N'邹平县21高新办德宝商贸城（张克）3#楼3-B1'WHERE UserId = 5479 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周吉学' ,HomePhone = N'13589729109' ,[Address] = N'滨州市直杜店镇张肖堂村平房112号'WHERE UserId = 5480 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'傅廷亮' ,MobilePhone = N'13854329206' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）4#2单元702'WHERE UserId = 5484 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕存良' ,HomePhone = N'13356284366' ,[Address] = N'滨城区里则(里则三片区)吕后平房129'WHERE UserId = 5485 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李勇' ,MobilePhone = N'13385437592' ,[Address] = N'邹平县13鹤伴二路以南腾辉书香苑4#楼1-401'WHERE UserId = 5486 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'程灵燕' ,MobilePhone = N'18954320828' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路御景苑16#2单元3002'WHERE UserId = 5487 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔永波' ,MobilePhone = N'13561558980' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路大祥金廷公馆5#3单元1201'WHERE UserId = 5488 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李元强' ,MobilePhone = N'13854372648' ,[Address] = N'邹平县31韩店镇赵家村30#楼4-602'WHERE UserId = 5489 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张拥军' ,MobilePhone = N'15966384422' ,HomePhone = N'18265436943' ,[Address] = N'滨州市直杜店镇张肖堂村平房116号'WHERE UserId = 5490 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'穆增国' ,MobilePhone = N'15570894786' ,HomePhone = N'15954306606+1595' ,[Address] = N'博兴县城区1号社区蒲菇小区12#中单元2楼东户'WHERE UserId = 5491 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔云阔' ,MobilePhone = N'13562344858' ,[Address] = N'邹平县31韩店镇教委中学宿舍3单元101室'WHERE UserId = 5493 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郭加林' ,MobilePhone = N'13954331697' ,[Address] = N'邹平县31韩店镇教委中学宿舍1单元202室'WHERE UserId = 5499 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树泉' ,HomePhone = N'13256490913' ,[Address] = N'博兴县南区店子站02大刘村平房无(3042)'WHERE UserId = 5500 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孝本海' ,HomePhone = N'3403885' ,[Address] = N'滨州市直杜店镇张肖堂村平房050号'WHERE UserId = 5501 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张海强' ,HomePhone = N'15054350584' ,[Address] = N'滨州市直杜店镇张肖堂村平房117号'WHERE UserId = 5503 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩本明' ,MobilePhone = N'13854304286' ,[Address] = N'邹平县31韩店镇青眉村平房无(4282)'WHERE UserId = 5504 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孝本欣' ,HomePhone = N'13280417295' ,[Address] = N'滨州市直杜店镇张肖堂村平房079号'WHERE UserId = 5505 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高燕' ,MobilePhone = N'13061060327' ,HomePhone = N'00000000' ,[Address] = N'博兴县城区2号社区华艺亭11#1单元201'WHERE UserId = 5428 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘希强' ,MobilePhone = N'13884852829' ,[Address] = N'沾化县富国大区西城区（李志勇）泉景花园（水利局）】18#楼高层2单元402'WHERE UserId = 5429 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘玉顺' ,MobilePhone = N'15564304480' ,HomePhone = N'15054339984 1895' ,[Address] = N'博兴县南区店子站02大刘村平房无(1779)'WHERE UserId = 5443 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕爱云' ,HomePhone = N'13561519095' ,[Address] = N'滨城区里则(里则三片区)吕后平房070'WHERE UserId = 5444 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋明云' ,MobilePhone = N'15554317616' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）14#1单元1102'WHERE UserId = 5445 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘玉平' ,MobilePhone = N'13561596743' ,HomePhone = N'13561596743' ,[Address] = N'博兴县南区店子站02大刘村平房无(7898)'WHERE UserId = 5446 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树高' ,HomePhone = N'无电话' ,[Address] = N'博兴县南区店子站02大刘村平房_(0591)'WHERE UserId = 5447 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕和滨' ,HomePhone = N'0' ,[Address] = N'滨城区里则(里则三片区)吕后平房128'WHERE UserId = 5448 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕金春' ,HomePhone = N'3422047' ,[Address] = N'滨城区里则(里则三片区)吕后平房033'WHERE UserId = 5450 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴念湖' ,HomePhone = N'0000000' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(6175)'WHERE UserId = 5451 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜培培' ,MobilePhone = N'15554398777' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南腾辉书香苑8#楼2-801'WHERE UserId = 5452 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化兵' ,HomePhone = N'13581166248' ,[Address] = N'博兴县南区店子站02大刘村平房无(2991)'WHERE UserId = 5453 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'梁郑德' ,HomePhone = N'15854322391' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(6256)'WHERE UserId = 5454 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴会华' ,HomePhone = N'4587628' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(6232)'WHERE UserId = 5456 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希良' ,MobilePhone = N'13295438902' ,HomePhone = N'3404086' ,[Address] = N'滨州市直杜店镇张肖堂村平房132号'WHERE UserId = 5457 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王洪民' ,MobilePhone = N'13465098138' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）6#2单元1601'WHERE UserId = 5458 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王舍' ,MobilePhone = N'13805431613' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村1#楼1-301'WHERE UserId = 5459 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张立军' ,MobilePhone = N'13954310337' ,HomePhone = N'3404276' ,[Address] = N'滨州市直杜店镇张肖堂村平房044号'WHERE UserId = 5495 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩可荣' ,HomePhone = N'3404269' ,[Address] = N'滨州市直杜店镇张肖堂村平房054号'WHERE UserId = 5496 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩震' ,MobilePhone = N'13589731038' ,HomePhone = N'无' ,[Address] = N'邹平县31韩店镇赵家村31#楼31#-1-301.'WHERE UserId = 5497 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'兰俊良' ,MobilePhone = N'18654395868' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#1单元801'WHERE UserId = 5498 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思海' ,HomePhone = N'13793878502' ,[Address] = N'滨州市直杜店镇张肖堂村平房053号'WHERE UserId = 5510 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周永涛' ,HomePhone = N'18764563836' ,[Address] = N'滨州市直杜店镇张肖堂村平房121号'WHERE UserId = 5511 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'董士亮' ,MobilePhone = N'13371328521' ,HomePhone = N'15966363281' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元802'WHERE UserId = 5512 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王德辉' ,MobilePhone = N'13561520608' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南和润家园3A楼2001'WHERE UserId = 5513 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周兴华' ,MobilePhone = N'13792289400' ,HomePhone = N'3404244' ,[Address] = N'滨州市直杜店镇张肖堂村平房069号'WHERE UserId = 5514 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张学强' ,MobilePhone = N'13563059519' ,HomePhone = N'3404190' ,[Address] = N'滨州市直杜店镇张肖堂村平房063号'WHERE UserId = 5515 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵国英' ,MobilePhone = N'13563098734' ,HomePhone = N'15376281826' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）14#1单元402'WHERE UserId = 5516 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'闫玉荣' ,MobilePhone = N'15254377586' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）11#1单元1402'WHERE UserId = 5517 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘志刚' ,MobilePhone = N'15854372590' ,HomePhone = N'18366818868' ,[Address] = N'滨州市直黄河02路五四鑫苑3#3单元1201'WHERE UserId = 5518 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘珂君' ,MobilePhone = N'13854321429' ,[Address] = N'邹平县13鹤伴二路以南和润家园3#楼2-801'WHERE UserId = 5519 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周兴岭' ,MobilePhone = N'13515439329' ,HomePhone = N'18654310617 3404' ,[Address] = N'滨州市直杜店镇张肖堂村平房058号'WHERE UserId = 5520 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王学雷' ,MobilePhone = N'15866658260' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(9343)'WHERE UserId = 5536 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'楚振华（楚振利）' ,MobilePhone = N'15054315251' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(7029)'WHERE UserId = 5537 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思福' ,MobilePhone = N'18265757740' ,HomePhone = N'15865216991/3404' ,[Address] = N'滨州市直杜店镇张肖堂村平房107号'WHERE UserId = 5538 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张宝忠' ,HomePhone = N'3404082 13754679' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(9799)'WHERE UserId = 5539 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁培连' ,MobilePhone = N'18764563016' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）17#2单元701'WHERE UserId = 5540 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王纪光' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(9050)'WHERE UserId = 5552 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'芦桂英' ,MobilePhone = N'13581164577' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南二排西七户'WHERE UserId = 5553 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周小芳' ,MobilePhone = N'13220728299' ,HomePhone = N'13406255707' ,[Address] = N'滨州市直杜店镇张肖堂村平房081号'WHERE UserId = 5554 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建山' ,HomePhone = N'3404245' ,[Address] = N'滨州市直杜店镇张肖堂村平房_(0382)'WHERE UserId = 5555 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王亚平' ,MobilePhone = N'13884861002' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南一排东六户'WHERE UserId = 5556 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张来阳' ,HomePhone = N'13954384890' ,[Address] = N'滨州市直杜店镇张肖堂村平房120号'WHERE UserId = 5557 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树传' ,MobilePhone = N'15006934833' ,HomePhone = N'13561566583' ,[Address] = N'博兴县南区店子站02大刘村平房无(2892)'WHERE UserId = 5564 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王秋生' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(7164)'WHERE UserId = 5565 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'牟晓珍' ,MobilePhone = N'18766670509' ,HomePhone = N'18769628599' ,[Address] = N'滨州市直黄河02路五四鑫苑4#1单元302'WHERE UserId = 5566 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘玉河' ,HomePhone = N'13012724330' ,[Address] = N'博兴县南区店子站02大刘村平房无(1704)'WHERE UserId = 5435 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王龙龙' ,MobilePhone = N'18754388818' ,HomePhone = N'18266556123' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）17#1单元1702'WHERE UserId = 5437 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树喜' ,MobilePhone = N'13792276582' ,HomePhone = N'2834949' ,[Address] = N'博兴县南区店子站02大刘村平房无(1480)'WHERE UserId = 5438 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘迎章' ,MobilePhone = N'13563086797' ,HomePhone = N'0' ,[Address] = N'博兴县南区店子站02大刘村平房无(8446)'WHERE UserId = 5439 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希金' ,HomePhone = N'13754658592' ,[Address] = N'滨州市直杜店镇张肖堂村平房017号'WHERE UserId = 5440 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树利' ,HomePhone = N'15965266853' ,[Address] = N'博兴县南区店子站02大刘村平房无(8476)'WHERE UserId = 5441 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树行' ,HomePhone = N'18763039410' ,[Address] = N'博兴县南区店子站02大刘村平房无(3048)'WHERE UserId = 5442 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'苏恒津' ,MobilePhone = N'13905437977' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层01单元07层02房间'WHERE UserId = 5460 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕庆堂' ,HomePhone = N'13563088059' ,[Address] = N'滨城区里则(里则三片区)吕后平房051'WHERE UserId = 5461 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘俊华' ,MobilePhone = N'15166303823' ,[Address] = N'博兴县南区店子站02大刘村平房刘俊华'WHERE UserId = 5462 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张井刚' ,MobilePhone = N'15954733965' ,HomePhone = N'6368839' ,[Address] = N'无棣县西区信阳南张村平房区105号'WHERE UserId = 5463 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘龙江' ,HomePhone = N'1234567' ,[Address] = N'博兴县南区店子站02大刘村平房刘龙江'WHERE UserId = 5464 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨先锋' ,MobilePhone = N'15054356467' ,HomePhone = N'无' ,[Address] = N'邹平县26临池镇南寺村（毕海涛）平房南寺(0504)'WHERE UserId = 5465 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'闫子强' ,HomePhone = N'13210717012' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元1601'WHERE UserId = 5466 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张胜利' ,MobilePhone = N'13356282444' ,HomePhone = N'15066937974+1895' ,[Address] = N'滨州市直杜店镇张肖堂村平房066号'WHERE UserId = 5467 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希君' ,MobilePhone = N'15054322161' ,[Address] = N'滨州市直杜店镇张肖堂村平房156号'WHERE UserId = 5468 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨军' ,MobilePhone = N'18654365118' ,HomePhone = N'13034525111' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层01单元01层01房间'WHERE UserId = 5469 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王春敏' ,MobilePhone = N'18354362360' ,[Address] = N'沾化县黄升大区永丰片（范金海）大王村】平房98号'WHERE UserId = 5481 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘保军' ,MobilePhone = N'15224380917' ,HomePhone = N'13561536450' ,[Address] = N'博兴县南区店子站02大刘村平房无(7880)'WHERE UserId = 5482 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张思滨' ,HomePhone = N'18266551229' ,[Address] = N'滨州市直杜店镇张肖堂村平房114号'WHERE UserId = 5483 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李戈' ,MobilePhone = N'13562320868' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南和润家园3#楼2-1502'WHERE UserId = 5522 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'尹振鳌' ,MobilePhone = N'13506376117' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）12#1单元1502'WHERE UserId = 5523 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'巩春智' ,MobilePhone = N'15054338219' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）2#2单元401'WHERE UserId = 5525 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'牛琼' ,MobilePhone = N'18366813007' ,HomePhone = N'15216491008' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）6#3单元2201'WHERE UserId = 5527 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴象永' ,HomePhone = N'13515431626' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(6244)'WHERE UserId = 5528 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴树伦' ,HomePhone = N'000000' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房7-1-102'WHERE UserId = 5529 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴象超' ,HomePhone = N'0000000' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房5-1-301'WHERE UserId = 5530 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴启正' ,HomePhone = N'0000000' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(4749)'WHERE UserId = 5531 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'徐景军' ,HomePhone = N'13563061526' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(6079)'WHERE UserId = 5532 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张兆文' ,MobilePhone = N'18706431606' ,HomePhone = N'00000000' ,[Address] = N'邹平县13鹤伴二路以南山水倾城1#楼1-201'WHERE UserId = 5533 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王玉霞' ,MobilePhone = N'15964060488' ,HomePhone = N'13589709685' ,[Address] = N'滨州市直杜店镇张肖堂村平房130号'WHERE UserId = 5534 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延生' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(0615)'WHERE UserId = 5535 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李强' ,MobilePhone = N'13406185643' ,[Address] = N'邹平县36台子镇中心社区8#楼2-102'WHERE UserId = 5541 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵玉芳' ,HomePhone = N'13686300388' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南二排西十户'WHERE UserId = 5542 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郑树祥' ,MobilePhone = N'18265778486' ,HomePhone = N'无' ,[Address] = N'邹平县36台子镇台东村平房无(5788)'WHERE UserId = 5543 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘希昌' ,MobilePhone = N'13561585921' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）16#1单元1302'WHERE UserId = 5544 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙涛' ,MobilePhone = N'15854391026' ,[Address] = N'邹平县29明集镇柴家村（张嘎）平房无(6058)'WHERE UserId = 5546 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘学军' ,HomePhone = N'13805431910 4352' ,[Address] = N'邹平县19黛溪办（西）东关西区东排4栋东2户'WHERE UserId = 5547 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王春雷' ,MobilePhone = N'13754687573' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南一排东三户'WHERE UserId = 5548 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'柴会泳' ,HomePhone = N'13506379715' ,[Address] = N'邹平县29明集镇柴家村（张嘎）8#楼2-502'WHERE UserId = 5549 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵红亮' ,MobilePhone = N'13589404062' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南一排东四户'WHERE UserId = 5550 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建强' ,MobilePhone = N'18754389393' ,HomePhone = N'3404119' ,[Address] = N'滨州市直杜店镇张肖堂村平房077号'WHERE UserId = 5551 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘树福' ,HomePhone = N'13455786621' ,[Address] = N'博兴县南区店子站02大刘村平房无(3138)'WHERE UserId = 5558 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘化喜' ,HomePhone = N'无电话' ,[Address] = N'博兴县南区店子站02大刘村平房_(0600)'WHERE UserId = 5569 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王泽东' ,HomePhone = N'0000000' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南一排西四户'WHERE UserId = 5570 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高文波' ,MobilePhone = N'13176492108' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）15#1单元101'WHERE UserId = 5571 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙昭信' ,MobilePhone = N'13506378081' ,HomePhone = N'13561589150' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）6#3单元1101'WHERE UserId = 5506 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张立华' ,MobilePhone = N'15865196222' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#3单元1301'WHERE UserId = 5507 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'陈秀云' ,MobilePhone = N'18354322170' ,HomePhone = N'3403891' ,[Address] = N'滨州市直杜店镇张肖堂村平房035号'WHERE UserId = 5508 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'白丽萍' ,MobilePhone = N'13285430342' ,HomePhone = N'15615278609' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）1#2单元202'WHERE UserId = 5509 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王玉荣' ,MobilePhone = N'18954330808' ,HomePhone = N'13376491686' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）10#2单元602'WHERE UserId = 5521 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刁树玲' ,MobilePhone = N'13515432601' ,HomePhone = N'18354301518' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）3#1单元1202'WHERE UserId = 5526 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔培平' ,MobilePhone = N'13210710030' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层02单元08层03房间'WHERE UserId = 5560 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘忠义' ,MobilePhone = N'15550292860' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）11#1单元502'WHERE UserId = 5561 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建波' ,HomePhone = N'3404288' ,[Address] = N'滨州市直杜店镇张肖堂村平房049号'WHERE UserId = 5562 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张昆山' ,HomePhone = N'13561573722' ,[Address] = N'无棣县北区马山子镇岔尖二村平房区122号'WHERE UserId = 5563 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'南新庄办公室' ,MobilePhone = N'18766638687' ,[Address] = N'滨城区旧镇(南城三片区)南新庄平房054'WHERE UserId = 5572 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张灯友' ,HomePhone = N'18764561422' ,[Address] = N'滨州市直杜店镇张肖堂村平房059号'WHERE UserId = 5573 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张小香' ,MobilePhone = N'13854398952' ,HomePhone = N'13954330669' ,[Address] = N'滨州市直杜店镇张肖堂村平房149号'WHERE UserId = 5574 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘玉海' ,HomePhone = N'16006996340' ,[Address] = N'博兴县南区店子站02大刘村平房无(2967)'WHERE UserId = 5575 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘风岩' ,MobilePhone = N'13963077060' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层01单元01层01房间'WHERE UserId = 5576 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱秀梅' ,MobilePhone = N'18678322253' ,HomePhone = N'15305432827' ,[Address] = N'博兴县南区店子站02大刘村平房无(1707)'WHERE UserId = 5577 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张景勇（王树亮）' ,HomePhone = N'15954333140' ,[Address] = N'无棣县北区马山子镇岔尖一村平房区155号'WHERE UserId = 5578 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'远教点' ,HomePhone = N'13356294486' ,[Address] = N'博兴县南区店子站02大刘村平房无(2979)'WHERE UserId = 5579 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'谷友成' ,MobilePhone = N'18766674275' ,[Address] = N'邹平县36台子镇中心社区6#楼1-502'WHERE UserId = 5580 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵伟伟' ,MobilePhone = N'15854338630' ,HomePhone = N'13405432449' ,[Address] = N'博兴县城区2号社区华艺亭15#1单元702'WHERE UserId = 5581 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王凯' ,HomePhone = N'13371330015' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南一排东二户'WHERE UserId = 5582 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孟涛' ,MobilePhone = N'15506300526' ,HomePhone = N'13061019695' ,[Address] = N'滨州市直黄河08路大祥金廷公馆8#2单元2301'WHERE UserId = 5583 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李玉红3.3  21-3-1201' ,MobilePhone = N'15969984968' ,HomePhone = N'000000' ,[Address] = N'邹平县14邹平魏桥创业二园二区（旧）18#楼1-901'WHERE UserId = 5584 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘宗福' ,MobilePhone = N'13561536450' ,[Address] = N'博兴县南区店子站02大刘村平房刘宗福'WHERE UserId = 5585 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'庞卫华' ,MobilePhone = N'13854357288' ,HomePhone = N'13061013111' ,[Address] = N'惠民县城区3（孙武大区）国泰花园12#楼高层_(9548)'WHERE UserId = 5586 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延民' ,MobilePhone = N'18854321011' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南二排西四户'WHERE UserId = 5587 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张延蕊' ,MobilePhone = N'13615439708' ,HomePhone = N'13854367240' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）16#1单元1801'WHERE UserId = 5588 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'廉顺' ,MobilePhone = N'13561560898' ,HomePhone = N'13561548595' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南一排西二户'WHERE UserId = 5589 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孝思国' ,MobilePhone = N'13954320927' ,HomePhone = N'13173281901' ,[Address] = N'滨州市直杜店镇张肖堂村平房027号'WHERE UserId = 5590 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周永凡' ,HomePhone = N'3403939' ,[Address] = N'滨州市直杜店镇张肖堂村平房062号'WHERE UserId = 5591 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王鲁明' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房鄢家新村南二排西一户'WHERE UserId = 5592 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王延光' ,MobilePhone = N'13805431586' ,HomePhone = N'15762119722' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(2696)'WHERE UserId = 5593 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王秀利' ,MobilePhone = N'13805430036' ,HomePhone = N'17705436017' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）14#1单元401'WHERE UserId = 5594 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'路菲菲（三园三区22-2-201）' ,MobilePhone = N'13562330506' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼2-1401'WHERE UserId = 5595 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淑雷' ,HomePhone = N'无' ,[Address] = N'邹平县17黛溪办（东）鄢家村平房无(2548)'WHERE UserId = 5596 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋殿营' ,MobilePhone = N'13181035588' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#3单元301'WHERE UserId = 5597 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'鲁文光（三园三区22-1-1001）' ,MobilePhone = N'18763016323' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼2-1402'WHERE UserId = 5598 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张希华' ,HomePhone = N'13954378033' ,[Address] = N'滨州市直杜店镇张肖堂村平房124号'WHERE UserId = 5599 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李放（三园三区22-2-1001）' ,MobilePhone = N'15254369229' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区10#楼2-1501'WHERE UserId = 5600 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘宗泰' ,HomePhone = N'13884856169' ,[Address] = N'博兴县南区店子站02大刘村平房无(7916)'WHERE UserId = 5601 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'史延钢' ,MobilePhone = N'18464287636' ,HomePhone = N'00000000' ,[Address] = N'邹平县14邹平魏桥创业三园三区7#楼2-902'WHERE UserId = 5602 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张树涛' ,HomePhone = N'13515438456' ,[Address] = N'滨州市直杜店镇张肖堂村平房076号'WHERE UserId = 5603 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王洋' ,MobilePhone = N'13061001352' ,HomePhone = N'3256500' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）15#1单元602'WHERE UserId = 5604 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享304' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓51'WHERE UserId = 5606 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'隋新房' ,HomePhone = N'15615466791' ,[Address] = N'博兴县北区陈户站05闫陈新村平房2单元1楼西户'WHERE UserId = 5607 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享404' ,HomePhone = N'4810272' ,[Address] = N'邹平县21高新办司家村（张克）老年公寓59'WHERE UserId = 5608 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'许杰' ,HomePhone = N'15666216392' ,[Address] = N'博兴县北区陈户站05闫陈新村平房东单元4楼西户'WHERE UserId = 5612 
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张新田' ,HomePhone = N'3404267' ,[Address] = N'滨州市直杜店镇张肖堂村平房067号'WHERE UserId = 5647 

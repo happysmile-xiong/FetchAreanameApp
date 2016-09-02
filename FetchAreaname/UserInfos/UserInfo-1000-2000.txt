@@ -1,0 +1,1802 @@
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢炳利' ,MobilePhone = N'15254368988' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1392)'WHERE UserId = 1006 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢长军' ,MobilePhone = N'15865208276' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(4776)'WHERE UserId = 1007 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜述臣' ,MobilePhone = N'18054305559' ,HomePhone = N'13615438669' ,[Address] = N'滨州市直黄河08路市建委9#02单元4层02房间'WHERE UserId = 1016 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宗平' ,MobilePhone = N'13954376312' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(3069)'WHERE UserId = 1018 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢振义' ,MobilePhone = N'15854321871' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢振义'WHERE UserId = 1019 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝玉强' ,MobilePhone = N'15865207779' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼东单元4楼东'WHERE UserId = 1024 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宝' ,MobilePhone = N'15550236819' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(3057)'WHERE UserId = 1025 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢东志' ,MobilePhone = N'15666122288' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(8684)'WHERE UserId = 1026 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝建平' ,MobilePhone = N'13561516352' ,HomePhone = N'13589716017' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(0949)'WHERE UserId = 1027 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王金星' ,MobilePhone = N'15169957711' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(9571)'WHERE UserId = 1028 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宗新' ,MobilePhone = N'15065216901' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(8347)'WHERE UserId = 1029 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝海港' ,MobilePhone = N'13954346110' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(0970)'WHERE UserId = 1030 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢玉平' ,MobilePhone = N'15865236017' ,HomePhone = N'18905436051' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1479)'WHERE UserId = 1031 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢长生' ,MobilePhone = N'15065256981' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元202'WHERE UserId = 1032 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢云利' ,MobilePhone = N'15838926386' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1317)'WHERE UserId = 1033 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢洪祥' ,MobilePhone = N'15065228726' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼中单元2楼东'WHERE UserId = 1035 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付守敏' ,MobilePhone = N'13396283558' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#2单元401'WHERE UserId = 1036 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'村委老年休息室3' ,MobilePhone = N'15006978688' ,[Address] = N'博兴县南区寨郝站01寨卢村平房村委老年休息室3'WHERE UserId = 1012 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢文庆' ,MobilePhone = N'15266718419' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢文庆'WHERE UserId = 1013 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王友凯' ,MobilePhone = N'15154317139' ,HomePhone = N'13371327134' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1895)'WHERE UserId = 1014 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王友山' ,MobilePhone = N'15065226606' ,HomePhone = N'15065226606 1876' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1901)'WHERE UserId = 1015 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宗昊' ,MobilePhone = N'18954395728' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢宗昊'WHERE UserId = 1017 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢振亮' ,MobilePhone = N'13963088858' ,HomePhone = N'13963088858' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(4431)'WHERE UserId = 1021 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'村委8' ,MobilePhone = N'15006978688' ,[Address] = N'博兴县南区寨郝站01寨卢村平房村委8'WHERE UserId = 1022 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付守清' ,MobilePhone = N'13356286008' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼西单元1楼西'WHERE UserId = 1041 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝凯' ,MobilePhone = N'13563086796' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#3单元201'WHERE UserId = 1042 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝荣涛' ,MobilePhone = N'13561596814' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼中单元5楼西'WHERE UserId = 1043 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢小青' ,MobilePhone = N'15854364162' ,HomePhone = N'13061045031' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼西单元3楼西'WHERE UserId = 1045 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢同金' ,MobilePhone = N'15854364161' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼东单元5楼东'WHERE UserId = 1046 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢明' ,MobilePhone = N'13305434898' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#3单元301'WHERE UserId = 1047 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢振山' ,MobilePhone = N'15898929332' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼东单元2楼西'WHERE UserId = 1048 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李延英' ,MobilePhone = N'15898929332' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(4758)'WHERE UserId = 1049 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢子林' ,MobilePhone = N'15954314806' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#1单元501'WHERE UserId = 1050 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢新军' ,HomePhone = N'0000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼中单元3楼东'WHERE UserId = 1051 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢文佳' ,MobilePhone = N'15762167262' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#3单元501'WHERE UserId = 1052 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢新国' ,MobilePhone = N'15553495393' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼中单元1楼西'WHERE UserId = 1053 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付东生' ,MobilePhone = N'15206854006' ,HomePhone = N'18905435233' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼西单元5楼西'WHERE UserId = 1054 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢子林2' ,MobilePhone = N'15954314806' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢子林2'WHERE UserId = 1063 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢友林' ,MobilePhone = N'15066988991' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#1单元501'WHERE UserId = 1064 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢延耀' ,MobilePhone = N'13605436881' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元102'WHERE UserId = 1065 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢祥建' ,MobilePhone = N'15854316918' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼东单元5楼西'WHERE UserId = 1066 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝荣君' ,MobilePhone = N'15865426678' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#3单元302'WHERE UserId = 1067 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'舒永利' ,MobilePhone = N'13356297772' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(9601)'WHERE UserId = 1068 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝风密' ,MobilePhone = N'18769624106' ,HomePhone = N'2807865' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(3075)'WHERE UserId = 1069 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢洪飞' ,MobilePhone = N'15154346851' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼中单元4楼西'WHERE UserId = 1070 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢永明' ,MobilePhone = N'18706611450' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#2单元402'WHERE UserId = 1071 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'傅金刚' ,MobilePhone = N'15854328793' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼西单元2楼西'WHERE UserId = 1072 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢良峰' ,HomePhone = N'13589416678' ,[Address] = N'博兴县南区寨郝站01寨卢村平房_(2071)'WHERE UserId = 1000 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'商希芹' ,MobilePhone = N'13905430692' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）14#2单元702'WHERE UserId = 1001 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'怡华苑1#1单元201' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）1#1单元201'WHERE UserId = 1002 
+
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'怡华苑1#1单元301' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）1#1单元301'WHERE UserId = 1004 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王晓爱' ,MobilePhone = N'13954359286' ,HomePhone = N'13475098188' ,[Address] = N'滨州市直黄河08路市建委17#03单元1层01房间'WHERE UserId = 1005 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王康' ,MobilePhone = N'13356245048' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(3072)'WHERE UserId = 1008 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢建忠' ,HomePhone = N'2808989' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(8272)'WHERE UserId = 1009 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'村委老年休息室1' ,MobilePhone = N'15006978688' ,[Address] = N'博兴县南区寨郝站01寨卢村平房村委老年休息室1'WHERE UserId = 1010 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'村委老年休息室2' ,MobilePhone = N'15006978688' ,[Address] = N'博兴县南区寨郝站01寨卢村平房村委老年休息室2'WHERE UserId = 1011 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'傅守义' ,MobilePhone = N'18954368777' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼中单元2楼西'WHERE UserId = 1034 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王新京' ,MobilePhone = N'15553381719' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元101'WHERE UserId = 1058 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马玉兰' ,MobilePhone = N'18105438083' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河04路齐鲁花园东座1单元1301'WHERE UserId = 1059 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王新京' ,MobilePhone = N'15376310068' ,HomePhone = N'15553381719' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(4467)'WHERE UserId = 1060 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢振水' ,MobilePhone = N'15866257837' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼西单元2楼东'WHERE UserId = 1061 
+
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥曰臣' ,HomePhone = N'2808293' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼东单元4楼东'WHERE UserId = 1106 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢心兵' ,MobilePhone = N'18266560588' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼东单元3楼东'WHERE UserId = 1107 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝小琴' ,MobilePhone = N'15254320068' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(2982)'WHERE UserId = 1108 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢延宝' ,MobilePhone = N'15065256401' ,HomePhone = N'15550606835 2808' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(4686)'WHERE UserId = 1109 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢春生' ,MobilePhone = N'13563056060' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼东单元4楼西'WHERE UserId = 1114 
+
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王英鹏' ,MobilePhone = N'13675430878' ,HomePhone = N'13685431977' ,[Address] = N'滨州市直黄河08路祥泰·新河湾16#01单元1层02号'WHERE UserId = 1123 
+
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王金亮' ,MobilePhone = N'18663087885' ,[Address] = N'博兴县南区寨郝站01寨卢村平房傅守义'WHERE UserId = 1133 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'胡少江' ,MobilePhone = N'13706378936' ,[Address] = N'博兴县城区3号社区名士豪庭广播局4#东1单元11楼东户'WHERE UserId = 1134 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨轶芳' ,HomePhone = N'2160010' ,[Address] = N'博兴县城区3号社区名士豪庭广播局4#东2单元10楼西户'WHERE UserId = 1135 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张淑美' ,MobilePhone = N'13792296978' ,[Address] = N'博兴县城区3号社区名士豪庭广播局4#东2单元11楼西户'WHERE UserId = 1136 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢国强' ,MobilePhone = N'15966396147' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#1单元201'WHERE UserId = 1143 
+  
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'徐军' ,HomePhone = N'0000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#1单元303'WHERE UserId = 1037 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢文峰' ,MobilePhone = N'15550613796' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼中单元4楼东'WHERE UserId = 1038 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王友奎' ,MobilePhone = N'13589746610' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼西单元1楼东'WHERE UserId = 1039 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢同峰' ,MobilePhone = N'15963076888' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼西单元3楼西'WHERE UserId = 1040 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢永镇' ,MobilePhone = N'18860551807' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼西单元2楼西'WHERE UserId = 1055 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝立永' ,MobilePhone = N'13465064793' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼东单元2楼西'WHERE UserId = 1057 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢心举' ,MobilePhone = N'15966380098' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼西单元1楼西'WHERE UserId = 1099 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张冬生' ,MobilePhone = N'13385435807' ,HomePhone = N'2807862' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(8269)'WHERE UserId = 1118 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥立春' ,MobilePhone = N'13396281579' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#3单元101'WHERE UserId = 1119 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥立玲' ,MobilePhone = N'13954399664' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#3单元402'WHERE UserId = 1120 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢心成' ,MobilePhone = N'15065216437' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢心成'WHERE UserId = 1165 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔稳稳' ,MobilePhone = N'15005439008' ,HomePhone = N'15005439008' ,[Address] = N'滨州市直黄河05路尚座小区1#2单元1401'WHERE UserId = 1166 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'村委5' ,MobilePhone = N'15006978688' ,[Address] = N'博兴县南区寨郝站01寨卢村平房村委5'WHERE UserId = 1167 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'村委9' ,MobilePhone = N'15006978688' ,[Address] = N'博兴县南区寨郝站01寨卢村平房村委9'WHERE UserId = 1168 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'村委4' ,MobilePhone = N'15006978688' ,[Address] = N'博兴县南区寨郝站01寨卢村平房村委4'WHERE UserId = 1169 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'村委2' ,MobilePhone = N'15006978688' ,[Address] = N'博兴县南区寨郝站01寨卢村平房村委2'WHERE UserId = 1170 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'营业厅及机房' ,HomePhone = N'无' ,[Address] = N'邹平县12鹤伴二路以北广电局机房_'WHERE UserId = 1176 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'营业厅及机房' ,HomePhone = N'无' ,[Address] = N'邹平县12鹤伴二路以北广电局机房_'WHERE UserId = 1177 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'营业厅及机房' ,HomePhone = N'无' ,[Address] = N'邹平县12鹤伴二路以北广电局机房_'WHERE UserId = 1178 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'营业厅及机房' ,HomePhone = N'无' ,[Address] = N'邹平县12鹤伴二路以北广电局机房_'WHERE UserId = 1179 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴艳芹' ,MobilePhone = N'15966362238' ,HomePhone = N'13153597890' ,[Address] = N'滨州市直黄河04路齐鲁花园东座3单元1201'WHERE UserId = 1181 
+
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张建强' ,MobilePhone = N'13562319555' ,[Address] = N'滨州市直黄河08路市建委15#01单元3层01房间'WHERE UserId = 1193 
+  
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢东升' ,MobilePhone = N'13562338182' ,HomePhone = N'13020549592' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(0733)'WHERE UserId = 1207 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢福林' ,MobilePhone = N'15564051823' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(6389)'WHERE UserId = 1208 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢延新' ,MobilePhone = N'13455436842' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢新清家7个终端(3438)'WHERE UserId = 1210 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李宁' ,MobilePhone = N'18364965599' ,[Address] = N'滨州市直黄河08路市建委6#02单元5层01房间'WHERE UserId = 1211 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩海令' ,HomePhone = N'13506378886/3356' ,[Address] = N'滨州市直黄河08路市建委5#02单元3层01房间'WHERE UserId = 1213 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'苏云霞' ,MobilePhone = N'13561574060' ,HomePhone = N'15054348506' ,[Address] = N'滨州市直黄河05路尚座小区1#4单元1601'WHERE UserId = 1214 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卞炜' ,MobilePhone = N'18305433003' ,[Address] = N'滨州市直黄河08路市建委14#03单元4层02房间'WHERE UserId = 1217 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王淼' ,MobilePhone = N'15866663566' ,HomePhone = N'17605438370' ,[Address] = N'滨州市直黄河03路仁和家园1#03单元15层03号'WHERE UserId = 1220 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张磊' ,MobilePhone = N'15305430627' ,HomePhone = N'13505430627' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）15#1单元2302'WHERE UserId = 1221 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王博' ,MobilePhone = N'15854364421' ,HomePhone = N'18654305337' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(2862)'WHERE UserId = 1224 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付同贵' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(3300)'WHERE UserId = 1225 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥永军' ,MobilePhone = N'18860551897' ,HomePhone = N'18054326918' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(2946)'WHERE UserId = 1226 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王友凯' ,MobilePhone = N'15154317139' ,HomePhone = N'13371327134' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1895)'WHERE UserId = 1227 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'袁达' ,MobilePhone = N'13562329699' ,HomePhone = N'3350902' ,[Address] = N'滨州市直黄河08路市房管局04新楼北楼01单元3层02号'WHERE UserId = 1228 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥立明' ,MobilePhone = N'15654378007' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#3单元401'WHERE UserId = 1073 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢春永' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#2单元202'WHERE UserId = 1074 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王耀林' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#3单元202'WHERE UserId = 1075 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢延增' ,MobilePhone = N'13176426238' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#3单元102'WHERE UserId = 1076 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢东堂' ,MobilePhone = N'13255437078' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼西单元3楼东'WHERE UserId = 1077 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢祥兵' ,MobilePhone = N'15169924377' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼西单元5楼东'WHERE UserId = 1078 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王友为' ,MobilePhone = N'15066915845' ,[Address] = N'博兴县南区寨郝站01寨卢村平房王友为'WHERE UserId = 1079 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘兆峰' ,MobilePhone = N'13793886697' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#2单元102'WHERE UserId = 1080 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢祥丽' ,MobilePhone = N'18765087086' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#3单元201'WHERE UserId = 1081 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢青枝' ,MobilePhone = N'13475095511' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#1单元401'WHERE UserId = 1082 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'徐明' ,MobilePhone = N'15615220899' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼中单元4楼西'WHERE UserId = 1083 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢延誉' ,MobilePhone = N'13589736256' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(8675)'WHERE UserId = 1084 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢永华' ,MobilePhone = N'15318211018' ,HomePhone = N'15254318881' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼西单元4楼西'WHERE UserId = 1085 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢俊莲' ,MobilePhone = N'15898929332' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元301'WHERE UserId = 1086 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王永军' ,MobilePhone = N'13385437877' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元401'WHERE UserId = 1087 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'穆建华' ,MobilePhone = N'18954368533' ,HomePhone = N'13589712790' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼东单元3楼西'WHERE UserId = 1088 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付守清' ,MobilePhone = N'13356286008' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(9866)'WHERE UserId = 1089 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王福光' ,MobilePhone = N'15854305805' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#3单元401'WHERE UserId = 1090 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥保峰' ,MobilePhone = N'15066954656' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼中单元5楼西'WHERE UserId = 1091 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢振省' ,MobilePhone = N'13181042099' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼西单元2楼东'WHERE UserId = 1092 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥国亮' ,MobilePhone = N'15725436975' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#2单元501'WHERE UserId = 1093 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥立金' ,MobilePhone = N'13854326802' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元402'WHERE UserId = 1094 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宗峰' ,MobilePhone = N'13173295613' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(9075)'WHERE UserId = 1095 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥永顺' ,MobilePhone = N'13954366542' ,HomePhone = N'13954366542' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(2838)'WHERE UserId = 1096 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢新伟' ,MobilePhone = N'15054378522' ,HomePhone = N'15306497888' ,[Address] = N'博兴县南区寨郝站01寨卢小区西楼西单元4楼西'WHERE UserId = 1097 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢长新' ,MobilePhone = N'15254395957' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(2739)'WHERE UserId = 1098 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋玉玲' ,MobilePhone = N'15206866182' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(4242)'WHERE UserId = 1105 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢玉' ,MobilePhone = N'18954375162' ,HomePhone = N'13386492112' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(6072)'WHERE UserId = 1111 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢玉' ,MobilePhone = N'18954375162' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#1单元201'WHERE UserId = 1112 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宗科' ,MobilePhone = N'13346299988' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1852)'WHERE UserId = 1113 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢良明' ,MobilePhone = N'13345299988' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼东单元3楼东'WHERE UserId = 1115 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴君洪' ,MobilePhone = N'13505439732' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）16#1单元1301'WHERE UserId = 1117 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢同生' ,MobilePhone = N'15054320138' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#2单元502'WHERE UserId = 1124 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥广文' ,MobilePhone = N'18706611265' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼中单元5楼东'WHERE UserId = 1125 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢振坤' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1939)'WHERE UserId = 1126 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢长庭' ,MobilePhone = N'13589716017' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢长庭'WHERE UserId = 1127 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付守学' ,MobilePhone = N'15254326613' ,HomePhone = N'13021528323' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#3单元502'WHERE UserId = 1128 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥立伟' ,MobilePhone = N'13275438387' ,HomePhone = N'13963091326' ,[Address] = N'博兴县南区寨郝站01寨卢小区东楼中单元3楼东'WHERE UserId = 1129 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥立忠' ,MobilePhone = N'15005446229' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(3294)'WHERE UserId = 1131 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥立峰' ,MobilePhone = N'15154363620' ,HomePhone = N'13376492775' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(4506)'WHERE UserId = 1137 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢强' ,MobilePhone = N'15563033588' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(7460)'WHERE UserId = 1140 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢延强' ,MobilePhone = N'15554326126' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1823)'WHERE UserId = 1141 
+  
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢全林' ,MobilePhone = N'18354353688' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(8083)'WHERE UserId = 1100 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥国华' ,MobilePhone = N'13854366233' ,HomePhone = N'13954396289' ,[Address] = N'博兴县南区寨郝站01寨卢村平房_(2074)'WHERE UserId = 1101 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢麦玲' ,MobilePhone = N'15254395991' ,[Address] = N'博兴县南区寨郝站01寨卢小区5#3单元301'WHERE UserId = 1102 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王小博' ,MobilePhone = N'18854336187' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元302'WHERE UserId = 1121 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢安彬' ,MobilePhone = N'15854370911' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元201'WHERE UserId = 1130 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘金喜' ,MobilePhone = N'18764560394' ,HomePhone = N'8181385' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）17#2单元1802'WHERE UserId = 1152 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王友胜' ,MobilePhone = N'13695436883' ,HomePhone = N'13854376088' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(6356)'WHERE UserId = 1171 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'营业厅及机房' ,HomePhone = N'无' ,[Address] = N'邹平县12鹤伴二路以北广电局机房_'WHERE UserId = 1172 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'营业厅及机房' ,HomePhone = N'无' ,[Address] = N'邹平县12鹤伴二路以北广电局机房_'WHERE UserId = 1173 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'营业厅及机房' ,HomePhone = N'无' ,[Address] = N'邹平县12鹤伴二路以北广电局机房_'WHERE UserId = 1174 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'营业厅及机房' ,HomePhone = N'无' ,[Address] = N'邹平县12鹤伴二路以北广电局机房_'WHERE UserId = 1175 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢振华' ,MobilePhone = N'13954386796' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(4248)'WHERE UserId = 1182 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'彩虹湖社区（刘慧）' ,MobilePhone = N'13355435333' ,HomePhone = N'13562308580' ,[Address] = N'滨州市直渤海13路彩虹湖社区办公楼1单元101'WHERE UserId = 1188 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马光松' ,MobilePhone = N'15965431966' ,HomePhone = N'3356400' ,[Address] = N'滨州市直黄河08路市建委1#01单元2层01房间'WHERE UserId = 1209 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢文庭' ,MobilePhone = N'15563054068' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢新清家7个终端(3432)'WHERE UserId = 1212 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高会珍' ,MobilePhone = N'18663070620' ,HomePhone = N'3329694' ,[Address] = N'滨州市直黄河04路耿家花园小区南楼4#01单元3层02房间'WHERE UserId = 1222 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李正大' ,MobilePhone = N'15206889988' ,HomePhone = N'21' ,[Address] = N'滨州市直黄河03路仁和家园2#01单元8层01号'WHERE UserId = 1229 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王天雨' ,MobilePhone = N'18606497377' ,HomePhone = N'13336291777' ,[Address] = N'滨州市直黄河08路市建委16#03单元3层01房间'WHERE UserId = 1233 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'13515439150' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8102房间'WHERE UserId = 1236 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8301号'WHERE UserId = 1238 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8301号'WHERE UserId = 1239 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8302号'WHERE UserId = 1240 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8302号'WHERE UserId = 1241 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8315号'WHERE UserId = 1253 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8317号'WHERE UserId = 1255 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8320号'WHERE UserId = 1258 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8331号'WHERE UserId = 1268 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8331号'WHERE UserId = 1269 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8332号'WHERE UserId = 1270 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8336号'WHERE UserId = 1271 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8338'WHERE UserId = 1272 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8340号'WHERE UserId = 1273 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8340号'WHERE UserId = 1274 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8342号'WHERE UserId = 1275 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8346号'WHERE UserId = 1276 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房131号'WHERE UserId = 1277 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李元忠' ,HomePhone = N'3356331' ,[Address] = N'滨州市直黄河08路市建委5#03单元3层01房间'WHERE UserId = 1230 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8303号'WHERE UserId = 1242 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8305号'WHERE UserId = 1243 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房097号'WHERE UserId = 1244 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8307号'WHERE UserId = 1245 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8308号'WHERE UserId = 1246 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8309号'WHERE UserId = 1247 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8310号'WHERE UserId = 1248 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8311号'WHERE UserId = 1249 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8312号'WHERE UserId = 1250 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8312号'WHERE UserId = 1251 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8313号'WHERE UserId = 1252 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8316号'WHERE UserId = 1254 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'18006390201' ,HomePhone = N'2222222' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8321号'WHERE UserId = 1259 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'18006390201' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8322号'WHERE UserId = 1260 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8323号'WHERE UserId = 1261 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'代百阳' ,MobilePhone = N'13054649418' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）17#1单元2301'WHERE UserId = 1262 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8325号'WHERE UserId = 1263 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8326号'WHERE UserId = 1264 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8327号'WHERE UserId = 1265 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8328号'WHERE UserId = 1266 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8329号'WHERE UserId = 1267 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8350号'WHERE UserId = 1278 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8352号'WHERE UserId = 1279 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8356号'WHERE UserId = 1280 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8358号'WHERE UserId = 1281 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8360号'WHERE UserId = 1282 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8362号'WHERE UserId = 1283 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8366号'WHERE UserId = 1284 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8368号'WHERE UserId = 1285 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8370号'WHERE UserId = 1286 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8401号'WHERE UserId = 1287 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8401号'WHERE UserId = 1288 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8402号'WHERE UserId = 1289 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8402号'WHERE UserId = 1290 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8403号'WHERE UserId = 1291 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8403号'WHERE UserId = 1292 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8405号'WHERE UserId = 1293 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8405号'WHERE UserId = 1294 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8406号'WHERE UserId = 1295 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8408号'WHERE UserId = 1296 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8410号'WHERE UserId = 1297 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8412号'WHERE UserId = 1298 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8412号'WHERE UserId = 1299 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8415号'WHERE UserId = 1300 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8416号'WHERE UserId = 1301 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8417号'WHERE UserId = 1302 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8418号'WHERE UserId = 1303 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8419号'WHERE UserId = 1304 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8270号'WHERE UserId = 1237 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8318号'WHERE UserId = 1256 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8319号'WHERE UserId = 1257 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8535号'WHERE UserId = 1376 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8536号'WHERE UserId = 1377 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8537号'WHERE UserId = 1378 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8538号'WHERE UserId = 1379 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8539号'WHERE UserId = 1380 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8540号'WHERE UserId = 1381 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8540号'WHERE UserId = 1382 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8541号'WHERE UserId = 1383 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8542号'WHERE UserId = 1384 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8543号'WHERE UserId = 1385 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8546号'WHERE UserId = 1386 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房279号'WHERE UserId = 1387 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8550号'WHERE UserId = 1388 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8552号'WHERE UserId = 1389 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8556号'WHERE UserId = 1390 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房285号'WHERE UserId = 1391 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8560号'WHERE UserId = 1392 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8562号'WHERE UserId = 1393 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8566号'WHERE UserId = 1394 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8568号'WHERE UserId = 1395 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8570号'WHERE UserId = 1396 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8611号'WHERE UserId = 1397 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8612号'WHERE UserId = 1398 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8612号'WHERE UserId = 1399 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王帅' ,MobilePhone = N'15550624666' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）3#1单元1501'WHERE UserId = 1442 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8203号'WHERE UserId = 1483 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8202号'WHERE UserId = 1485 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8128号'WHERE UserId = 1491 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8127号'WHERE UserId = 1492 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8127号'WHERE UserId = 1493 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8126号'WHERE UserId = 1494 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8125号'WHERE UserId = 1495 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8123号'WHERE UserId = 1496 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8122号'WHERE UserId = 1497 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8121号'WHERE UserId = 1498 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8120号'WHERE UserId = 1499 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8119号'WHERE UserId = 1500 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8118号'WHERE UserId = 1501 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8117号'WHERE UserId = 1502 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8116号'WHERE UserId = 1503 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8116号'WHERE UserId = 1504 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8115号'WHERE UserId = 1505 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8113号'WHERE UserId = 1506 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房一层8112号'WHERE UserId = 1507 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8420号'WHERE UserId = 1305 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8421号'WHERE UserId = 1306 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8422号'WHERE UserId = 1307 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8425号'WHERE UserId = 1308 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8425号'WHERE UserId = 1309 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8426号'WHERE UserId = 1310 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8427号'WHERE UserId = 1311 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8427号'WHERE UserId = 1312 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8428号'WHERE UserId = 1313 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8429号'WHERE UserId = 1314 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8429号'WHERE UserId = 1315 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8430号'WHERE UserId = 1316 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8431号'WHERE UserId = 1317 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8431号'WHERE UserId = 1318 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8432号'WHERE UserId = 1319 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8433号'WHERE UserId = 1320 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8435号'WHERE UserId = 1321 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8436号'WHERE UserId = 1322 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8437号'WHERE UserId = 1323 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8438号'WHERE UserId = 1324 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8439号'WHERE UserId = 1325 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8440号'WHERE UserId = 1326 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8440号'WHERE UserId = 1327 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8441号'WHERE UserId = 1328 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8442号'WHERE UserId = 1329 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8443号'WHERE UserId = 1330 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8446号'WHERE UserId = 1331 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8448号'WHERE UserId = 1332 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8450号'WHERE UserId = 1333 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8452号'WHERE UserId = 1334 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8456号'WHERE UserId = 1335 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8458号'WHERE UserId = 1336 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8460号'WHERE UserId = 1337 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8462号'WHERE UserId = 1338 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8466号'WHERE UserId = 1339 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8468号'WHERE UserId = 1340 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8470号'WHERE UserId = 1341 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8501号'WHERE UserId = 1342 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8501号'WHERE UserId = 1343 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8502号'WHERE UserId = 1344 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8502号'WHERE UserId = 1345 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8503号'WHERE UserId = 1346 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8503号'WHERE UserId = 1347 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8505号'WHERE UserId = 1348 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8505号'WHERE UserId = 1349 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'18678331618' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8506号'WHERE UserId = 1350 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8508号'WHERE UserId = 1351 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8510号'WHERE UserId = 1352 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8512号'WHERE UserId = 1353 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8512号'WHERE UserId = 1354 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8515号'WHERE UserId = 1355 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8517号'WHERE UserId = 1356 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8518号'WHERE UserId = 1357 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8518号'WHERE UserId = 1358 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8519号'WHERE UserId = 1359 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房256号'WHERE UserId = 1360 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房257号'WHERE UserId = 1361 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8613号'WHERE UserId = 1400 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8615号'WHERE UserId = 1401 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8616号'WHERE UserId = 1402 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8617号'WHERE UserId = 1403 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8618号'WHERE UserId = 1404 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8619号'WHERE UserId = 1405 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8620号'WHERE UserId = 1406 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8621号'WHERE UserId = 1407 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8622号'WHERE UserId = 1408 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8623号'WHERE UserId = 1409 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8262号'WHERE UserId = 1445 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8260号'WHERE UserId = 1446 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'18006390201' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8258号'WHERE UserId = 1447 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8256号'WHERE UserId = 1448 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8252号'WHERE UserId = 1449 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8250号'WHERE UserId = 1450 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8248号'WHERE UserId = 1451 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8246号'WHERE UserId = 1452 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'18006390201' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8242号'WHERE UserId = 1453 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8240号'WHERE UserId = 1454 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8238号'WHERE UserId = 1455 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8236号'WHERE UserId = 1456 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8232号'WHERE UserId = 1457 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8231号'WHERE UserId = 1458 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8231号'WHERE UserId = 1459 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8230号'WHERE UserId = 1460 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'18006390132' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8228号'WHERE UserId = 1461 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8226号'WHERE UserId = 1462 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8225号'WHERE UserId = 1463 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8223号'WHERE UserId = 1464 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8222号'WHERE UserId = 1465 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8221号'WHERE UserId = 1466 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8220号'WHERE UserId = 1467 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8219号'WHERE UserId = 1468 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8218号'WHERE UserId = 1469 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8217号'WHERE UserId = 1470 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8216号'WHERE UserId = 1471 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8215号'WHERE UserId = 1472 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8208号'WHERE UserId = 1479 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8207号'WHERE UserId = 1480 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8206号'WHERE UserId = 1481 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8205号'WHERE UserId = 1482 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房258号'WHERE UserId = 1362 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房259号'WHERE UserId = 1363 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房259号'WHERE UserId = 1364 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房260号'WHERE UserId = 1365 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房261号'WHERE UserId = 1366 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房261号'WHERE UserId = 1367 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8528号'WHERE UserId = 1368 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8529号'WHERE UserId = 1369 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8529号'WHERE UserId = 1370 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8530号'WHERE UserId = 1371 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8531号'WHERE UserId = 1372 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8531号'WHERE UserId = 1373 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8532号'WHERE UserId = 1374 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8533号'WHERE UserId = 1375 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8213号'WHERE UserId = 1473 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'18006390201' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8212号'WHERE UserId = 1474 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'18006390201' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8212号'WHERE UserId = 1475 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8211号'WHERE UserId = 1476 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8210号'WHERE UserId = 1477 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8209号'WHERE UserId = 1478 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房一层8111号'WHERE UserId = 1508 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房一层8110号'WHERE UserId = 1509 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8109号'WHERE UserId = 1510 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房248号'WHERE UserId = 1511 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房221号'WHERE UserId = 1512 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房220号'WHERE UserId = 1513 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房219号'WHERE UserId = 1514 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房218号'WHERE UserId = 1515 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'13515439150' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8102房间'WHERE UserId = 1516 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8101房间'WHERE UserId = 1517 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8101房间'WHERE UserId = 1518 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢文举' ,MobilePhone = N'15154363604' ,HomePhone = N'2808178' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(1311)'WHERE UserId = 1521 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付金亮' ,HomePhone = N'15065226622' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(8681)'WHERE UserId = 1522 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宗顺' ,MobilePhone = N'13792276271' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(8326)'WHERE UserId = 1523 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宗芹' ,MobilePhone = N'13181001227' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢宗芹'WHERE UserId = 1524 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢宝' ,MobilePhone = N'15550236819' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(3057)'WHERE UserId = 1525 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王新勇' ,MobilePhone = N'18265438668' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路莱钢新高都1#1单元3004'WHERE UserId = 1527 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马连环' ,MobilePhone = N'18464260827' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路莱钢新高都2#1单元1803'WHERE UserId = 1528 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8007号'WHERE UserId = 1690 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8008号'WHERE UserId = 1691 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8009号'WHERE UserId = 1692 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8010号'WHERE UserId = 1693 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8011号'WHERE UserId = 1694 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8012号'WHERE UserId = 1695 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8013号'WHERE UserId = 1696 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹新波' ,MobilePhone = N'13475099744' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元1002'WHERE UserId = 1717 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘明芳' ,MobilePhone = N'15154354189' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村8#1单元601'WHERE UserId = 1718 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张彦海' ,MobilePhone = N'13561576642' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元501'WHERE UserId = 1719 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹建平' ,MobilePhone = N'13455786513' ,HomePhone = N'15554355453' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元301'WHERE UserId = 1720 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8625号'WHERE UserId = 1410 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8626号'WHERE UserId = 1411 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8627号'WHERE UserId = 1412 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8628号'WHERE UserId = 1413 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8629号'WHERE UserId = 1414 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8630号'WHERE UserId = 1415 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8631号'WHERE UserId = 1416 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8631号'WHERE UserId = 1417 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8632号'WHERE UserId = 1418 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8633号'WHERE UserId = 1419 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8635号'WHERE UserId = 1420 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8636号'WHERE UserId = 1421 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8637号'WHERE UserId = 1422 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8638号'WHERE UserId = 1423 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8639号'WHERE UserId = 1424 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'18054301639' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8640号'WHERE UserId = 1425 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'18054301639' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8640号'WHERE UserId = 1426 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8641号'WHERE UserId = 1427 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'2222222' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8642号'WHERE UserId = 1428 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8643号'WHERE UserId = 1429 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8646号'WHERE UserId = 1430 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8648号'WHERE UserId = 1431 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8650号'WHERE UserId = 1432 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8652号'WHERE UserId = 1433 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8658号'WHERE UserId = 1434 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,[Address] = N'滨州市直渤海18路滨州大饭店客房8660'WHERE UserId = 1435 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,[Address] = N'滨州市直渤海18路滨州大饭店客房8662'WHERE UserId = 1436 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,[Address] = N'滨州市直渤海18路滨州大饭店客房8666'WHERE UserId = 1437 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,[Address] = N'滨州市直渤海18路滨州大饭店客房8668'WHERE UserId = 1438 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,[Address] = N'滨州市直渤海18路滨州大饭店客房8670'WHERE UserId = 1439 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房三层8330号'WHERE UserId = 1441 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8268号'WHERE UserId = 1443 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8266号'WHERE UserId = 1444 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8201号'WHERE UserId = 1486 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8201号'WHERE UserId = 1487 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8136号'WHERE UserId = 1488 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8132号'WHERE UserId = 1489 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8130号'WHERE UserId = 1490 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'泥立荣' ,MobilePhone = N'15865426778' ,[Address] = N'博兴县南区寨郝站01寨卢村平房泥立荣'WHERE UserId = 1519 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢长生' ,MobilePhone = N'15065256981' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区寨郝站01寨卢小区3#2单元202'WHERE UserId = 1520 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房8202号'WHERE UserId = 1526 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名（赵建磊）' ,MobilePhone = N'13705430010' ,HomePhone = N'3880855' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3001号'WHERE UserId = 1531 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3002号'WHERE UserId = 1532 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3003号'WHERE UserId = 1533 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3005号'WHERE UserId = 1534 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3006号'WHERE UserId = 1535 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3007号'WHERE UserId = 1536 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3008号'WHERE UserId = 1537 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3009号'WHERE UserId = 1538 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3010号'WHERE UserId = 1539 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,[Address] = N'滨州市直渤海18路滨州大饭店客房8656'WHERE UserId = 1440 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3011号'WHERE UserId = 1540 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3012号'WHERE UserId = 1541 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3016号'WHERE UserId = 1542 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3018号'WHERE UserId = 1543 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3022号'WHERE UserId = 1544 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3026号'WHERE UserId = 1545 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4001号'WHERE UserId = 1546 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4002号'WHERE UserId = 1547 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4003号'WHERE UserId = 1548 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4005号'WHERE UserId = 1549 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4006号'WHERE UserId = 1550 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4007号'WHERE UserId = 1551 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4008号'WHERE UserId = 1552 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4009号'WHERE UserId = 1553 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4010号'WHERE UserId = 1554 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4011号'WHERE UserId = 1555 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4012号'WHERE UserId = 1556 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4013号'WHERE UserId = 1557 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4015号'WHERE UserId = 1558 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4016号'WHERE UserId = 1559 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4017号'WHERE UserId = 1560 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4018号'WHERE UserId = 1561 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4019号'WHERE UserId = 1562 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4020号'WHERE UserId = 1563 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'13506377976' ,HomePhone = N'3069665' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4022号'WHERE UserId = 1564 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4023号'WHERE UserId = 1565 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4026号'WHERE UserId = 1566 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5001号'WHERE UserId = 1567 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5002号'WHERE UserId = 1568 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5003号'WHERE UserId = 1569 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5005号'WHERE UserId = 1570 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5006号'WHERE UserId = 1571 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5007号'WHERE UserId = 1572 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5008号'WHERE UserId = 1573 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5009号'WHERE UserId = 1574 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5010号'WHERE UserId = 1575 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5011号'WHERE UserId = 1576 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5012号'WHERE UserId = 1577 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5013号'WHERE UserId = 1578 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5015号'WHERE UserId = 1579 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5016号'WHERE UserId = 1580 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5017号'WHERE UserId = 1581 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5018号'WHERE UserId = 1582 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5019号'WHERE UserId = 1583 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5020号'WHERE UserId = 1584 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5021号'WHERE UserId = 1585 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5022号'WHERE UserId = 1586 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5023号'WHERE UserId = 1587 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5025号'WHERE UserId = 1588 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5026号'WHERE UserId = 1589 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5027号'WHERE UserId = 1590 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5028号'WHERE UserId = 1591 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5029号'WHERE UserId = 1592 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5030号'WHERE UserId = 1593 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5031号'WHERE UserId = 1594 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5032号'WHERE UserId = 1595 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5033号'WHERE UserId = 1596 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5035号'WHERE UserId = 1597 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5036号'WHERE UserId = 1598 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5038号'WHERE UserId = 1599 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5040号'WHERE UserId = 1600 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5088号'WHERE UserId = 1601 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'13705430015' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6001号'WHERE UserId = 1602 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6002号'WHERE UserId = 1603 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6003号'WHERE UserId = 1604 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6005号'WHERE UserId = 1605 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6006号'WHERE UserId = 1606 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6007号'WHERE UserId = 1607 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6008号'WHERE UserId = 1608 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6009号'WHERE UserId = 1609 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6010号'WHERE UserId = 1610 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6011号'WHERE UserId = 1611 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6012号'WHERE UserId = 1612 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6013号'WHERE UserId = 1613 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6015号'WHERE UserId = 1614 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6016号'WHERE UserId = 1615 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6017号'WHERE UserId = 1616 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6018号'WHERE UserId = 1617 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6019号'WHERE UserId = 1618 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6020号'WHERE UserId = 1619 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6021号'WHERE UserId = 1620 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6022号'WHERE UserId = 1621 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6023号'WHERE UserId = 1622 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6025号'WHERE UserId = 1623 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6026号'WHERE UserId = 1624 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6027号'WHERE UserId = 1625 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6029号'WHERE UserId = 1627 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6030号'WHERE UserId = 1628 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6031号'WHERE UserId = 1629 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6032号'WHERE UserId = 1630 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6033号'WHERE UserId = 1631 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6036号'WHERE UserId = 1632 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'3899916' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6038号'WHERE UserId = 1633 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6088号'WHERE UserId = 1634 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7001号'WHERE UserId = 1635 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7002号'WHERE UserId = 1636 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7003号'WHERE UserId = 1638 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7005号'WHERE UserId = 1639 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'15865434186' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7006号'WHERE UserId = 1640 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7007号'WHERE UserId = 1641 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7008号'WHERE UserId = 1642 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7009号'WHERE UserId = 1643 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6028号'WHERE UserId = 1644 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7010号'WHERE UserId = 1645 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7011号'WHERE UserId = 1646 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7012号'WHERE UserId = 1647 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7013号'WHERE UserId = 1648 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7015号'WHERE UserId = 1649 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7016号'WHERE UserId = 1650 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7017号'WHERE UserId = 1651 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7018号'WHERE UserId = 1652 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7019号'WHERE UserId = 1653 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7020号'WHERE UserId = 1654 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7021号'WHERE UserId = 1655 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7022号'WHERE UserId = 1656 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,MobilePhone = N'3069665' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7023号'WHERE UserId = 1657 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7025号'WHERE UserId = 1658 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7026号'WHERE UserId = 1659 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7027号'WHERE UserId = 1660 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7028号'WHERE UserId = 1661 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7029号'WHERE UserId = 1662 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7030号'WHERE UserId = 1663 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7031号'WHERE UserId = 1664 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7032号'WHERE UserId = 1665 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7036号'WHERE UserId = 1666 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7088号'WHERE UserId = 1667 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8001号'WHERE UserId = 1668 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8002号'WHERE UserId = 1669 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8003号'WHERE UserId = 1670 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李茂林' ,MobilePhone = N'13792256306' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元1002'WHERE UserId = 1674 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵博' ,MobilePhone = N'13854324704' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元402'WHERE UserId = 1675 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘福祥' ,MobilePhone = N'13706375008' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元702'WHERE UserId = 1676 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩杰' ,MobilePhone = N'13793856494' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元202'WHERE UserId = 1677 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵明贤' ,MobilePhone = N'15543344497' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元302'WHERE UserId = 1678 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵岩松' ,MobilePhone = N'18265793678' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#1单元802'WHERE UserId = 1679 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'闫英硕' ,MobilePhone = N'15866257881' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元401'WHERE UserId = 1680 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'丁增亮' ,MobilePhone = N'13884856564' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元802'WHERE UserId = 1682 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵长虹' ,MobilePhone = N'15006956880' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元602'WHERE UserId = 1683 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵卫国' ,MobilePhone = N'15965266101' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元902'WHERE UserId = 1684 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张若勤' ,MobilePhone = N'13455766867' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元602'WHERE UserId = 1685 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵峰' ,MobilePhone = N'15005436348' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#2单元602'WHERE UserId = 1686 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵军凯' ,MobilePhone = N'13854326982' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元901'WHERE UserId = 1689 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8027号'WHERE UserId = 1708 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'3069665' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8028号'WHERE UserId = 1709 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8030号'WHERE UserId = 1710 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8088号'WHERE UserId = 1711 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵明伦' ,MobilePhone = N'13505436560' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元202'WHERE UserId = 1712 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王瑞' ,MobilePhone = N'13954356973' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元301'WHERE UserId = 1713 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵礼' ,MobilePhone = N'13954354541' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元401'WHERE UserId = 1687 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵长华' ,MobilePhone = N'15054304566' ,HomePhone = N'15054304566' ,[Address] = N'博兴县南区曹王站03邵元新村8#1单元301'WHERE UserId = 1688 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩世水' ,MobilePhone = N'15698037750' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元302'WHERE UserId = 1714 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵明义' ,MobilePhone = N'13793856826' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元702'WHERE UserId = 1715 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵长键' ,MobilePhone = N'13012721572' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#2单元902'WHERE UserId = 1716 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'常翠华' ,MobilePhone = N'15169954189' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村8#2单元301'WHERE UserId = 1722 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵立新' ,MobilePhone = N'13954327605' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#2单元501'WHERE UserId = 1723 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵一鸣' ,MobilePhone = N'13012721572' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#2单元901'WHERE UserId = 1724 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵松涛' ,MobilePhone = N'15865220699' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元201'WHERE UserId = 1725 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵长峰' ,MobilePhone = N'15550250000' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#2单元1002'WHERE UserId = 1726 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵长浦' ,MobilePhone = N'13793895171' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村12#2单元301'WHERE UserId = 1727 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘玉祥' ,MobilePhone = N'13954310904' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#1单元402'WHERE UserId = 1728 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵常峰' ,MobilePhone = N'13562438088' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元1001'WHERE UserId = 1729 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩世君' ,HomePhone = N'2857632' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元402'WHERE UserId = 1734 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵军' ,MobilePhone = N'15854662864' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元901'WHERE UserId = 1735 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张兆忠' ,MobilePhone = N'13561576740' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#2单元801'WHERE UserId = 1736 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘志刚' ,MobilePhone = N'13854308719' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）5#1单元601'WHERE UserId = 1738 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王青' ,HomePhone = N'13605439000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）13#1单元901'WHERE UserId = 1739 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4001号'WHERE UserId = 1740 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房4002号'WHERE UserId = 1741 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5001号'WHERE UserId = 1742 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5002号'WHERE UserId = 1743 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房5088号'WHERE UserId = 1744 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'13705430015' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6001号'WHERE UserId = 1745 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6002号'WHERE UserId = 1746 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房6088号'WHERE UserId = 1747 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7001号'WHERE UserId = 1748 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7002号'WHERE UserId = 1749 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房7088号'WHERE UserId = 1750 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8001号'WHERE UserId = 1751 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8002号'WHERE UserId = 1752 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8088号'WHERE UserId = 1753 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王曰超' ,MobilePhone = N'13561588159' ,HomePhone = N'13954333549' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）17#2单元1801'WHERE UserId = 1756 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙红芝' ,MobilePhone = N'15563075555' ,HomePhone = N'18654327776' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）17#2单元502'WHERE UserId = 1759 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李河圣' ,MobilePhone = N'13953480119' ,HomePhone = N'13954337073' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）6#2单元1202'WHERE UserId = 1760 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'胡宝光' ,HomePhone = N'15206887185' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）8#2单元101'WHERE UserId = 1761 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张戈' ,MobilePhone = N'15552225077' ,HomePhone = N'13954359981' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）14#1单元901'WHERE UserId = 1762 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'满峰泉' ,HomePhone = N'18654318999' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）7#2单元1701'WHERE UserId = 1764 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨勇' ,MobilePhone = N'13615438818' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）14#1单元1302'WHERE UserId = 1769 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享TV3个大区演示' ,MobilePhone = N'13005436666' ,HomePhone = N'2112788' ,[Address] = N'滨州市直黄河08路市广电局市场部享TV大区演示（渤海大区黄河大区开发大区）'WHERE UserId = 1771 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'裴梦芹' ,MobilePhone = N'15715436661' ,HomePhone = N'15954314888' ,[Address] = N'滨州市直黄河02路五四鑫苑3#1单元1302'WHERE UserId = 1777 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'胡庆水' ,MobilePhone = N'13061008877' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）10#2单元102'WHERE UserId = 1778 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'时桂英' ,MobilePhone = N'18769684629' ,HomePhone = N'15263001828' ,[Address] = N'滨州市直渤海05路曲轴厂4#03单元4层02房间'WHERE UserId = 1779 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'苏霞霞' ,MobilePhone = N'18464286559' ,HomePhone = N'15376496663' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元1202'WHERE UserId = 1783 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'胡兴田' ,MobilePhone = N'15552718655' ,[Address] = N'滨州市直渤海24路腾宇鑫苑5#3单元301'WHERE UserId = 1784 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢建国' ,HomePhone = N'0' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(2952)'WHERE UserId = 1789 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8005号'WHERE UserId = 1672 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8006号'WHERE UserId = 1673 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张若玉' ,MobilePhone = N'13954396082' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#2单元801'WHERE UserId = 1681 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8015号'WHERE UserId = 1697 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8016号'WHERE UserId = 1698 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8017号'WHERE UserId = 1699 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8018号'WHERE UserId = 1700 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8019号'WHERE UserId = 1701 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8020号'WHERE UserId = 1702 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'3069665' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8021号'WHERE UserId = 1703 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8022号'WHERE UserId = 1704 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8023号'WHERE UserId = 1705 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8025号'WHERE UserId = 1706 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直黄河05路大学饭店客房客房8026号'WHERE UserId = 1707 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵兵' ,MobilePhone = N'18766630131' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#1单元902'WHERE UserId = 1721 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵明珠' ,MobilePhone = N'13705436590' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元701'WHERE UserId = 1731 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩成骞' ,MobilePhone = N'18654306819' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元502'WHERE UserId = 1732 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邵月珠' ,MobilePhone = N'15154356610' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村12#1单元303'WHERE UserId = 1733 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李小龙' ,MobilePhone = N'13561575058' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村3#1单元902'WHERE UserId = 1737 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'傅金娥' ,MobilePhone = N'13061028860' ,HomePhone = N'13675431897' ,[Address] = N'滨州市直渤海05路曲轴厂6#02单元2层01房间'WHERE UserId = 1781 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张海江' ,MobilePhone = N'13954396382' ,[Address] = N'滨州市直黄河03路仁和家园2#02单元15层03号'WHERE UserId = 1785 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔国富' ,HomePhone = N'15854338368' ,[Address] = N'滨州市直渤海05路建筑一工区07年4#02单元5层02号'WHERE UserId = 1786 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王开明' ,HomePhone = N'13905435333' ,[Address] = N'滨州市直黄河03路仁和家园2#02单元4层02号'WHERE UserId = 1787 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'舒聪' ,MobilePhone = N'18769651392' ,HomePhone = N'15305437282' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区12#03单元7层02号'WHERE UserId = 1790 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘红' ,MobilePhone = N'13805437052' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河01路秀水花园2#2单元803'WHERE UserId = 1791 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'西站' ,HomePhone = N'2112788' ,[Address] = N'滨州市直黄河08路市广电局市场部101'WHERE UserId = 1792 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'市场部测试机1' ,HomePhone = N'123456' ,[Address] = N'滨城区郊区零散户(郊区一片区)分公司工程技术部002'WHERE UserId = 1794 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田亚平' ,MobilePhone = N'3351709' ,HomePhone = N'13954378779' ,[Address] = N'滨州市直渤海07路区经贸委南楼1#05单元1层01房间'WHERE UserId = 1796 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'陶明林' ,MobilePhone = N'13561594722' ,HomePhone = N'13754668767' ,[Address] = N'滨州市直渤海11路锦绣城二期3#1单元1501'WHERE UserId = 1800 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'墨雪军' ,MobilePhone = N'13854369269' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路大祥金廷公馆5#1单元1002'WHERE UserId = 1802 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'广电享TV办公室' ,HomePhone = N'2251018' ,[Address] = N'无棣县东区东城区中心大街武装部沿街楼广电享TV办公室1'WHERE UserId = 1803 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨帅帅' ,MobilePhone = N'18763030587' ,HomePhone = N'13589728808' ,[Address] = N'滨州市直渤海13路彩虹佳苑小区17#2单元202'WHERE UserId = 1804 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付小山' ,HomePhone = N'13326286888' ,[Address] = N'滨州市直黄河02路莱钢新高都5#1单元2002'WHERE UserId = 1805 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘同兴' ,MobilePhone = N'18464266993' ,HomePhone = N'18366864557' ,[Address] = N'滨州市直渤海03路爱情公寓4#1单元404'WHERE UserId = 1806 
+
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王中胜' ,MobilePhone = N'13954379988' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）13#1单元202'WHERE UserId = 1811 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'许丛丛' ,MobilePhone = N'18763082111' ,HomePhone = N'00000000' ,[Address] = N'滨城区郊区(郊区四片区)巴黎花园B座(2#)2单元303'WHERE UserId = 1813 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'0' ,[Address] = N'滨州市直黄河05路大学饭店客房明德厅'WHERE UserId = 1814 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房意诚厅'WHERE UserId = 1820 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房心正厅'WHERE UserId = 1821 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房身修厅'WHERE UserId = 1822 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房家齐厅'WHERE UserId = 1823 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房君子厅'WHERE UserId = 1829 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'耿路忠' ,MobilePhone = N'13854379599' ,HomePhone = N'00000000' ,[Address] = N'滨州市直渤海11路锦绣城二期8#1单元2101'WHERE UserId = 1832 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'薛会娟' ,MobilePhone = N'13061006780' ,HomePhone = N'00000000' ,[Address] = N'滨城区郊区(郊区一片区)玉龙湖畔09#楼2单元1701'WHERE UserId = 1833 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜红红' ,MobilePhone = N'18266490628' ,HomePhone = N'00000000' ,[Address] = N'滨城区郊区(郊区一片区)玉龙湖畔8#楼2单元1401'WHERE UserId = 1834 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'薛丹红' ,MobilePhone = N'13356297590' ,HomePhone = N'00000000' ,[Address] = N'滨城区郊区(郊区一片区)玉龙湖畔2#楼1单元602'WHERE UserId = 1835 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房196号'WHERE UserId = 1836 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'惠兰厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房194号'WHERE UserId = 1838 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郭荣合' ,MobilePhone = N'13854339366' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）10#1单元801'WHERE UserId = 1730 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'范本秀' ,MobilePhone = N'13793882659' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河01路秀水花园2#1单元1602'WHERE UserId = 1774 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙振森' ,MobilePhone = N'15505434501' ,HomePhone = N'18663070310' ,[Address] = N'滨州市直黄河02路京华我的公馆3#2单元401'WHERE UserId = 1780 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'林明' ,MobilePhone = N'15806892980' ,HomePhone = N'3371319' ,[Address] = N'滨州市直渤海05路曲轴厂5#02单元5层02房间'WHERE UserId = 1782 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘翠香' ,MobilePhone = N'13012726952' ,HomePhone = N'13505438355' ,[Address] = N'滨州市直黄河04路康家北院8#01单元2层01房间'WHERE UserId = 1788 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张路燕' ,MobilePhone = N'13021523606' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#3单元1002'WHERE UserId = 1795 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马永利' ,MobilePhone = N'13562318798' ,HomePhone = N'18663082757' ,[Address] = N'滨州市直黄河02路莱钢新高都2#1单元1103'WHERE UserId = 1801 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱前锋' ,MobilePhone = N'13905430004' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）8#2单元702'WHERE UserId = 1807 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李秋述' ,MobilePhone = N'13181009995' ,HomePhone = N'15865239388' ,[Address] = N'滨州市直渤海13路彩虹佳苑小区8#2单元302'WHERE UserId = 1809 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李楠楠' ,MobilePhone = N'13061049060' ,HomePhone = N'18766635850' ,[Address] = N'滨州市直渤海13路彩虹佳苑小区17#2单元401'WHERE UserId = 1810 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'幽兰厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房195号'WHERE UserId = 1837 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'夏兰厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房193号'WHERE UserId = 1839 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'云颂酒窖' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房192号'WHERE UserId = 1840 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'中海厅4' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房191号'WHERE UserId = 1841 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'中海厅3' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房190号'WHERE UserId = 1842 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'中海厅2' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房189号'WHERE UserId = 1843 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'中海厅1' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房188号'WHERE UserId = 1844 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'金兰厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房187号'WHERE UserId = 1845 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'滨州厅2' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房186号'WHERE UserId = 1846 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'滨州厅1' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房185号'WHERE UserId = 1847 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'董郎厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房184号'WHERE UserId = 1848 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'董郎厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房184号'WHERE UserId = 1849 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'范公厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房169号'WHERE UserId = 1850 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙武厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房168号'WHERE UserId = 1851 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'傲梅厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房167号'WHERE UserId = 1852 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杏梅厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房166号'WHERE UserId = 1853 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'品梅厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房165号'WHERE UserId = 1854 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'龙梅厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房164号'WHERE UserId = 1855 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'玉梅厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房163号'WHERE UserId = 1856 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'腊梅厅' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房客房162号'WHERE UserId = 1857 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢炳山' ,HomePhone = N'2808237' ,[Address] = N'博兴县南区寨郝站01寨卢村平房_(0025)'WHERE UserId = 1858 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田利华' ,MobilePhone = N'13455431657' ,HomePhone = N'13515430337' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元501'WHERE UserId = 1859 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩艳卫' ,MobilePhone = N'15666493907' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#1单元501'WHERE UserId = 1860 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'阳信广电网络公司' ,HomePhone = N'0000000' ,[Address] = N'阳信县阳城四路县广播局办公楼013号'WHERE UserId = 1867 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'程之厚' ,MobilePhone = N'13805436691' ,HomePhone = N'00000000' ,[Address] = N'博兴县南区曹王站03邵元新村5#1单元601'WHERE UserId = 1868 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李艳艳' ,MobilePhone = N'18205443826' ,HomePhone = N'15275431525' ,[Address] = N'滨州市直黄河02路莱钢新高都2#1单元905'WHERE UserId = 1870 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曲百水' ,MobilePhone = N'13562309338' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路莱钢新高都4#1单元804'WHERE UserId = 1871 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吴伟坤' ,MobilePhone = N'13356246240' ,HomePhone = N'13465089606' ,[Address] = N'滨州市直黄河02路莱钢新高都1#1单元1402'WHERE UserId = 1875 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'罗建忠' ,HomePhone = N'13061001241' ,[Address] = N'滨州市直黄河02路莱钢新高都2#1单元1506'WHERE UserId = 1876 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享TV3个大区演示' ,MobilePhone = N'13005436666' ,HomePhone = N'2112788' ,[Address] = N'滨州市直黄河08路市广电局市场部享TV大区演示（渤海大区黄河大区开发大区）'WHERE UserId = 1877 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李荣' ,MobilePhone = N'13906490405' ,HomePhone = N'3356163' ,[Address] = N'滨州市直黄河08路市建委3#01单元3层02房间'WHERE UserId = 1878 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郭志刚' ,MobilePhone = N'15005446079' ,HomePhone = N'13505465389' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区17#01单元4层02房间'WHERE UserId = 1881 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名（赵建磊）' ,MobilePhone = N'13705430010' ,HomePhone = N'3880855' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3001号'WHERE UserId = 1754 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名（赵建磊）' ,MobilePhone = N'13705430010' ,HomePhone = N'3880855' ,[Address] = N'滨州市直黄河05路大学饭店客房客房3001号'WHERE UserId = 1755 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房2个备用享TV盒子'WHERE UserId = 1765 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'无' ,[Address] = N'滨州市直渤海18路滨州大饭店客房2个备用享TV盒子'WHERE UserId = 1766 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢新清' ,HomePhone = N'1339531565' ,[Address] = N'博兴县南区寨郝站01寨卢村平房卢新清家7个终端(0823)'WHERE UserId = 1767 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘爱忠' ,MobilePhone = N'18764567606' ,HomePhone = N'13954394336' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区16#02单元5层01房间'WHERE UserId = 1882 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'冯孝武' ,HomePhone = N'15589223888' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区5#03单元4层02号'WHERE UserId = 1884 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王德志' ,HomePhone = N'13905438219' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区15#01单元6层01房间'WHERE UserId = 1885 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙维俊' ,MobilePhone = N'15305437285' ,HomePhone = N'2118279' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区19#01单元5层02房间'WHERE UserId = 1886 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'季海霞' ,MobilePhone = N'13173286692' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路御景苑16#1单元102'WHERE UserId = 1887 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'薛际海' ,MobilePhone = N'3316366' ,HomePhone = N'13805438833' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区3#03单元4层02号'WHERE UserId = 1888 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'薄秀兰' ,MobilePhone = N'13305436565' ,HomePhone = N'15954736123' ,[Address] = N'滨州市直黄河08路御景苑15#1单元2903'WHERE UserId = 1889 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马洪伟' ,MobilePhone = N'15666491463' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区28#02单元4层02号'WHERE UserId = 1893 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'樊建国' ,MobilePhone = N'17854387611' ,HomePhone = N'13396495220' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区8#01单元2层02房间'WHERE UserId = 1894 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'朱艳红' ,MobilePhone = N'13805434560' ,[Address] = N'滨州市直黄河08路御景苑17#2单元2403'WHERE UserId = 1895 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘长梅' ,HomePhone = N'13561568332' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）9#2单元501'WHERE UserId = 1897 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'沈剑锋' ,MobilePhone = N'18860552188' ,HomePhone = N'15053077868' ,[Address] = N'滨州市直黄河08路御景苑17#1单元201'WHERE UserId = 1898 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田明明' ,MobilePhone = N'18454309045' ,HomePhone = N'18766499300' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）16#1单元402'WHERE UserId = 1902 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵亮' ,MobilePhone = N'18354346150' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河05路尚座小区1#2单元402'WHERE UserId = 1908 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王世龙' ,MobilePhone = N'13561505072' ,HomePhone = N'3356249' ,[Address] = N'滨州市直黄河08路市建委8#02单元2层01房间'WHERE UserId = 1909 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'臧军建' ,MobilePhone = N'18366870562' ,HomePhone = N'13675431227' ,[Address] = N'滨州市直黄河02路五四鑫苑4#3单元702'WHERE UserId = 1910 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘焕焕' ,MobilePhone = N'15266725456' ,HomePhone = N'15898899697' ,[Address] = N'滨州市直黄河05路尚座小区1#3单元1702'WHERE UserId = 1911 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'唐勇' ,HomePhone = N'13173283277' ,[Address] = N'滨州市直黄河08路市建委13#02单元5层02房间'WHERE UserId = 1912 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卢长宝' ,HomePhone = N'13793895981' ,[Address] = N'博兴县南区寨郝站01寨卢村平房无(2778)'WHERE UserId = 1916 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曹玉平' ,MobilePhone = N'18769656681' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河04路齐鲁花园西座2单元3101'WHERE UserId = 1918 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张美' ,MobilePhone = N'13561500988' ,HomePhone = N'18366898107' ,[Address] = N'滨州市直黄河08路宝地锦绣城4#01单元9层01号'WHERE UserId = 1920 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙建勇' ,MobilePhone = N'13506378446' ,HomePhone = N'13854319225' ,[Address] = N'滨州市直黄河08路宝地锦绣城9#01单元8层02房间'WHERE UserId = 1921 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郭秀霞' ,MobilePhone = N'15254721863' ,HomePhone = N'13355435113' ,[Address] = N'滨州市直黄河08路宝地锦绣城12#02单元4层04房间'WHERE UserId = 1922 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'耿学玲' ,MobilePhone = N'13505432020' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河01路秀水花园1#1单元801'WHERE UserId = 1923 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孔凡芳' ,MobilePhone = N'18663080230' ,HomePhone = N'00000000' ,[Address] = N'滨州市直渤海13路彩虹佳苑小区2#3单元601'WHERE UserId = 1924 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王玉春' ,HomePhone = N'13375431191' ,[Address] = N'滨州市直黄河08路宝地锦绣城10#01单元10层02房间'WHERE UserId = 1928 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'薛宝官' ,MobilePhone = N'15005436893' ,[Address] = N'滨州市直黄河08路宝地锦绣城3#01单元8层02号'WHERE UserId = 1931 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'石丽萍' ,MobilePhone = N'13676309568' ,HomePhone = N'15964076786' ,[Address] = N'滨州市直黄河08路宝地锦绣城8#02单元5层02号'WHERE UserId = 1936 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张勇' ,MobilePhone = N'15966378861' ,HomePhone = N'13655438618' ,[Address] = N'滨州市直黄河08路宝地锦绣城5#02单元8层01号'WHERE UserId = 1938 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张学峰' ,MobilePhone = N'13706375420' ,HomePhone = N'15762168689' ,[Address] = N'滨州市直黄河08路宝地锦绣城9#01单元5层01房间'WHERE UserId = 1939 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'卜小梅' ,MobilePhone = N'15154368402' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑4#1单元402'WHERE UserId = 1946 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘红芳' ,MobilePhone = N'13205430101' ,HomePhone = N'13145433078' ,[Address] = N'滨州市直黄河08路宝地锦绣城6#01单元1层01号'WHERE UserId = 1947 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵光顺' ,MobilePhone = N'18954319580' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路莱钢新高都1#1单元3001'WHERE UserId = 1957 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张强（杨洪民代办）' ,MobilePhone = N'13255431720' ,[Address] = N'滨州市直黄河08路宝地锦绣城12#02单元11层04房间'WHERE UserId = 1958 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李红明' ,MobilePhone = N'18454304931' ,HomePhone = N'13054688909+1306' ,[Address] = N'滨州市直黄河08路宝地锦绣城11#01单元16层01房间'WHERE UserId = 1962 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张相彬' ,MobilePhone = N'13754683338' ,HomePhone = N'13173296166' ,[Address] = N'滨州市直黄河08路宝地锦绣城4#01单元5层02号'WHERE UserId = 1964 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨浦' ,MobilePhone = N'13561558080' ,HomePhone = N'18366800950' ,[Address] = N'滨州市直黄河08路宝地锦绣城7#01单元2层02号'WHERE UserId = 1966 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李官波' ,MobilePhone = N'13884868111' ,HomePhone = N'21' ,[Address] = N'滨州市直黄河08路宝地锦绣城8#01单元11层01号'WHERE UserId = 1967 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孟凡磊' ,MobilePhone = N'18654307745' ,HomePhone = N'13021526211' ,[Address] = N'滨州市直黄河02路晨升家园1#1单元601'WHERE UserId = 1969 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘会峰' ,MobilePhone = N'18954319705' ,[Address] = N'滨州市直黄河08路宝地锦绣城7#01单元8层01号'WHERE UserId = 1973 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'金昌斌' ,MobilePhone = N'13305439233' ,HomePhone = N'18554300393' ,[Address] = N'滨州市直黄河08路宝地锦绣城4#02单元1层02号'WHERE UserId = 1974 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'曲伟华' ,MobilePhone = N'13406155072' ,[Address] = N'滨州市直黄河08路宝地锦绣城13#01单元12层01房间'WHERE UserId = 1975 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'何涛' ,MobilePhone = N'18765093664' ,HomePhone = N'13793882954' ,[Address] = N'滨州市直黄河08路宝地锦绣城10#01单元13层01房间'WHERE UserId = 1976 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张传山' ,MobilePhone = N'15865218731' ,HomePhone = N'13665431791' ,[Address] = N'滨州市直黄河03路仁和家园1#01单元8层01号'WHERE UserId = 1763 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'黎梅' ,MobilePhone = N'18663086708' ,HomePhone = N'13645439898' ,[Address] = N'滨州市直黄河02路怡华苑（多加一副终端）8#1单元701'WHERE UserId = 1768 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'郝玉同' ,MobilePhone = N'13220701118' ,[Address] = N'博兴县南区寨郝站01寨卢村平房郝玉同'WHERE UserId = 1772 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王硕' ,HomePhone = N'18765438999' ,[Address] = N'滨州市直渤海24路腾宇鑫苑5#1单元502'WHERE UserId = 1773 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'梁金启' ,MobilePhone = N'13563074637' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路莱钢新高都6#1单元103'WHERE UserId = 1775 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王相敬' ,MobilePhone = N'13465098981' ,[Address] = N'滨州市直渤海07路区经贸委南楼1#01单元1层01房间'WHERE UserId = 1797 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王建力' ,MobilePhone = N'13153588561' ,HomePhone = N'3217161' ,[Address] = N'滨州市直渤海07路区经贸委北楼2#01单元2层02房间'WHERE UserId = 1799 
+      
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘志东' ,MobilePhone = N'17862052855' ,HomePhone = N'17862038083' ,[Address] = N'滨州市直黄河02路五四鑫苑4#3单元1502'WHERE UserId = 1866 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'享TV3个大区演示' ,MobilePhone = N'13005436666' ,HomePhone = N'2112788' ,[Address] = N'滨州市直黄河08路市广电局市场部享TV大区演示（渤海大区黄河大区开发大区）'WHERE UserId = 1883 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王健' ,MobilePhone = N'15854338889' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路御景苑15#2单元3301'WHERE UserId = 1890 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田文美' ,MobilePhone = N'3256961' ,HomePhone = N'13854309108' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区24#01单元10层01号'WHERE UserId = 1891 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘涛' ,MobilePhone = N'17862031219' ,HomePhone = N'18654371060' ,[Address] = N'滨州市直黄河08路御景苑16#1单元101'WHERE UserId = 1904 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'徐广强' ,MobilePhone = N'13954387008' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路御景苑16#1单元2101'WHERE UserId = 1905 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'孙光辉' ,MobilePhone = N'18663090500' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路御景苑17#2单元303'WHERE UserId = 1906 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马林红' ,MobilePhone = N'15305437277' ,HomePhone = N'3365677' ,[Address] = N'滨州市直黄河08路市建委9#03单元4层01房间'WHERE UserId = 1913 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周俊昌' ,MobilePhone = N'13589739608' ,HomePhone = N'18754318238' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区25#01单元3层01房间'WHERE UserId = 1915 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'于程' ,MobilePhone = N'13563079688' ,[Address] = N'滨州市直黄河08路宝地锦绣城13#01单元7层02房间'WHERE UserId = 1927 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杜玉珏' ,MobilePhone = N'15166806225' ,HomePhone = N'15066909355' ,[Address] = N'滨州市直黄河05路安顺小区2#3单元401'WHERE UserId = 1944 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'陈玉红' ,HomePhone = N'15965431108' ,[Address] = N'滨州市直黄河02路五四鑫苑4#2单元1202'WHERE UserId = 1948 
+      
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'邱树光' ,HomePhone = N'15305435592' ,[Address] = N'滨州市直黄河08路宝地锦绣城9#01单元2层01房间'WHERE UserId = 1968 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋延平' ,MobilePhone = N'15563042630' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河04路齐鲁花园西座1单元901'WHERE UserId = 1971 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'姚建利' ,HomePhone = N'13405437566' ,[Address] = N'滨州市直黄河02路莱钢新高都2#1单元1502'WHERE UserId = 1978 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'薛蒙蒙' ,MobilePhone = N'15762160395' ,HomePhone = N'13455775792' ,[Address] = N'滨州市直渤海12路德坤华府16#1单元2602'WHERE UserId = 1979 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李莉娟' ,MobilePhone = N'15305437999' ,HomePhone = N'15154319767' ,[Address] = N'滨州市直黄河08路宝地锦绣城7#01单元1层01号'WHERE UserId = 1981 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王晓蓓' ,MobilePhone = N'18605438339' ,HomePhone = N'18678330310' ,[Address] = N'滨州市直渤海03路爱情公寓7#2单元102'WHERE UserId = 1985 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王明泉' ,MobilePhone = N'13905435543' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河01路秀水花园3#1单元1202'WHERE UserId = 1988 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘洪超' ,MobilePhone = N'15266726668' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河01路秀水花园3#2单元1001'WHERE UserId = 1990 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'毕东山' ,MobilePhone = N'15205431833' ,HomePhone = N'3333788' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区10#01单元2层02房间'WHERE UserId = 1994 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'周千千' ,MobilePhone = N'18769671321' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#3单元1602'WHERE UserId = 1996 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵俊超' ,MobilePhone = N'18266571413' ,HomePhone = N'15550622477' ,[Address] = N'滨州市直黄河02路晨升家园2#1单元401'WHERE UserId = 1998 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'宋香荣' ,MobilePhone = N'18769605877' ,HomePhone = N'18769605877' ,[Address] = N'滨州市直渤海08路颐馨园5#2单元602'WHERE UserId = 1999 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'于立卫' ,HomePhone = N'13506370928' ,[Address] = N'滨州市直渤海08路颐馨园1#2单元102'WHERE UserId = 1793 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'0' ,[Address] = N'滨州市直黄河05路大学饭店客房大学厅'WHERE UserId = 1812 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'0' ,[Address] = N'滨州市直黄河05路大学饭店客房亲民厅'WHERE UserId = 1815 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房近道厅'WHERE UserId = 1816 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房天子厅'WHERE UserId = 1817 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房格物厅'WHERE UserId = 1818 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房致知厅'WHERE UserId = 1819 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房国治厅'WHERE UserId = 1824 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房兴仁厅'WHERE UserId = 1825 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房赤子厅'WHERE UserId = 1826 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房能得厅'WHERE UserId = 1827 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房能虑厅'WHERE UserId = 1828 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房能安厅'WHERE UserId = 1830 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'无名' ,HomePhone = N'1' ,[Address] = N'滨州市直黄河05路大学饭店客房能静厅'WHERE UserId = 1831 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'胡云江' ,MobilePhone = N'13475089009' ,HomePhone = N'13475089009' ,[Address] = N'滨州市直黄河03路仁和家园1#01单元1层01号'WHERE UserId = 1873 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王亚盟' ,MobilePhone = N'3256580' ,HomePhone = N'13001521617' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区10#02单元2层02房间'WHERE UserId = 1880 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王红霞' ,MobilePhone = N'15969995745' ,HomePhone = N'15215432258' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区27#02单元8层02号'WHERE UserId = 1896 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵祝兰' ,MobilePhone = N'15006968162' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河08路御景苑15#1单元401'WHERE UserId = 1899 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'辛全英' ,MobilePhone = N'18754323298' ,HomePhone = N'18678319656' ,[Address] = N'滨州市直黄河01路秀水花园1#2单元1802'WHERE UserId = 1914 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'崔振乾' ,MobilePhone = N'13561599987' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河01路秀水花园2#2单元501'WHERE UserId = 1943 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'陈盈盈' ,MobilePhone = N'15969998884' ,HomePhone = N'18254362558' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元1001'WHERE UserId = 1949 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李梅' ,MobilePhone = N'13188898188' ,HomePhone = N'15628985388' ,[Address] = N'滨州市直黄河01路秀水花园3#1单元101'WHERE UserId = 1951 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨翠霞' ,MobilePhone = N'18763072016' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河05路尚座小区2#2单元603'WHERE UserId = 1952 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨玲' ,MobilePhone = N'13805439807' ,HomePhone = N'13505430896' ,[Address] = N'滨州市直黄河08路御景苑17#2单元1803'WHERE UserId = 1953 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'韩鲁峰' ,MobilePhone = N'13188904000' ,HomePhone = N'15615431789' ,[Address] = N'滨州市直黄河02路五四鑫苑4#2单元602'WHERE UserId = 1954 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张国营' ,MobilePhone = N'13061015179' ,HomePhone = N'15865434529' ,[Address] = N'滨州市直渤海11路渤海家园4#2单元102'WHERE UserId = 1959 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'于泽福' ,MobilePhone = N'13854339648' ,HomePhone = N'8187607' ,[Address] = N'滨州市直黄河08路宝地锦绣城5#02单元1层01号'WHERE UserId = 1961 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'殷悦' ,MobilePhone = N'15552701176' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河06路绿都华庭4#2单元1403'WHERE UserId = 1963 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'寇延涛' ,MobilePhone = N'13561502050' ,HomePhone = N'49' ,[Address] = N'滨州市直黄河08路宝地锦绣城6#02单元8层01号'WHERE UserId = 1982 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王新海' ,MobilePhone = N'13562342418' ,[Address] = N'滨州市直黄河08路宝地锦绣城12#02单元5层03房间'WHERE UserId = 1984 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'蒋海防（雷礼斌代办）' ,MobilePhone = N'13589708533' ,[Address] = N'滨州市直黄河08路市建委10#02单元4层02房间'WHERE UserId = 1995 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'董云' ,MobilePhone = N'15376490865' ,HomePhone = N'15965419781' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区1#01单元3层01号'WHERE UserId = 1879 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'田来刚' ,MobilePhone = N'15154368187' ,[Address] = N'滨州市直黄河08路宝地锦绣城10#01单元7层01房间'WHERE UserId = 1942 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'乔志明' ,MobilePhone = N'13605430160' ,HomePhone = N'3261510' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区17#01单元3层02房间'WHERE UserId = 1892 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'付华升' ,MobilePhone = N'15554316041' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河05路尚座小区1#1单元901'WHERE UserId = 1907 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘梦聪' ,MobilePhone = N'18605435627' ,[Address] = N'滨州市直黄河08路宝地锦绣城12#01单元21层01房间'WHERE UserId = 1917 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李长山' ,MobilePhone = N'15854308922' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑4#2单元1602'WHERE UserId = 1919 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘卫滨' ,MobilePhone = N'13905430630' ,HomePhone = N'3395588' ,[Address] = N'滨州市直长江02路四季花城9#2单元202'WHERE UserId = 1925 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王祺雯' ,HomePhone = N'15066909099' ,[Address] = N'滨州市直黄河08路宝地锦绣城3#03单元2层01号'WHERE UserId = 1929 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨荣光' ,MobilePhone = N'13305438818' ,HomePhone = N'13305431101' ,[Address] = N'滨州市直黄河08路宝地锦绣城7#01单元1层02号'WHERE UserId = 1930 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张瑞祥' ,MobilePhone = N'15550280952' ,[Address] = N'滨州市直黄河08路宝地锦绣城11#01单元20层01房间'WHERE UserId = 1932 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张亭亭' ,MobilePhone = N'15154318431' ,HomePhone = N'15154319431' ,[Address] = N'滨州市直黄河08路宝地锦绣城13#01单元10层01房间'WHERE UserId = 1933 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'武振民' ,MobilePhone = N'15966375898' ,[Address] = N'滨州市直黄河08路宝地锦绣城3#03单元6层01号'WHERE UserId = 1934 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张云涛' ,MobilePhone = N'15564077575' ,[Address] = N'滨州市直黄河02路万鑫·时代新城小区4#01单元1层01号'WHERE UserId = 1935 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'王永清' ,MobilePhone = N'18905430218' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#1单元1501'WHERE UserId = 1940 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'杨蕊' ,MobilePhone = N'13475433717' ,[Address] = N'滨州市直黄河08路宝地锦绣城9#01单元9层01房间'WHERE UserId = 1941 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'刘绪兰' ,MobilePhone = N'13906499583' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑4#1单元1702'WHERE UserId = 1945 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高晓' ,MobilePhone = N'18860526116' ,HomePhone = N'13455789999' ,[Address] = N'滨州市直黄河05路尚座小区1#1单元1201'WHERE UserId = 1956 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高洪军' ,MobilePhone = N'13012725392' ,HomePhone = N'16' ,[Address] = N'滨州市直黄河08路宝地锦绣城8#01单元8层02号'WHERE UserId = 1965 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'张珊珊' ,MobilePhone = N'13561508680' ,HomePhone = N'00000000' ,[Address] = N'滨州市直黄河02路五四鑫苑3#2单元402'WHERE UserId = 1970 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'林晨' ,MobilePhone = N'13105430863' ,[Address] = N'滨州市直黄河08路宝地锦绣城11#01单元18层01房间'WHERE UserId = 1972 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'高蕊' ,MobilePhone = N'18054312999' ,HomePhone = N'00000000' ,[Address] = N'滨城区郊区(郊区一片区)玉龙湖畔14#楼2单元1502'WHERE UserId = 1986 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李鹏' ,MobilePhone = N'15966356280' ,HomePhone = N'15954331997' ,[Address] = N'滨州市直黄河02路莱钢新高都5#1单元2302'WHERE UserId = 1987 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'李国良' ,MobilePhone = N'18906492856' ,[Address] = N'滨州市直黄河01路秀水花园1#1单元201'WHERE UserId = 1989 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'马军胜' ,HomePhone = N'18754318800' ,[Address] = N'滨州市直黄河08路华天·滨中嘉园北院23#03单元1层02号'WHERE UserId = 1992 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'赵院珍' ,MobilePhone = N'15169999797' ,HomePhone = N'44' ,[Address] = N'滨州市直黄河08路宝地锦绣城3#02单元11层02号'WHERE UserId = 1977 
+   
+UPDATE UserInfoCore SET Email = Email  ,TrueName = N'吕焕云' ,MobilePhone = N'18769681873' ,HomePhone = N'13561544449' ,[Address] = N'滨州市直黄河04路康家南院4#05单元3层01房间'WHERE UserId = 1997 
+   
