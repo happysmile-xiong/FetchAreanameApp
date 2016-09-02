@@ -12,7 +12,7 @@ namespace FetchAreaname.Model
 
         public UserInfo()
         {
-            _id = Guid.NewGuid();
+            _id = Guid.NewGuid();   
         }
 
         public string UserId { get; set; }
